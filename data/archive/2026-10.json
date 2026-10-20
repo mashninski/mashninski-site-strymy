@@ -893,6 +893,10 @@
     "mihas_gareza": {
       "added_at": "2026-09-11",
       "categories": {
+        "A Little to the Left": {
+          "launches": 1,
+          "minutes": 194
+        },
         "Big Walk": {
           "launches": 1,
           "minutes": 75
@@ -957,9 +961,9 @@
       "display_name": "Mihas_Gareza",
       "followers_end": null,
       "followers_start": 198,
-      "hours": [217,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,270,803,801,521],
-      "launches": 14,
-      "minutes": 2641,
+      "hours": [229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,273,863,861,581],
+      "launches": 15,
+      "minutes": 2835,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-29T21:19:48Z",
       "sessions": [
@@ -1032,6 +1036,11 @@
           "duration_min": 250,
           "ended_at": "2026-10-19T21:14:43Z",
           "started_at": "2026-10-19T17:04:27Z"
+        },
+        {
+          "duration_min": 194,
+          "ended_at": "2026-10-20T21:11:38Z",
+          "started_at": "2026-10-20T17:57:28Z"
         }
       ]
     },
@@ -1915,5 +1924,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-20T21:06:34Z"
+  "updated_at": "2026-10-20T21:13:16Z"
 }
