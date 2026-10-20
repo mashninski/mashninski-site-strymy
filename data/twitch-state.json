@@ -907,6 +907,21 @@
       "display_name": "Dzed_Ahey",
       "history": [
         {
+          "duration_min": 132,
+          "ended_at": "2026-10-20T20:13:04Z",
+          "game": "Control",
+          "source": "vod",
+          "started_at": "2026-10-20T18:00:49Z",
+          "stream_id": "319022389221",
+          "title": "Гуляем у Control па-беларуску",
+          "vod": {
+            "gone": false,
+            "id": "2906082267",
+            "seen_at": "2026-10-20T20:14:37Z",
+            "url": "https://www.twitch.tv/videos/2906082267"
+          }
+        },
+        {
           "duration_min": 1,
           "ended_at": "2026-10-20T18:00:55Z",
           "game": "Control",
@@ -993,26 +1008,26 @@
         }
       ],
       "last_stream": {
-        "duration_min": 1,
-        "ended_at": "2026-10-20T18:00:55Z",
+        "duration_min": 132,
+        "ended_at": "2026-10-20T20:13:04Z",
         "game": "Control",
         "source": "vod",
-        "started_at": "2026-10-20T18:00:54Z",
+        "started_at": "2026-10-20T18:00:49Z",
         "stream_id": "319022389221",
         "title": "Гуляем у Control па-беларуску",
         "vod": {
           "gone": false,
           "id": "2906082267",
-          "seen_at": "2026-10-20T18:00:55Z",
+          "seen_at": "2026-10-20T20:14:37Z",
           "url": "https://www.twitch.tv/videos/2906082267"
         }
       },
       "live": {
-        "game": "Control",
-        "since": "2026-10-20T18:00:49Z",
-        "stream_id": "319022389221",
-        "title": "Гуляем у Control па-беларуску",
-        "viewers": 4
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b3e18b5-6d45-4af2-9abb-eec6eb3a1264-profile_image-300x300.png",
@@ -2049,7 +2064,7 @@
         "since": "2026-10-20T16:32:23Z",
         "stream_id": "317099577686",
         "title": "\"Няхай спраўдзяцца іх мары, няхай яны павераць у сябе і няхай яны пасмяюцца над сваім запалам\"",
-        "viewers": 4
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -4073,7 +4088,7 @@
         "since": "2026-10-20T18:22:25Z",
         "stream_id": "318884161127",
         "title": "Спробуем дабіць сюжэт від Іринка подруга",
-        "viewers": 10
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4707,12 +4722,12 @@
         "since": "2026-10-20T15:52:57Z",
         "stream_id": "317144952660",
         "title": "🔥Вітаначкі шаноўныя🥰@watafakablr",
-        "viewers": 13
+        "viewers": 12
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-20T20:11:15Z"
+  "updated_at": "2026-10-20T20:14:37Z"
 }

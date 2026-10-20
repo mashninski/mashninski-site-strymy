@@ -292,8 +292,8 @@
           "minutes": 118
         },
         "Control": {
-          "launches": 1,
-          "minutes": 0
+          "launches": 2,
+          "minutes": 132
         },
         "Penguin Colony": {
           "launches": 2,
@@ -303,9 +303,9 @@
       "display_name": "Dzed_Ahey",
       "followers_end": null,
       "followers_start": 41,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,60,13,38,60,25],
-      "launches": 4,
-      "minutes": 242,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,60,13,97,120,38],
+      "launches": 5,
+      "minutes": 374,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-24T23:42:33Z",
       "sessions": [
@@ -323,6 +323,11 @@
           "duration_min": 113,
           "ended_at": "2026-10-16T20:25:05Z",
           "started_at": "2026-10-16T18:31:49Z"
+        },
+        {
+          "duration_min": 132,
+          "ended_at": "2026-10-20T20:13:04Z",
+          "started_at": "2026-10-20T18:00:49Z"
         },
         {
           "duration_min": 1,
@@ -1900,5 +1905,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-20T20:11:00Z"
+  "updated_at": "2026-10-20T20:14:37Z"
 }
