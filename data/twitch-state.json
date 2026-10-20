@@ -1012,7 +1012,7 @@
         "since": "2026-10-20T18:00:49Z",
         "stream_id": "319022389221",
         "title": "Гуляем у Control па-беларуску",
-        "viewers": 5
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/8b3e18b5-6d45-4af2-9abb-eec6eb3a1264-profile_image-300x300.png",
@@ -2049,7 +2049,7 @@
         "since": "2026-10-20T16:32:23Z",
         "stream_id": "317099577686",
         "title": "\"Няхай спраўдзяцца іх мары, няхай яны павераць у сябе і няхай яны пасмяюцца над сваім запалам\"",
-        "viewers": 5
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -2781,7 +2781,7 @@
         "since": "2026-10-20T17:57:28Z",
         "stream_id": "319022314725",
         "title": "[BLR] Размоўны стрым. Крыху ўлева. Індзі аўторак",
-        "viewers": 4
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -2916,6 +2916,21 @@
       "description": "Штодзённыя стрымы - маляванне і гульні. Утульнасць, дзіўныя казкі, дранікі. Ніякага \"ші\".",
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
+        {
+          "duration_min": 130,
+          "ended_at": "2026-10-20T20:09:21Z",
+          "game": "Art",
+          "source": "vod",
+          "started_at": "2026-10-20T17:59:46Z",
+          "stream_id": "318883737319",
+          "title": "Найжудаснейшы павук",
+          "vod": {
+            "gone": false,
+            "id": "2906080856",
+            "seen_at": "2026-10-20T20:11:00Z",
+            "url": "https://www.twitch.tv/videos/2906080856"
+          }
+        },
         {
           "duration_min": 128,
           "ended_at": "2026-10-19T20:07:48Z",
@@ -3195,44 +3210,29 @@
             "seen_at": "2026-10-03T21:09:51Z",
             "url": "https://www.twitch.tv/videos/2890939369"
           }
-        },
-        {
-          "duration_min": 125,
-          "ended_at": "2026-10-02T20:05:35Z",
-          "game": "Just Chatting",
-          "source": "vod",
-          "started_at": "2026-10-02T18:00:35Z",
-          "stream_id": "317029879252",
-          "title": "Глядзім \"Гарызонт падзей\" 1997, і трохі стыму вядома",
-          "vod": {
-            "gone": false,
-            "id": "2889965749",
-            "seen_at": "2026-10-02T20:07:45Z",
-            "url": "https://www.twitch.tv/videos/2889965749"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 128,
-        "ended_at": "2026-10-19T20:07:48Z",
+        "duration_min": 130,
+        "ended_at": "2026-10-20T20:09:21Z",
         "game": "Art",
         "source": "vod",
-        "started_at": "2026-10-19T17:59:18Z",
-        "stream_id": "319009881701",
-        "title": "Лупашым",
+        "started_at": "2026-10-20T17:59:46Z",
+        "stream_id": "318883737319",
+        "title": "Найжудаснейшы павук",
         "vod": {
           "gone": false,
-          "id": "2905223754",
-          "seen_at": "2026-10-19T20:09:30Z",
-          "url": "https://www.twitch.tv/videos/2905223754"
+          "id": "2906080856",
+          "seen_at": "2026-10-20T20:11:00Z",
+          "url": "https://www.twitch.tv/videos/2906080856"
         }
       },
       "live": {
-        "game": "Art",
-        "since": "2026-10-20T17:59:46Z",
-        "stream_id": "318883737319",
-        "title": "Найжудаснейшы павук",
-        "viewers": 6
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4073,7 +4073,7 @@
         "since": "2026-10-20T18:22:25Z",
         "stream_id": "318884161127",
         "title": "Спробуем дабіць сюжэт від Іринка подруга",
-        "viewers": 6
+        "viewers": 10
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4707,12 +4707,12 @@
         "since": "2026-10-20T15:52:57Z",
         "stream_id": "317144952660",
         "title": "🔥Вітаначкі шаноўныя🥰@watafakablr",
-        "viewers": 12
+        "viewers": 13
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-20T20:00:53Z"
+  "updated_at": "2026-10-20T20:11:00Z"
 }
