@@ -1,0 +1,1899 @@
+{
+  "collecting_since": "2026-09-23",
+  "month": "2026-10",
+  "streamers": {
+    "angryralef": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "Banquet for Fools": {
+          "launches": 1,
+          "minutes": 231
+        },
+        "Beyond Good & Evil": {
+          "launches": 1,
+          "minutes": 221
+        },
+        "CONTROL Resonant": {
+          "launches": 4,
+          "minutes": 878
+        },
+        "Control": {
+          "launches": 2,
+          "minutes": 468
+        },
+        "Disco Elysium": {
+          "launches": 1,
+          "minutes": 221
+        },
+        "Lucius": {
+          "launches": 1,
+          "minutes": 234
+        },
+        "MediEvil": {
+          "launches": 1,
+          "minutes": 10
+        },
+        "Overlord II": {
+          "launches": 1,
+          "minutes": 7
+        },
+        "P.T.": {
+          "launches": 2,
+          "minutes": 205
+        },
+        "SILENT HILL: townfall": {
+          "launches": 1,
+          "minutes": 173
+        },
+        "Whispers in the Moss": {
+          "launches": 1,
+          "minutes": 206
+        }
+      },
+      "display_name": "AngryRalef",
+      "followers_end": null,
+      "followers_start": 1293,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,626,780,778,658,11,0,0,0,0,0,0,0,0],
+      "launches": 16,
+      "minutes": 2854,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-09-30T12:11:27Z",
+      "sessions": [
+        {
+          "duration_min": 206,
+          "ended_at": "2026-10-01T11:39:06Z",
+          "started_at": "2026-10-01T08:12:49Z"
+        },
+        {
+          "duration_min": 234,
+          "ended_at": "2026-10-02T12:02:23Z",
+          "started_at": "2026-10-02T08:08:27Z"
+        },
+        {
+          "duration_min": 226,
+          "ended_at": "2026-10-05T11:53:34Z",
+          "started_at": "2026-10-05T08:07:49Z"
+        },
+        {
+          "duration_min": 242,
+          "ended_at": "2026-10-06T12:06:37Z",
+          "started_at": "2026-10-06T08:04:35Z"
+        },
+        {
+          "duration_min": 209,
+          "ended_at": "2026-10-07T11:38:38Z",
+          "started_at": "2026-10-07T08:09:36Z"
+        },
+        {
+          "duration_min": 231,
+          "ended_at": "2026-10-08T12:01:45Z",
+          "started_at": "2026-10-08T08:10:31Z"
+        },
+        {
+          "duration_min": 221,
+          "ended_at": "2026-10-09T11:52:44Z",
+          "started_at": "2026-10-09T08:11:58Z"
+        },
+        {
+          "duration_min": 222,
+          "ended_at": "2026-10-12T11:52:36Z",
+          "started_at": "2026-10-12T08:11:02Z"
+        },
+        {
+          "duration_min": 231,
+          "ended_at": "2026-10-13T11:59:42Z",
+          "started_at": "2026-10-13T08:08:38Z"
+        },
+        {
+          "duration_min": 216,
+          "ended_at": "2026-10-14T11:53:08Z",
+          "started_at": "2026-10-14T08:16:59Z"
+        },
+        {
+          "duration_min": 109,
+          "ended_at": "2026-10-15T10:00:36Z",
+          "started_at": "2026-10-15T08:11:31Z"
+        },
+        {
+          "duration_min": 96,
+          "ended_at": "2026-10-15T11:39:21Z",
+          "started_at": "2026-10-15T10:03:26Z"
+        },
+        {
+          "duration_min": 10,
+          "ended_at": "2026-10-16T08:27:12Z",
+          "started_at": "2026-10-16T08:17:39Z"
+        },
+        {
+          "duration_min": 7,
+          "ended_at": "2026-10-16T08:40:18Z",
+          "started_at": "2026-10-16T08:32:53Z"
+        },
+        {
+          "duration_min": 173,
+          "ended_at": "2026-10-16T11:33:12Z",
+          "started_at": "2026-10-16T08:40:31Z"
+        },
+        {
+          "duration_min": 221,
+          "ended_at": "2026-10-19T11:55:09Z",
+          "started_at": "2026-10-19T08:14:16Z"
+        }
+      ]
+    },
+    "annigilatormg42": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "Dungeons 3": {
+          "launches": 2,
+          "minutes": 235
+        },
+        "Empire: Total War": {
+          "launches": 2,
+          "minutes": 379
+        },
+        "Gallipoli": {
+          "launches": 1,
+          "minutes": 126
+        },
+        "Painkiller": {
+          "launches": 1,
+          "minutes": 137
+        },
+        "Total War: WARHAMMER III": {
+          "launches": 3,
+          "minutes": 571
+        }
+      },
+      "display_name": "annigilatormg42",
+      "followers_end": null,
+      "followers_start": 54,
+      "hours": [81,60,42,0,0,0,0,0,0,0,0,0,0,0,0,0,35,81,251,300,182,173,124,119],
+      "launches": 9,
+      "minutes": 1448,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-09-29T21:46:12Z",
+      "sessions": [
+        {
+          "duration_min": 203,
+          "ended_at": "2026-10-03T18:35:04Z",
+          "started_at": "2026-10-03T15:12:04Z"
+        },
+        {
+          "duration_min": 126,
+          "ended_at": "2026-10-03T23:42:30Z",
+          "started_at": "2026-10-03T21:36:27Z"
+        },
+        {
+          "duration_min": 127,
+          "ended_at": "2026-10-04T17:08:12Z",
+          "started_at": "2026-10-04T15:01:16Z"
+        },
+        {
+          "duration_min": 119,
+          "ended_at": "2026-10-06T21:57:15Z",
+          "started_at": "2026-10-06T19:58:30Z"
+        },
+        {
+          "duration_min": 137,
+          "ended_at": "2026-10-07T20:58:53Z",
+          "started_at": "2026-10-07T18:41:46Z"
+        },
+        {
+          "duration_min": 222,
+          "ended_at": "2026-10-11T17:07:42Z",
+          "started_at": "2026-10-11T13:25:27Z"
+        },
+        {
+          "duration_min": 116,
+          "ended_at": "2026-10-16T19:43:43Z",
+          "started_at": "2026-10-16T17:47:41Z"
+        },
+        {
+          "duration_min": 176,
+          "ended_at": "2026-10-17T17:34:01Z",
+          "started_at": "2026-10-17T14:38:31Z"
+        },
+        {
+          "duration_min": 222,
+          "ended_at": "2026-10-18T19:17:35Z",
+          "started_at": "2026-10-18T15:36:01Z"
+        }
+      ]
+    },
+    "bel_asch": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "Dragon Age: Inquisition": {
+          "launches": 3,
+          "minutes": 485
+        },
+        "The Order: 1886": {
+          "launches": 5,
+          "minutes": 594
+        }
+      },
+      "display_name": "Bel_Asch",
+      "followers_end": null,
+      "followers_start": 207,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,103,120,136,171,243,176,103],
+      "launches": 8,
+      "minutes": 1080,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-09-28T19:35:58Z",
+      "sessions": [
+        {
+          "duration_min": 145,
+          "ended_at": "2026-10-03T19:36:53Z",
+          "started_at": "2026-10-03T17:11:53Z"
+        },
+        {
+          "duration_min": 166,
+          "ended_at": "2026-10-07T17:03:39Z",
+          "started_at": "2026-10-07T14:17:28Z"
+        },
+        {
+          "duration_min": 171,
+          "ended_at": "2026-10-09T16:24:29Z",
+          "started_at": "2026-10-09T13:33:11Z"
+        },
+        {
+          "duration_min": 127,
+          "ended_at": "2026-10-12T20:46:48Z",
+          "started_at": "2026-10-12T18:39:47Z"
+        },
+        {
+          "duration_min": 172,
+          "ended_at": "2026-10-13T20:55:40Z",
+          "started_at": "2026-10-13T18:03:52Z"
+        },
+        {
+          "duration_min": 192,
+          "ended_at": "2026-10-16T19:19:21Z",
+          "started_at": "2026-10-16T16:07:39Z"
+        },
+        {
+          "duration_min": 106,
+          "ended_at": "2026-10-17T18:46:41Z",
+          "started_at": "2026-10-17T17:00:41Z"
+        },
+        {
+          "duration_min": 1,
+          "ended_at": "2026-10-17T17:00:55Z",
+          "started_at": "2026-10-17T17:00:46Z"
+        }
+      ]
+    },
+    "dzed_ahey": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "CONTROL Resonant": {
+          "launches": 1,
+          "minutes": 118
+        },
+        "Control": {
+          "launches": 1,
+          "minutes": 0
+        },
+        "Penguin Colony": {
+          "launches": 2,
+          "minutes": 123
+        }
+      },
+      "display_name": "Dzed_Ahey",
+      "followers_end": null,
+      "followers_start": 41,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,60,13,38,60,25],
+      "launches": 4,
+      "minutes": 242,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-09-24T23:42:33Z",
+      "sessions": [
+        {
+          "duration_min": 118,
+          "ended_at": "2026-10-10T17:12:42Z",
+          "started_at": "2026-10-10T15:14:46Z"
+        },
+        {
+          "duration_min": 10,
+          "ended_at": "2026-10-16T18:31:07Z",
+          "started_at": "2026-10-16T18:20:55Z"
+        },
+        {
+          "duration_min": 113,
+          "ended_at": "2026-10-16T20:25:05Z",
+          "started_at": "2026-10-16T18:31:49Z"
+        },
+        {
+          "duration_min": 1,
+          "ended_at": "2026-10-20T18:00:55Z",
+          "started_at": "2026-10-20T18:00:54Z"
+        }
+      ]
+    },
+    "dzedmaksim": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "Crysis 2": {
+          "launches": 2,
+          "minutes": 346
+        },
+        "Farming Simulator 25": {
+          "launches": 1,
+          "minutes": 168
+        },
+        "Forever Ago": {
+          "launches": 2,
+          "minutes": 240
+        },
+        "The Long Dark": {
+          "launches": 6,
+          "minutes": 1379
+        },
+        "The Witcher 3: Wild Hunt": {
+          "launches": 3,
+          "minutes": 622
+        }
+      },
+      "display_name": "DzedMaksim",
+      "followers_end": null,
+      "followers_start": 228,
+      "hours": [0,0,0,0,0,0,0,0,0,6,447,745,818,679,61,0,0,0,0,0,0,0,0,0],
+      "launches": 14,
+      "minutes": 2755,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-09-30T11:19:32Z",
+      "sessions": [
+        {
+          "duration_min": 235,
+          "ended_at": "2026-10-01T11:03:16Z",
+          "started_at": "2026-10-01T07:08:41Z"
+        },
+        {
+          "duration_min": 205,
+          "ended_at": "2026-10-02T10:42:58Z",
+          "started_at": "2026-10-02T07:18:16Z"
+        },
+        {
+          "duration_min": 168,
+          "ended_at": "2026-10-05T11:02:32Z",
+          "started_at": "2026-10-05T08:14:29Z"
+        },
+        {
+          "duration_min": 191,
+          "ended_at": "2026-10-06T10:55:23Z",
+          "started_at": "2026-10-06T07:44:21Z"
+        },
+        {
+          "duration_min": 178,
+          "ended_at": "2026-10-07T11:08:25Z",
+          "started_at": "2026-10-07T08:10:17Z"
+        },
+        {
+          "duration_min": 262,
+          "ended_at": "2026-10-08T11:19:00Z",
+          "started_at": "2026-10-08T06:56:32Z"
+        },
+        {
+          "duration_min": 228,
+          "ended_at": "2026-10-09T10:50:17Z",
+          "started_at": "2026-10-09T07:02:08Z"
+        },
+        {
+          "duration_min": 174,
+          "ended_at": "2026-10-12T11:05:03Z",
+          "started_at": "2026-10-12T08:11:25Z"
+        },
+        {
+          "duration_min": 246,
+          "ended_at": "2026-10-13T11:03:31Z",
+          "started_at": "2026-10-13T06:57:17Z"
+        },
+        {
+          "duration_min": 168,
+          "ended_at": "2026-10-14T09:51:53Z",
+          "started_at": "2026-10-14T07:04:19Z"
+        },
+        {
+          "duration_min": 243,
+          "ended_at": "2026-10-15T11:19:03Z",
+          "started_at": "2026-10-15T07:16:12Z"
+        },
+        {
+          "duration_min": 189,
+          "ended_at": "2026-10-16T10:35:22Z",
+          "started_at": "2026-10-16T07:26:22Z"
+        },
+        {
+          "duration_min": 66,
+          "ended_at": "2026-10-19T10:20:15Z",
+          "started_at": "2026-10-19T09:14:00Z"
+        },
+        {
+          "duration_min": 202,
+          "ended_at": "2026-10-20T10:55:32Z",
+          "started_at": "2026-10-20T07:33:37Z"
+        }
+      ]
+    },
+    "evildive": {
+      "added_at": "2026-09-11",
+      "categories": {},
+      "display_name": "evildive",
+      "followers_end": null,
+      "followers_start": 77,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 0,
+      "minutes": 0,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": []
+    },
+    "impani4": {
+      "added_at": "2026-10-03",
+      "categories": {
+        "GeoGuessr": {
+          "launches": 2,
+          "minutes": 490
+        }
+      },
+      "display_name": "imPani4",
+      "followers_end": null,
+      "followers_start": 120,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,107,120,120,120,24,0,0,0,0],
+      "launches": 2,
+      "minutes": 490,
+      "prev_broadcast_at": "2026-10-03T15:36:12Z",
+      "prev_ended_at": null,
+      "sessions": [
+        {
+          "duration_min": 237,
+          "ended_at": "2026-10-10T15:59:46Z",
+          "started_at": "2026-10-10T12:02:34Z"
+        },
+        {
+          "duration_min": 253,
+          "ended_at": "2026-10-17T16:23:52Z",
+          "started_at": "2026-10-17T12:10:30Z"
+        }
+      ]
+    },
+    "k4mbeg": {
+      "added_at": "2026-09-11",
+      "categories": {},
+      "display_name": "K4mbeg",
+      "followers_end": null,
+      "followers_start": 38,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 0,
+      "minutes": 0,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": []
+    },
+    "kryvichanka": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "Assassin's Creed Shadows": {
+          "launches": 2,
+          "minutes": 287
+        },
+        "Starfield": {
+          "launches": 15,
+          "minutes": 1333
+        }
+      },
+      "display_name": "Kryvichanka",
+      "followers_end": null,
+      "followers_start": 144,
+      "hours": [95,196,134,123,99,236,310,226,23,0,0,0,0,0,0,0,0,0,2,60,25,0,40,51],
+      "launches": 17,
+      "minutes": 1620,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-09-26T02:01:32Z",
+      "sessions": [
+        {
+          "duration_min": 56,
+          "ended_at": "2026-10-03T01:08:12Z",
+          "started_at": "2026-10-03T00:11:42Z"
+        },
+        {
+          "duration_min": 283,
+          "ended_at": "2026-10-07T05:08:52Z",
+          "started_at": "2026-10-07T00:25:42Z"
+        },
+        {
+          "duration_min": 110,
+          "ended_at": "2026-10-08T04:01:03Z",
+          "started_at": "2026-10-08T02:10:38Z"
+        },
+        {
+          "duration_min": 82,
+          "ended_at": "2026-10-08T20:41:06Z",
+          "started_at": "2026-10-08T19:19:31Z"
+        },
+        {
+          "duration_min": 2,
+          "ended_at": "2026-10-08T22:03:55Z",
+          "started_at": "2026-10-08T22:02:16Z"
+        },
+        {
+          "duration_min": 113,
+          "ended_at": "2026-10-09T04:07:44Z",
+          "started_at": "2026-10-09T02:14:25Z"
+        },
+        {
+          "duration_min": 63,
+          "ended_at": "2026-10-09T23:21:56Z",
+          "started_at": "2026-10-09T22:19:22Z"
+        },
+        {
+          "duration_min": 187,
+          "ended_at": "2026-10-11T00:32:06Z",
+          "started_at": "2026-10-10T21:24:40Z"
+        },
+        {
+          "duration_min": 52,
+          "ended_at": "2026-10-12T23:18:54Z",
+          "started_at": "2026-10-12T22:26:57Z"
+        },
+        {
+          "duration_min": 10,
+          "ended_at": "2026-10-13T03:52:38Z",
+          "started_at": "2026-10-13T03:42:52Z"
+        },
+        {
+          "duration_min": 50,
+          "ended_at": "2026-10-13T05:05:15Z",
+          "started_at": "2026-10-13T04:15:16Z"
+        },
+        {
+          "duration_min": 88,
+          "ended_at": "2026-10-14T17:25:26Z",
+          "started_at": "2026-10-14T15:57:32Z"
+        },
+        {
+          "duration_min": 169,
+          "ended_at": "2026-10-15T05:09:15Z",
+          "started_at": "2026-10-15T02:20:26Z"
+        },
+        {
+          "duration_min": 37,
+          "ended_at": "2026-10-18T00:08:46Z",
+          "started_at": "2026-10-17T23:31:57Z"
+        },
+        {
+          "duration_min": 31,
+          "ended_at": "2026-10-18T02:00:36Z",
+          "started_at": "2026-10-18T01:29:11Z"
+        },
+        {
+          "duration_min": 152,
+          "ended_at": "2026-10-18T04:51:38Z",
+          "started_at": "2026-10-18T02:19:33Z"
+        },
+        {
+          "duration_min": 135,
+          "ended_at": "2026-10-18T23:04:50Z",
+          "started_at": "2026-10-18T20:49:54Z"
+        }
+      ]
+    },
+    "kurisu_illusia": {
+      "added_at": "2026-09-11",
+      "categories": {},
+      "display_name": "kurisu_illusia",
+      "followers_end": null,
+      "followers_start": 1003,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 0,
+      "minutes": 0,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": []
+    },
+    "lepus81": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "Battlefield 6": {
+          "launches": 2,
+          "minutes": 388
+        },
+        "Dishonored": {
+          "launches": 1,
+          "minutes": 173
+        },
+        "Ghost of Yōtei": {
+          "launches": 1,
+          "minutes": 164
+        },
+        "Ready or Not": {
+          "launches": 2,
+          "minutes": 377
+        },
+        "S.T.A.L.K.E.R. 2: Heart of Chornobyl": {
+          "launches": 4,
+          "minutes": 814
+        }
+      },
+      "display_name": "lepus81",
+      "followers_end": null,
+      "followers_start": 632,
+      "hours": [36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,213,240,238,280,300,320,167,60],
+      "launches": 10,
+      "minutes": 1916,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-09-30T20:55:42Z",
+      "sessions": [
+        {
+          "duration_min": 210,
+          "ended_at": "2026-10-01T19:43:32Z",
+          "started_at": "2026-10-01T16:13:42Z"
+        },
+        {
+          "duration_min": 173,
+          "ended_at": "2026-10-02T19:34:26Z",
+          "started_at": "2026-10-02T16:41:06Z"
+        },
+        {
+          "duration_min": 179,
+          "ended_at": "2026-10-04T16:26:28Z",
+          "started_at": "2026-10-04T13:27:20Z"
+        },
+        {
+          "duration_min": 247,
+          "ended_at": "2026-10-06T19:24:02Z",
+          "started_at": "2026-10-06T15:16:33Z"
+        },
+        {
+          "duration_min": 196,
+          "ended_at": "2026-10-07T16:09:15Z",
+          "started_at": "2026-10-07T12:53:05Z"
+        },
+        {
+          "duration_min": 164,
+          "ended_at": "2026-10-08T15:09:22Z",
+          "started_at": "2026-10-08T12:25:47Z"
+        },
+        {
+          "duration_min": 167,
+          "ended_at": "2026-10-08T18:44:25Z",
+          "started_at": "2026-10-08T15:57:35Z"
+        },
+        {
+          "duration_min": 192,
+          "ended_at": "2026-10-17T21:36:17Z",
+          "started_at": "2026-10-17T18:24:07Z"
+        },
+        {
+          "duration_min": 203,
+          "ended_at": "2026-10-18T19:05:16Z",
+          "started_at": "2026-10-18T15:42:06Z"
+        },
+        {
+          "duration_min": 185,
+          "ended_at": "2026-10-19T15:46:26Z",
+          "started_at": "2026-10-19T12:41:46Z"
+        }
+      ]
+    },
+    "lilzorka_": {
+      "added_at": "2026-09-11",
+      "categories": {},
+      "display_name": "lilzorka_",
+      "followers_end": null,
+      "followers_start": 130,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 0,
+      "minutes": 0,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": []
+    },
+    "lucii7vel": {
+      "added_at": "2026-09-11",
+      "categories": {},
+      "display_name": "lucii7vel",
+      "followers_end": null,
+      "followers_start": 74,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 0,
+      "minutes": 0,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": []
+    },
+    "marhinez": {
+      "added_at": "2026-09-11",
+      "categories": {},
+      "display_name": "marhinez",
+      "followers_end": null,
+      "followers_start": 230,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 0,
+      "minutes": 0,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": []
+    },
+    "mashninski": {
+      "added_at": "2026-09-11",
+      "categories": {
+        " SEKIRO: SHADOWS DIE TWICE": {
+          "launches": 3,
+          "minutes": 428
+        },
+        "Alan Wake's American Nightmare": {
+          "launches": 1,
+          "minutes": 78
+        },
+        "Big Walk": {
+          "launches": 1,
+          "minutes": 78
+        },
+        "DOOM": {
+          "launches": 1,
+          "minutes": 223
+        },
+        "Goose Goose Duck": {
+          "launches": 1,
+          "minutes": 106
+        },
+        "How to Fish": {
+          "launches": 1,
+          "minutes": 162
+        },
+        "Just Chatting": {
+          "launches": 1,
+          "minutes": 123
+        },
+        "RV There Yet?": {
+          "launches": 1,
+          "minutes": 252
+        },
+        "The Witcher 3: Wild Hunt": {
+          "launches": 5,
+          "minutes": 735
+        },
+        "The Witcher 3: Wild Hunt Remastered": {
+          "launches": 5,
+          "minutes": 533
+        },
+        "Without a Dawn": {
+          "launches": 1,
+          "minutes": 102
+        }
+      },
+      "display_name": "mashninski",
+      "followers_end": null,
+      "followers_start": 162,
+      "hours": [10,0,0,0,0,0,0,0,0,0,0,0,0,71,120,126,207,138,219,477,642,489,261,60],
+      "launches": 17,
+      "minutes": 2820,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-09-30T18:06:44Z",
+      "sessions": [
+        {
+          "duration_min": 145,
+          "ended_at": "2026-10-01T17:41:41Z",
+          "started_at": "2026-10-01T15:16:41Z"
+        },
+        {
+          "duration_min": 206,
+          "ended_at": "2026-10-02T19:12:37Z",
+          "started_at": "2026-10-02T15:46:24Z"
+        },
+        {
+          "duration_min": 205,
+          "ended_at": "2026-10-03T16:18:40Z",
+          "started_at": "2026-10-03T12:54:07Z"
+        },
+        {
+          "duration_min": 226,
+          "ended_at": "2026-10-04T14:06:47Z",
+          "started_at": "2026-10-04T10:21:00Z"
+        },
+        {
+          "duration_min": 217,
+          "ended_at": "2026-10-05T19:34:44Z",
+          "started_at": "2026-10-05T15:57:42Z"
+        },
+        {
+          "duration_min": 164,
+          "ended_at": "2026-10-06T16:16:43Z",
+          "started_at": "2026-10-06T13:32:55Z"
+        },
+        {
+          "duration_min": 184,
+          "ended_at": "2026-10-07T19:57:11Z",
+          "started_at": "2026-10-07T16:52:51Z"
+        },
+        {
+          "duration_min": 189,
+          "ended_at": "2026-10-08T19:24:06Z",
+          "started_at": "2026-10-08T16:15:20Z"
+        },
+        {
+          "duration_min": 123,
+          "ended_at": "2026-10-09T18:22:45Z",
+          "started_at": "2026-10-09T16:19:54Z"
+        },
+        {
+          "duration_min": 147,
+          "ended_at": "2026-10-13T18:17:13Z",
+          "started_at": "2026-10-13T15:50:39Z"
+        },
+        {
+          "duration_min": 13,
+          "ended_at": "2026-10-14T16:16:30Z",
+          "started_at": "2026-10-14T16:03:02Z"
+        },
+        {
+          "duration_min": 10,
+          "ended_at": "2026-10-14T16:36:28Z",
+          "started_at": "2026-10-14T16:26:02Z"
+        },
+        {
+          "duration_min": 170,
+          "ended_at": "2026-10-14T19:30:09Z",
+          "started_at": "2026-10-14T16:39:57Z"
+        },
+        {
+          "duration_min": 166,
+          "ended_at": "2026-10-15T19:42:27Z",
+          "started_at": "2026-10-15T16:56:43Z"
+        },
+        {
+          "duration_min": 223,
+          "ended_at": "2026-10-18T14:11:07Z",
+          "started_at": "2026-10-18T10:28:29Z"
+        },
+        {
+          "duration_min": 252,
+          "ended_at": "2026-10-19T21:09:37Z",
+          "started_at": "2026-10-19T16:57:17Z"
+        },
+        {
+          "duration_min": 180,
+          "ended_at": "2026-10-20T18:29:20Z",
+          "started_at": "2026-10-20T15:28:50Z"
+        }
+      ]
+    },
+    "mihas_gareza": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "Big Walk": {
+          "launches": 1,
+          "minutes": 75
+        },
+        "Echo Mates": {
+          "launches": 1,
+          "minutes": 46
+        },
+        "Goose Goose Duck": {
+          "launches": 1,
+          "minutes": 105
+        },
+        "Grand Theft Auto V": {
+          "launches": 2,
+          "minutes": 419
+        },
+        "HELLDIVERS 2": {
+          "launches": 1,
+          "minutes": 247
+        },
+        "How to Fish": {
+          "launches": 1,
+          "minutes": 319
+        },
+        "RESIDENT EVIL: requiem": {
+          "launches": 1,
+          "minutes": 88
+        },
+        "RV There Yet?": {
+          "launches": 1,
+          "minutes": 204
+        },
+        "Serious Sam 3: BFE": {
+          "launches": 2,
+          "minutes": 340
+        },
+        "Serious Sam: The Second Encounter": {
+          "launches": 1,
+          "minutes": 119
+        },
+        "The Exit 8": {
+          "launches": 1,
+          "minutes": 97
+        },
+        "The Witcher 3: Wild Hunt Remastered": {
+          "launches": 1,
+          "minutes": 250
+        },
+        "Valor Mortis": {
+          "launches": 1,
+          "minutes": 97
+        },
+        "Vampire Survivors": {
+          "launches": 1,
+          "minutes": 107
+        },
+        "Way of the Hunter 2": {
+          "launches": 1,
+          "minutes": 128
+        }
+      },
+      "display_name": "Mihas_Gareza",
+      "followers_end": null,
+      "followers_start": 198,
+      "hours": [217,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,270,803,801,521],
+      "launches": 14,
+      "minutes": 2641,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-09-29T21:19:48Z",
+      "sessions": [
+        {
+          "duration_min": 119,
+          "ended_at": "2026-10-01T19:53:38Z",
+          "started_at": "2026-10-01T17:54:49Z"
+        },
+        {
+          "duration_min": 128,
+          "ended_at": "2026-10-04T20:07:57Z",
+          "started_at": "2026-10-04T17:59:55Z"
+        },
+        {
+          "duration_min": 319,
+          "ended_at": "2026-10-05T21:53:16Z",
+          "started_at": "2026-10-05T16:34:16Z"
+        },
+        {
+          "duration_min": 195,
+          "ended_at": "2026-10-06T21:09:36Z",
+          "started_at": "2026-10-06T17:55:03Z"
+        },
+        {
+          "duration_min": 180,
+          "ended_at": "2026-10-07T19:54:54Z",
+          "started_at": "2026-10-07T16:55:04Z"
+        },
+        {
+          "duration_min": 188,
+          "ended_at": "2026-10-08T21:07:06Z",
+          "started_at": "2026-10-08T17:58:36Z"
+        },
+        {
+          "duration_min": 200,
+          "ended_at": "2026-10-09T21:28:16Z",
+          "started_at": "2026-10-09T18:08:26Z"
+        },
+        {
+          "duration_min": 250,
+          "ended_at": "2026-10-11T21:43:42Z",
+          "started_at": "2026-10-11T17:33:29Z"
+        },
+        {
+          "duration_min": 219,
+          "ended_at": "2026-10-12T21:39:47Z",
+          "started_at": "2026-10-12T18:01:02Z"
+        },
+        {
+          "duration_min": 97,
+          "ended_at": "2026-10-13T20:05:10Z",
+          "started_at": "2026-10-13T18:27:48Z"
+        },
+        {
+          "duration_min": 247,
+          "ended_at": "2026-10-14T21:19:59Z",
+          "started_at": "2026-10-14T17:13:15Z"
+        },
+        {
+          "duration_min": 152,
+          "ended_at": "2026-10-15T20:28:27Z",
+          "started_at": "2026-10-15T17:56:15Z"
+        },
+        {
+          "duration_min": 97,
+          "ended_at": "2026-10-18T19:32:25Z",
+          "started_at": "2026-10-18T17:55:16Z"
+        },
+        {
+          "duration_min": 250,
+          "ended_at": "2026-10-19T21:14:43Z",
+          "started_at": "2026-10-19T17:04:27Z"
+        }
+      ]
+    },
+    "ms_bahiema": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "Dressmaker (2026)": {
+          "launches": 1,
+          "minutes": 232
+        },
+        "Minecraft": {
+          "launches": 1,
+          "minutes": 243
+        }
+      },
+      "display_name": "ms_bahiema",
+      "followers_end": null,
+      "followers_start": 938,
+      "hours": [51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,60,60,60,12,13,60,60,60],
+      "launches": 2,
+      "minutes": 475,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": [
+        {
+          "duration_min": 232,
+          "ended_at": "2026-10-02T16:12:30Z",
+          "started_at": "2026-10-02T12:20:14Z"
+        },
+        {
+          "duration_min": 243,
+          "ended_at": "2026-10-04T21:50:50Z",
+          "started_at": "2026-10-04T17:47:29Z"
+        }
+      ]
+    },
+    "mx_oda": {
+      "added_at": "2026-09-11",
+      "categories": {},
+      "display_name": "mx_oda",
+      "followers_end": null,
+      "followers_start": 162,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 0,
+      "minutes": 0,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": []
+    },
+    "nine_ravens_cemetery": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "Art": {
+          "launches": 12,
+          "minutes": 1485
+        },
+        "Just Chatting": {
+          "launches": 4,
+          "minutes": 417
+        },
+        "Thief: Deadly Shadows": {
+          "launches": 5,
+          "minutes": 692
+        }
+      },
+      "display_name": "Nine_Ravens_Cemetery",
+      "followers_end": null,
+      "followers_start": 298,
+      "hours": [32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,1136,1140,261],
+      "launches": 21,
+      "minutes": 2596,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-09-30T20:20:53Z",
+      "sessions": [
+        {
+          "duration_min": 125,
+          "ended_at": "2026-10-01T20:04:07Z",
+          "started_at": "2026-10-01T17:59:34Z"
+        },
+        {
+          "duration_min": 125,
+          "ended_at": "2026-10-02T20:05:35Z",
+          "started_at": "2026-10-02T18:00:35Z"
+        },
+        {
+          "duration_min": 165,
+          "ended_at": "2026-10-03T20:43:25Z",
+          "started_at": "2026-10-03T17:58:25Z"
+        },
+        {
+          "duration_min": 122,
+          "ended_at": "2026-10-04T20:02:37Z",
+          "started_at": "2026-10-04T18:01:00Z"
+        },
+        {
+          "duration_min": 212,
+          "ended_at": "2026-10-05T21:31:51Z",
+          "started_at": "2026-10-05T17:59:40Z"
+        },
+        {
+          "duration_min": 122,
+          "ended_at": "2026-10-06T20:01:35Z",
+          "started_at": "2026-10-06T17:59:43Z"
+        },
+        {
+          "duration_min": 132,
+          "ended_at": "2026-10-07T20:10:46Z",
+          "started_at": "2026-10-07T17:58:30Z"
+        },
+        {
+          "duration_min": 126,
+          "ended_at": "2026-10-08T20:05:01Z",
+          "started_at": "2026-10-08T17:58:36Z"
+        },
+        {
+          "duration_min": 127,
+          "ended_at": "2026-10-09T20:06:44Z",
+          "started_at": "2026-10-09T18:00:07Z"
+        },
+        {
+          "duration_min": 1,
+          "ended_at": "2026-10-09T18:00:24Z",
+          "started_at": "2026-10-09T18:00:17Z"
+        },
+        {
+          "duration_min": 165,
+          "ended_at": "2026-10-10T20:46:28Z",
+          "started_at": "2026-10-10T18:01:52Z"
+        },
+        {
+          "duration_min": 130,
+          "ended_at": "2026-10-11T20:09:30Z",
+          "started_at": "2026-10-11T17:59:58Z"
+        },
+        {
+          "duration_min": 125,
+          "ended_at": "2026-10-12T20:03:17Z",
+          "started_at": "2026-10-12T17:57:53Z"
+        },
+        {
+          "duration_min": 130,
+          "ended_at": "2026-10-13T20:10:06Z",
+          "started_at": "2026-10-13T18:00:08Z"
+        },
+        {
+          "duration_min": 1,
+          "ended_at": "2026-10-13T18:00:22Z",
+          "started_at": "2026-10-13T18:00:17Z"
+        },
+        {
+          "duration_min": 128,
+          "ended_at": "2026-10-14T20:06:46Z",
+          "started_at": "2026-10-14T17:59:04Z"
+        },
+        {
+          "duration_min": 128,
+          "ended_at": "2026-10-15T20:06:50Z",
+          "started_at": "2026-10-15T17:58:56Z"
+        },
+        {
+          "duration_min": 129,
+          "ended_at": "2026-10-16T20:03:45Z",
+          "started_at": "2026-10-16T17:55:00Z"
+        },
+        {
+          "duration_min": 143,
+          "ended_at": "2026-10-17T20:21:53Z",
+          "started_at": "2026-10-17T17:58:40Z"
+        },
+        {
+          "duration_min": 132,
+          "ended_at": "2026-10-18T20:02:34Z",
+          "started_at": "2026-10-18T17:50:43Z"
+        },
+        {
+          "duration_min": 128,
+          "ended_at": "2026-10-19T20:07:48Z",
+          "started_at": "2026-10-19T17:59:18Z"
+        }
+      ]
+    },
+    "radyjo_holas": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "Just Chatting": {
+          "launches": 9,
+          "minutes": 25920
+        }
+      },
+      "display_name": "radyjo_holas",
+      "followers_end": null,
+      "followers_start": 65,
+      "hours": [1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080],
+      "launches": 9,
+      "minutes": 25920,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-10-02T00:32:59Z",
+      "sessions": [
+        {
+          "duration_min": 2880,
+          "ended_at": "2026-10-04T00:33:11Z",
+          "started_at": "2026-10-02T00:32:59Z"
+        },
+        {
+          "duration_min": 2880,
+          "ended_at": "2026-10-06T00:33:22Z",
+          "started_at": "2026-10-04T00:33:11Z"
+        },
+        {
+          "duration_min": 2880,
+          "ended_at": "2026-10-08T00:33:33Z",
+          "started_at": "2026-10-06T00:33:22Z"
+        },
+        {
+          "duration_min": 2880,
+          "ended_at": "2026-10-10T00:33:44Z",
+          "started_at": "2026-10-08T00:33:33Z"
+        },
+        {
+          "duration_min": 2880,
+          "ended_at": "2026-10-12T00:33:55Z",
+          "started_at": "2026-10-10T00:33:44Z"
+        },
+        {
+          "duration_min": 2880,
+          "ended_at": "2026-10-14T00:34:07Z",
+          "started_at": "2026-10-12T00:33:55Z"
+        },
+        {
+          "duration_min": 2880,
+          "ended_at": "2026-10-16T00:34:18Z",
+          "started_at": "2026-10-14T00:34:07Z"
+        },
+        {
+          "duration_min": 2880,
+          "ended_at": "2026-10-18T00:34:29Z",
+          "started_at": "2026-10-16T00:34:18Z"
+        },
+        {
+          "duration_min": 2880,
+          "ended_at": "2026-10-20T00:34:40Z",
+          "started_at": "2026-10-18T00:34:29Z"
+        }
+      ]
+    },
+    "rudzi_belarus": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "Fallout 2": {
+          "launches": 1,
+          "minutes": 125
+        },
+        "SILENT HILL: townfall": {
+          "launches": 9,
+          "minutes": 734
+        },
+        "The Witcher 3: Wild Hunt Remastered": {
+          "launches": 3,
+          "minutes": 86
+        },
+        "Whiskerwood": {
+          "launches": 2,
+          "minutes": 106
+        }
+      },
+      "display_name": "Rudzi_Belarus",
+      "followers_end": null,
+      "followers_start": 926,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,7,443,442,117,39,0,0,0,0,0,0],
+      "launches": 15,
+      "minutes": 1052,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-09-30T13:00:27Z",
+      "sessions": [
+        {
+          "duration_min": 125,
+          "ended_at": "2026-10-01T14:38:53Z",
+          "started_at": "2026-10-01T12:34:19Z"
+        },
+        {
+          "duration_min": 32,
+          "ended_at": "2026-10-05T11:38:19Z",
+          "started_at": "2026-10-05T11:06:46Z"
+        },
+        {
+          "duration_min": 74,
+          "ended_at": "2026-10-05T13:31:11Z",
+          "started_at": "2026-10-05T12:16:41Z"
+        },
+        {
+          "duration_min": 131,
+          "ended_at": "2026-10-06T13:09:16Z",
+          "started_at": "2026-10-06T10:58:43Z"
+        },
+        {
+          "duration_min": 2,
+          "ended_at": "2026-10-06T13:11:58Z",
+          "started_at": "2026-10-06T13:10:00Z"
+        },
+        {
+          "duration_min": 32,
+          "ended_at": "2026-10-07T11:32:20Z",
+          "started_at": "2026-10-07T11:00:06Z"
+        },
+        {
+          "duration_min": 115,
+          "ended_at": "2026-10-08T12:50:51Z",
+          "started_at": "2026-10-08T10:56:02Z"
+        },
+        {
+          "duration_min": 125,
+          "ended_at": "2026-10-09T13:09:13Z",
+          "started_at": "2026-10-09T11:04:22Z"
+        },
+        {
+          "duration_min": 2,
+          "ended_at": "2026-10-14T11:03:53Z",
+          "started_at": "2026-10-14T11:01:38Z"
+        },
+        {
+          "duration_min": 1,
+          "ended_at": "2026-10-14T11:09:17Z",
+          "started_at": "2026-10-14T11:08:52Z"
+        },
+        {
+          "duration_min": 83,
+          "ended_at": "2026-10-14T12:46:14Z",
+          "started_at": "2026-10-14T11:23:14Z"
+        },
+        {
+          "duration_min": 89,
+          "ended_at": "2026-10-15T12:43:13Z",
+          "started_at": "2026-10-15T11:14:38Z"
+        },
+        {
+          "duration_min": 125,
+          "ended_at": "2026-10-19T13:06:01Z",
+          "started_at": "2026-10-19T11:00:35Z"
+        },
+        {
+          "duration_min": 1,
+          "ended_at": "2026-10-19T11:00:53Z",
+          "started_at": "2026-10-19T11:00:40Z"
+        },
+        {
+          "duration_min": 115,
+          "ended_at": "2026-10-20T12:53:10Z",
+          "started_at": "2026-10-20T10:58:24Z"
+        }
+      ]
+    },
+    "shagrael_by": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "Big Walk": {
+          "launches": 1,
+          "minutes": 88
+        },
+        "Counter-Strike": {
+          "launches": 4,
+          "minutes": 681
+        },
+        "ELDEN RING": {
+          "launches": 2,
+          "minutes": 297
+        },
+        "Echo Mates": {
+          "launches": 1,
+          "minutes": 56
+        },
+        "Escape the Backrooms": {
+          "launches": 1,
+          "minutes": 301
+        },
+        "Fatekeeper": {
+          "launches": 1,
+          "minutes": 250
+        },
+        "Fortnite": {
+          "launches": 2,
+          "minutes": 87
+        },
+        "Goose Goose Duck": {
+          "launches": 1,
+          "minutes": 98
+        },
+        "How to Fish": {
+          "launches": 1,
+          "minutes": 366
+        },
+        "Kingdom Come: Deliverance": {
+          "launches": 2,
+          "minutes": 594
+        },
+        "R.E.P.O.": {
+          "launches": 1,
+          "minutes": 160
+        },
+        "RV There Yet?": {
+          "launches": 1,
+          "minutes": 210
+        },
+        "Ready or Not": {
+          "launches": 2,
+          "minutes": 334
+        },
+        "Species: Unknown": {
+          "launches": 1,
+          "minutes": 361
+        },
+        "The Witcher 3: Wild Hunt Remastered": {
+          "launches": 3,
+          "minutes": 988
+        },
+        "Valheim": {
+          "launches": 14,
+          "minutes": 4950
+        },
+        "Waterpark Simulator": {
+          "launches": 3,
+          "minutes": 662
+        }
+      },
+      "display_name": "ShagraeL_BY",
+      "followers_end": null,
+      "followers_start": 998,
+      "hours": [1080,1080,1045,1017,957,900,721,298,51,0,0,0,0,0,0,0,0,0,0,162,337,753,1002,1080],
+      "launches": 18,
+      "minutes": 10485,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-10-01T01:57:14Z",
+      "sessions": [
+        {
+          "duration_min": 437,
+          "ended_at": "2026-10-01T23:25:10Z",
+          "started_at": "2026-10-01T16:07:50Z"
+        },
+        {
+          "duration_min": 586,
+          "ended_at": "2026-10-03T03:44:44Z",
+          "started_at": "2026-10-02T17:58:44Z"
+        },
+        {
+          "duration_min": 574,
+          "ended_at": "2026-10-04T03:39:50Z",
+          "started_at": "2026-10-03T18:05:50Z"
+        },
+        {
+          "duration_min": 550,
+          "ended_at": "2026-10-05T03:19:44Z",
+          "started_at": "2026-10-04T18:09:54Z"
+        },
+        {
+          "duration_min": 738,
+          "ended_at": "2026-10-06T04:39:17Z",
+          "started_at": "2026-10-05T16:21:27Z"
+        },
+        {
+          "duration_min": 560,
+          "ended_at": "2026-10-07T03:50:14Z",
+          "started_at": "2026-10-06T18:30:44Z"
+        },
+        {
+          "duration_min": 722,
+          "ended_at": "2026-10-08T04:54:13Z",
+          "started_at": "2026-10-07T16:52:32Z"
+        },
+        {
+          "duration_min": 711,
+          "ended_at": "2026-10-09T03:51:40Z",
+          "started_at": "2026-10-08T16:00:50Z"
+        },
+        {
+          "duration_min": 468,
+          "ended_at": "2026-10-10T03:40:52Z",
+          "started_at": "2026-10-09T19:52:42Z"
+        },
+        {
+          "duration_min": 453,
+          "ended_at": "2026-10-12T00:57:10Z",
+          "started_at": "2026-10-11T17:24:10Z"
+        },
+        {
+          "duration_min": 444,
+          "ended_at": "2026-10-13T01:56:57Z",
+          "started_at": "2026-10-12T18:32:46Z"
+        },
+        {
+          "duration_min": 603,
+          "ended_at": "2026-10-14T04:19:29Z",
+          "started_at": "2026-10-13T18:16:29Z"
+        },
+        {
+          "duration_min": 538,
+          "ended_at": "2026-10-15T04:23:29Z",
+          "started_at": "2026-10-14T19:25:09Z"
+        },
+        {
+          "duration_min": 542,
+          "ended_at": "2026-10-16T03:23:38Z",
+          "started_at": "2026-10-15T18:22:08Z"
+        },
+        {
+          "duration_min": 646,
+          "ended_at": "2026-10-17T05:36:03Z",
+          "started_at": "2026-10-16T18:49:43Z"
+        },
+        {
+          "duration_min": 639,
+          "ended_at": "2026-10-18T04:42:46Z",
+          "started_at": "2026-10-17T18:03:35Z"
+        },
+        {
+          "duration_min": 640,
+          "ended_at": "2026-10-19T05:15:13Z",
+          "started_at": "2026-10-18T18:35:23Z"
+        },
+        {
+          "duration_min": 634,
+          "ended_at": "2026-10-20T03:28:40Z",
+          "started_at": "2026-10-19T16:55:00Z"
+        }
+      ]
+    },
+    "sla5her_by": {
+      "added_at": "2026-10-08",
+      "categories": {
+        "HELLDIVERS 2": {
+          "launches": 1,
+          "minutes": 246
+        }
+      },
+      "display_name": "Sla5her_BY",
+      "followers_end": null,
+      "followers_start": 313,
+      "hours": [22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,60,60,60],
+      "launches": 1,
+      "minutes": 246,
+      "prev_broadcast_at": "2026-10-07T19:53:47Z",
+      "prev_ended_at": null,
+      "sessions": [
+        {
+          "duration_min": 246,
+          "ended_at": "2026-10-14T21:21:38Z",
+          "started_at": "2026-10-14T17:15:59Z"
+        }
+      ]
+    },
+    "toddzie": {
+      "added_at": "2026-09-11",
+      "categories": {},
+      "display_name": "Toddzie",
+      "followers_end": null,
+      "followers_start": 411,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 0,
+      "minutes": 0,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": []
+    },
+    "toidrygizpg": {
+      "added_at": "2026-10-08",
+      "categories": {
+        "The Witcher 3: Wild Hunt": {
+          "launches": 2,
+          "minutes": 494
+        }
+      },
+      "display_name": "toidrygizpg",
+      "followers_end": null,
+      "followers_start": 45,
+      "hours": [0,0,0,0,0,0,0,0,0,0,42,60,54,0,0,23,60,60,60,60,60,15,0,0],
+      "launches": 2,
+      "minutes": 494,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": [
+        {
+          "duration_min": 338,
+          "ended_at": "2026-10-08T18:14:41Z",
+          "started_at": "2026-10-08T12:37:03Z"
+        },
+        {
+          "duration_min": 156,
+          "ended_at": "2026-10-09T09:53:48Z",
+          "started_at": "2026-10-09T07:17:50Z"
+        }
+      ]
+    },
+    "ucenamescy": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "Apex Legends": {
+          "launches": 2,
+          "minutes": 351
+        },
+        "Big Walk": {
+          "launches": 1,
+          "minutes": 77
+        },
+        "Echo Mates": {
+          "launches": 1,
+          "minutes": 170
+        },
+        "Games + Demos": {
+          "launches": 1,
+          "minutes": 82
+        },
+        "Goose Goose Duck": {
+          "launches": 1,
+          "minutes": 105
+        },
+        "How to Fish": {
+          "launches": 1,
+          "minutes": 301
+        },
+        "Mewgenics": {
+          "launches": 2,
+          "minutes": 368
+        },
+        "RV There Yet?": {
+          "launches": 3,
+          "minutes": 102
+        },
+        "Ready or Not": {
+          "launches": 3,
+          "minutes": 288
+        },
+        "Shadows of Doubt": {
+          "launches": 1,
+          "minutes": 159
+        },
+        "Species: Unknown": {
+          "launches": 2,
+          "minutes": 145
+        }
+      },
+      "display_name": "Ucenamescy",
+      "followers_end": null,
+      "followers_start": 142,
+      "hours": [140,57,0,0,0,0,0,0,0,0,0,0,0,27,90,180,174,158,24,118,349,317,280,235],
+      "launches": 12,
+      "minutes": 2151,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-09-23T20:51:32Z",
+      "sessions": [
+        {
+          "duration_min": 143,
+          "ended_at": "2026-10-01T18:36:30Z",
+          "started_at": "2026-10-01T16:13:36Z"
+        },
+        {
+          "duration_min": 124,
+          "ended_at": "2026-10-03T21:08:31Z",
+          "started_at": "2026-10-03T19:04:38Z"
+        },
+        {
+          "duration_min": 324,
+          "ended_at": "2026-10-05T21:54:52Z",
+          "started_at": "2026-10-05T16:30:37Z"
+        },
+        {
+          "duration_min": 182,
+          "ended_at": "2026-10-06T13:34:41Z",
+          "started_at": "2026-10-06T10:33:05Z"
+        },
+        {
+          "duration_min": 183,
+          "ended_at": "2026-10-07T20:06:05Z",
+          "started_at": "2026-10-07T17:03:12Z"
+        },
+        {
+          "duration_min": 144,
+          "ended_at": "2026-10-08T18:41:01Z",
+          "started_at": "2026-10-08T16:16:38Z"
+        },
+        {
+          "duration_min": 159,
+          "ended_at": "2026-10-11T19:44:34Z",
+          "started_at": "2026-10-11T17:05:26Z"
+        },
+        {
+          "duration_min": 166,
+          "ended_at": "2026-10-13T22:57:15Z",
+          "started_at": "2026-10-13T20:11:10Z"
+        },
+        {
+          "duration_min": 169,
+          "ended_at": "2026-10-15T14:37:50Z",
+          "started_at": "2026-10-15T11:48:58Z"
+        },
+        {
+          "duration_min": 202,
+          "ended_at": "2026-10-16T15:02:25Z",
+          "started_at": "2026-10-16T11:40:40Z"
+        },
+        {
+          "duration_min": 253,
+          "ended_at": "2026-10-19T21:15:38Z",
+          "started_at": "2026-10-19T17:02:51Z"
+        },
+        {
+          "duration_min": 102,
+          "ended_at": "2026-10-20T15:22:25Z",
+          "started_at": "2026-10-20T13:40:41Z"
+        }
+      ]
+    },
+    "ulaadzik": {
+      "added_at": "2026-09-11",
+      "categories": {},
+      "display_name": "ulaadzik",
+      "followers_end": null,
+      "followers_start": 181,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 0,
+      "minutes": 0,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": []
+    },
+    "watafakablr": {
+      "added_at": "2026-09-11",
+      "categories": {
+        "ARC Raiders": {
+          "launches": 2,
+          "minutes": 187
+        },
+        "HELLDIVERS 2": {
+          "launches": 1,
+          "minutes": 247
+        },
+        "Just Chatting": {
+          "launches": 3,
+          "minutes": 592
+        },
+        "Retro": {
+          "launches": 4,
+          "minutes": 1174
+        },
+        "WARDOGS": {
+          "launches": 15,
+          "minutes": 4626
+        }
+      },
+      "display_name": "watafakablr",
+      "followers_end": null,
+      "followers_start": 466,
+      "hours": [309,36,0,0,0,0,0,0,0,0,171,300,277,178,120,148,201,264,501,847,946,909,900,719],
+      "launches": 23,
+      "minutes": 6827,
+      "prev_broadcast_at": null,
+      "prev_ended_at": "2026-09-27T20:18:21Z",
+      "sessions": [
+        {
+          "duration_min": 374,
+          "ended_at": "2026-10-01T21:58:00Z",
+          "started_at": "2026-10-01T15:43:30Z"
+        },
+        {
+          "duration_min": 160,
+          "ended_at": "2026-10-02T18:08:35Z",
+          "started_at": "2026-10-02T15:29:02Z"
+        },
+        {
+          "duration_min": 359,
+          "ended_at": "2026-10-03T13:27:57Z",
+          "started_at": "2026-10-03T07:28:59Z"
+        },
+        {
+          "duration_min": 384,
+          "ended_at": "2026-10-03T21:09:48Z",
+          "started_at": "2026-10-03T14:45:52Z"
+        },
+        {
+          "duration_min": 499,
+          "ended_at": "2026-10-04T15:45:11Z",
+          "started_at": "2026-10-04T07:26:01Z"
+        },
+        {
+          "duration_min": 344,
+          "ended_at": "2026-10-04T21:29:24Z",
+          "started_at": "2026-10-04T15:45:11Z"
+        },
+        {
+          "duration_min": 334,
+          "ended_at": "2026-10-05T21:31:51Z",
+          "started_at": "2026-10-05T15:58:07Z"
+        },
+        {
+          "duration_min": 260,
+          "ended_at": "2026-10-07T20:32:09Z",
+          "started_at": "2026-10-07T16:12:11Z"
+        },
+        {
+          "duration_min": 397,
+          "ended_at": "2026-10-08T22:02:41Z",
+          "started_at": "2026-10-08T15:25:59Z"
+        },
+        {
+          "duration_min": 369,
+          "ended_at": "2026-10-09T22:32:59Z",
+          "started_at": "2026-10-09T16:24:03Z"
+        },
+        {
+          "duration_min": 7,
+          "ended_at": "2026-10-10T07:27:49Z",
+          "started_at": "2026-10-10T07:21:16Z"
+        },
+        {
+          "duration_min": 180,
+          "ended_at": "2026-10-10T10:27:24Z",
+          "started_at": "2026-10-10T07:27:49Z"
+        },
+        {
+          "duration_min": 377,
+          "ended_at": "2026-10-10T20:05:12Z",
+          "started_at": "2026-10-10T13:48:10Z"
+        },
+        {
+          "duration_min": 146,
+          "ended_at": "2026-10-11T09:37:13Z",
+          "started_at": "2026-10-11T07:11:42Z"
+        },
+        {
+          "duration_min": 517,
+          "ended_at": "2026-10-11T21:08:40Z",
+          "started_at": "2026-10-11T12:31:45Z"
+        },
+        {
+          "duration_min": 267,
+          "ended_at": "2026-10-12T20:06:27Z",
+          "started_at": "2026-10-12T15:39:16Z"
+        },
+        {
+          "duration_min": 288,
+          "ended_at": "2026-10-13T21:04:52Z",
+          "started_at": "2026-10-13T16:17:11Z"
+        },
+        {
+          "duration_min": 247,
+          "ended_at": "2026-10-14T21:21:38Z",
+          "started_at": "2026-10-14T17:14:15Z"
+        },
+        {
+          "duration_min": 337,
+          "ended_at": "2026-10-15T20:59:41Z",
+          "started_at": "2026-10-15T15:22:50Z"
+        },
+        {
+          "duration_min": 1,
+          "ended_at": "2026-10-17T14:50:29Z",
+          "started_at": "2026-10-17T14:50:01Z"
+        },
+        {
+          "duration_min": 394,
+          "ended_at": "2026-10-17T21:24:05Z",
+          "started_at": "2026-10-17T14:50:29Z"
+        },
+        {
+          "duration_min": 170,
+          "ended_at": "2026-10-18T10:31:19Z",
+          "started_at": "2026-10-18T07:41:07Z"
+        },
+        {
+          "duration_min": 416,
+          "ended_at": "2026-10-18T20:15:35Z",
+          "started_at": "2026-10-18T13:19:19Z"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-10-20T18:30:55Z"
+}

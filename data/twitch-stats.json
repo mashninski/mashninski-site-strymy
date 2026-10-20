@@ -1,0 +1,4756 @@
+{
+  "collecting_since": "2026-09-23",
+  "streamers": {
+    "angryralef": {
+      "followers": {
+        "changed_at": "2026-10-20T12:50:56Z",
+        "count": 1300,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 1292,
+          "2026-10-01": 1293
+        }
+      },
+      "in_progress": null,
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "Banquet for Fools": {
+              "launches": 1,
+              "minutes": 231
+            },
+            "Control": {
+              "launches": 3,
+              "minutes": 701
+            },
+            "HλLF-LIFE": {
+              "launches": 1,
+              "minutes": 221
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,253,300,300,289,12,0,0,0,0,0,0,0,0],
+          "launches": 5,
+          "minutes": 1153
+        },
+        "2026-10": {
+          "categories": {
+            "Banquet for Fools": {
+              "launches": 1,
+              "minutes": 231
+            },
+            "Beyond Good & Evil": {
+              "launches": 1,
+              "minutes": 221
+            },
+            "CONTROL Resonant": {
+              "launches": 4,
+              "minutes": 878
+            },
+            "Control": {
+              "launches": 2,
+              "minutes": 468
+            },
+            "Disco Elysium": {
+              "launches": 1,
+              "minutes": 221
+            },
+            "Lucius": {
+              "launches": 1,
+              "minutes": 234
+            },
+            "MediEvil": {
+              "launches": 1,
+              "minutes": 10
+            },
+            "Overlord II": {
+              "launches": 1,
+              "minutes": 7
+            },
+            "P.T.": {
+              "launches": 2,
+              "minutes": 205
+            },
+            "SILENT HILL: townfall": {
+              "launches": 1,
+              "minutes": 173
+            },
+            "Whispers in the Moss": {
+              "launches": 1,
+              "minutes": 206
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,626,780,778,658,11,0,0,0,0,0,0,0,0],
+          "launches": 16,
+          "minutes": 2854
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Disco Elysium",
+              "minutes": 221
+            }
+          ],
+          "ended_at": "2026-10-19T11:55:09Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,46,60,60,55,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-19T08:14:16Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 173
+            }
+          ],
+          "ended_at": "2026-10-16T11:33:12Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,19,60,60,33,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-16T08:40:31Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Overlord II",
+              "minutes": 7
+            }
+          ],
+          "ended_at": "2026-10-16T08:40:18Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-16T08:32:53Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "MediEvil",
+              "minutes": 10
+            }
+          ],
+          "ended_at": "2026-10-16T08:27:12Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-16T08:17:39Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "P.T.",
+              "minutes": 96
+            }
+          ],
+          "ended_at": "2026-10-15T11:39:21Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,57,39,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-15T10:03:26Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "P.T.",
+              "minutes": 109
+            }
+          ],
+          "ended_at": "2026-10-15T10:00:36Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,48,60,1,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-15T08:11:31Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "CONTROL Resonant",
+              "minutes": 216
+            }
+          ],
+          "ended_at": "2026-10-14T11:53:08Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,43,60,60,53,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-14T08:16:59Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "CONTROL Resonant",
+              "minutes": 231
+            }
+          ],
+          "ended_at": "2026-10-13T11:59:42Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,51,60,60,60,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-13T08:08:38Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "CONTROL Resonant",
+              "minutes": 222
+            }
+          ],
+          "ended_at": "2026-10-12T11:52:36Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,49,60,60,53,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-12T08:11:02Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Beyond Good & Evil",
+              "minutes": 221
+            }
+          ],
+          "ended_at": "2026-10-09T11:52:44Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,48,60,60,53,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-09T08:11:58Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Banquet for Fools",
+              "minutes": 231
+            }
+          ],
+          "ended_at": "2026-10-08T12:01:45Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,49,60,60,60,2,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-08T08:10:31Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "CONTROL Resonant",
+              "minutes": 209
+            }
+          ],
+          "ended_at": "2026-10-07T11:38:38Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,50,60,60,39,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-07T08:09:36Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Control",
+              "minutes": 242
+            }
+          ],
+          "ended_at": "2026-10-06T12:06:37Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,55,60,60,60,7,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-06T08:04:35Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Control",
+              "minutes": 226
+            }
+          ],
+          "ended_at": "2026-10-05T11:53:34Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,52,60,60,54,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-05T08:07:49Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Lucius",
+              "minutes": 234
+            }
+          ],
+          "ended_at": "2026-10-02T12:02:23Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,52,60,60,60,2,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-02T08:08:27Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Whispers in the Moss",
+              "minutes": 206
+            }
+          ],
+          "ended_at": "2026-10-01T11:39:06Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,47,60,60,39,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-01T08:12:49Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Control",
+              "minutes": 232
+            }
+          ],
+          "ended_at": "2026-09-30T12:02:31Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,49,60,60,60,3,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-30T08:10:41Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Control",
+              "minutes": 232
+            }
+          ],
+          "ended_at": "2026-09-29T12:00:05Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,52,60,60,60,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-29T08:08:05Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Control",
+              "minutes": 237
+            }
+          ],
+          "ended_at": "2026-09-28T12:07:55Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,50,60,60,60,8,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-28T08:10:30Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Banquet for Fools",
+              "minutes": 231
+            }
+          ],
+          "ended_at": "2026-09-25T12:00:43Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,50,60,60,60,1,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-25T08:09:43Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "HλLF-LIFE",
+              "minutes": 221
+            }
+          ],
+          "ended_at": "2026-09-24T11:48:43Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,52,60,60,49,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-24T08:07:50Z"
+        }
+      ]
+    },
+    "annigilatormg42": {
+      "followers": {
+        "changed_at": "2026-10-16T18:50:13Z",
+        "count": 55,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 47,
+          "2026-10-01": 54
+        }
+      },
+      "in_progress": null,
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "Empire: Total War": {
+              "launches": 1,
+              "minutes": 267
+            },
+            "Overlord II": {
+              "launches": 2,
+              "minutes": 276
+            },
+            "Total War: Shogun 2": {
+              "launches": 1,
+              "minutes": 303
+            },
+            "Total War: WARHAMMER III": {
+              "launches": 1,
+              "minutes": 189
+            }
+          },
+          "hours": [217,118,60,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,60,77,95,157,203],
+          "launches": 5,
+          "minutes": 1035
+        },
+        "2026-10": {
+          "categories": {
+            "Dungeons 3": {
+              "launches": 2,
+              "minutes": 235
+            },
+            "Empire: Total War": {
+              "launches": 2,
+              "minutes": 379
+            },
+            "Gallipoli": {
+              "launches": 1,
+              "minutes": 126
+            },
+            "Painkiller": {
+              "launches": 1,
+              "minutes": 137
+            },
+            "Total War: WARHAMMER III": {
+              "launches": 3,
+              "minutes": 571
+            }
+          },
+          "hours": [81,60,42,0,0,0,0,0,0,0,0,0,0,0,0,0,35,81,251,300,182,173,124,119],
+          "launches": 9,
+          "minutes": 1448
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Total War: WARHAMMER III",
+              "minutes": 222
+            }
+          ],
+          "ended_at": "2026-10-18T19:17:35Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,60,60,60,18,0],
+          "started_at": "2026-10-18T15:36:01Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Empire: Total War",
+              "minutes": 176
+            }
+          ],
+          "ended_at": "2026-10-17T17:34:01Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,60,60,34,0,0,0],
+          "started_at": "2026-10-17T14:38:31Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Dungeons 3",
+              "minutes": 116
+            }
+          ],
+          "ended_at": "2026-10-16T19:43:43Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,60,44,0],
+          "started_at": "2026-10-16T17:47:41Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Total War: WARHAMMER III",
+              "minutes": 222
+            }
+          ],
+          "ended_at": "2026-10-11T17:07:42Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,60,60,60,8,0,0,0],
+          "started_at": "2026-10-11T13:25:27Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Painkiller",
+              "minutes": 137
+            }
+          ],
+          "ended_at": "2026-10-07T20:58:53Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,60,59],
+          "started_at": "2026-10-07T18:41:46Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Dungeons 3",
+              "minutes": 119
+            }
+          ],
+          "ended_at": "2026-10-06T21:57:15Z",
+          "hours": [57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,60],
+          "started_at": "2026-10-06T19:58:30Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Total War: WARHAMMER III",
+              "minutes": 127
+            }
+          ],
+          "ended_at": "2026-10-04T17:08:12Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,60,8,0,0,0],
+          "started_at": "2026-10-04T15:01:16Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Gallipoli",
+              "minutes": 126
+            }
+          ],
+          "ended_at": "2026-10-03T23:42:30Z",
+          "hours": [24,60,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-03T21:36:27Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Empire: Total War",
+              "minutes": 203
+            }
+          ],
+          "ended_at": "2026-10-03T18:35:04Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,60,60,35,0,0],
+          "started_at": "2026-10-03T15:12:04Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Overlord II",
+              "minutes": 145
+            }
+          ],
+          "ended_at": "2026-09-29T21:36:37Z",
+          "hours": [37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,60],
+          "started_at": "2026-09-29T19:11:41Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Total War: WARHAMMER III",
+              "minutes": 189
+            }
+          ],
+          "ended_at": "2026-09-27T18:35:09Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,60,60,35,0,0],
+          "started_at": "2026-09-27T15:26:30Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Empire: Total War",
+              "minutes": 267
+            }
+          ],
+          "ended_at": "2026-09-26T22:09:59Z",
+          "hours": [60,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,60,60,60],
+          "started_at": "2026-09-26T17:43:12Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Total War: Shogun 2",
+              "minutes": 303
+            }
+          ],
+          "ended_at": "2026-09-26T00:13:58Z",
+          "hours": [60,60,60,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,60],
+          "started_at": "2026-09-25T19:11:00Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Overlord II",
+              "minutes": 131
+            }
+          ],
+          "ended_at": "2026-09-23T22:47:52Z",
+          "hours": [60,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23],
+          "started_at": "2026-09-23T20:36:56Z"
+        }
+      ]
+    },
+    "bel_asch": {
+      "followers": {
+        "changed_at": "2026-10-20T12:50:56Z",
+        "count": 211,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 207,
+          "2026-10-01": 207
+        }
+      },
+      "in_progress": {
+        "categories": [
+          {
+            "game": "Dragon Age: Inquisition",
+            "sec": 42
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0],
+        "last_seen_at": "2026-10-20T19:11:09Z",
+        "started_at": "2026-10-20T19:10:27Z",
+        "stream_id": "319023541477"
+      },
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "Dragon Age: Inquisition": {
+              "launches": 3,
+              "minutes": 579
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,113,165,180,101,0],
+          "launches": 3,
+          "minutes": 579
+        },
+        "2026-10": {
+          "categories": {
+            "Dragon Age: Inquisition": {
+              "launches": 3,
+              "minutes": 485
+            },
+            "The Order: 1886": {
+              "launches": 5,
+              "minutes": 594
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,103,120,136,171,243,176,103],
+          "launches": 8,
+          "minutes": 1080
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "The Order: 1886",
+              "minutes": 0
+            }
+          ],
+          "ended_at": "2026-10-17T17:00:55Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-17T17:00:46Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Order: 1886",
+              "minutes": 106
+            }
+          ],
+          "ended_at": "2026-10-17T18:46:41Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,47,0,0],
+          "started_at": "2026-10-17T17:00:41Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Dragon Age: Inquisition",
+              "minutes": 192
+            }
+          ],
+          "ended_at": "2026-10-16T19:19:21Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,60,60,19,0],
+          "started_at": "2026-10-16T16:07:39Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Order: 1886",
+              "minutes": 172
+            }
+          ],
+          "ended_at": "2026-10-13T20:55:40Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,60,56],
+          "started_at": "2026-10-13T18:03:52Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Dragon Age: Inquisition",
+              "minutes": 127
+            }
+          ],
+          "ended_at": "2026-10-12T20:46:48Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,60,47],
+          "started_at": "2026-10-12T18:39:47Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Order: 1886",
+              "minutes": 171
+            }
+          ],
+          "ended_at": "2026-10-09T16:24:29Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,60,60,24,0,0,0,0],
+          "started_at": "2026-10-09T13:33:11Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Dragon Age: Inquisition",
+              "minutes": 166
+            }
+          ],
+          "ended_at": "2026-10-07T17:03:39Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,60,60,4,0,0,0],
+          "started_at": "2026-10-07T14:17:28Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Order: 1886",
+              "minutes": 145
+            }
+          ],
+          "ended_at": "2026-10-03T19:36:53Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,60,37,0],
+          "started_at": "2026-10-03T17:11:53Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Dragon Age: Inquisition",
+              "minutes": 140
+            }
+          ],
+          "ended_at": "2026-09-28T19:34:37Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,60,35,0],
+          "started_at": "2026-09-28T17:14:39Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Dragon Age: Inquisition",
+              "minutes": 233
+            }
+          ],
+          "ended_at": "2026-09-25T20:00:15Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,60,60,60,0],
+          "started_at": "2026-09-25T16:07:15Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Dragon Age: Inquisition",
+              "minutes": 206
+            }
+          ],
+          "ended_at": "2026-09-23T19:06:03Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,60,60,60,6,0],
+          "started_at": "2026-09-23T15:39:33Z"
+        }
+      ]
+    },
+    "dzed_ahey": {
+      "followers": {
+        "changed_at": "2026-10-20T18:30:55Z",
+        "count": 47,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 41,
+          "2026-10-01": 41
+        }
+      },
+      "in_progress": {
+        "categories": [
+          {
+            "game": "Control",
+            "sec": 4220
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3551,669,0],
+        "last_seen_at": "2026-10-20T19:11:09Z",
+        "started_at": "2026-10-20T18:00:49Z",
+        "stream_id": "319022389221"
+      },
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "CONTROL Resonant": {
+              "launches": 1,
+              "minutes": 103
+            }
+          },
+          "hours": [0,60,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "launches": 1,
+          "minutes": 103
+        },
+        "2026-10": {
+          "categories": {
+            "CONTROL Resonant": {
+              "launches": 1,
+              "minutes": 118
+            },
+            "Control": {
+              "launches": 1,
+              "minutes": 0
+            },
+            "Penguin Colony": {
+              "launches": 2,
+              "minutes": 123
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,60,13,38,60,25],
+          "launches": 4,
+          "minutes": 242
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Control",
+              "minutes": 0
+            }
+          ],
+          "ended_at": "2026-10-20T18:00:55Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-20T18:00:54Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Penguin Colony",
+              "minutes": 113
+            }
+          ],
+          "ended_at": "2026-10-16T20:25:05Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,60,25],
+          "started_at": "2026-10-16T18:31:49Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Penguin Colony",
+              "minutes": 10
+            }
+          ],
+          "ended_at": "2026-10-16T18:31:07Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0],
+          "started_at": "2026-10-16T18:20:55Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "CONTROL Resonant",
+              "minutes": 118
+            }
+          ],
+          "ended_at": "2026-10-10T17:12:42Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,60,13,0,0,0],
+          "started_at": "2026-10-10T15:14:46Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "CONTROL Resonant",
+              "minutes": 103
+            }
+          ],
+          "ended_at": "2026-09-24T23:42:33Z",
+          "hours": [0,60,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-24T21:59:33Z"
+        }
+      ]
+    },
+    "dzedmaksim": {
+      "followers": {
+        "changed_at": "2026-10-20T12:50:56Z",
+        "count": 240,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 224,
+          "2026-10-01": 228
+        }
+      },
+      "in_progress": null,
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "Crysis 2": {
+              "launches": 2,
+              "minutes": 170
+            },
+            "Euro Truck Simulator 2": {
+              "launches": 1,
+              "minutes": 132
+            },
+            "The Long Dark": {
+              "launches": 2,
+              "minutes": 438
+            },
+            "The Witcher 3: Wild Hunt": {
+              "launches": 1,
+              "minutes": 227
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,9,129,259,300,257,12,0,0,0,0,0,0,0,0,0],
+          "launches": 6,
+          "minutes": 967
+        },
+        "2026-10": {
+          "categories": {
+            "Crysis 2": {
+              "launches": 2,
+              "minutes": 346
+            },
+            "Farming Simulator 25": {
+              "launches": 1,
+              "minutes": 168
+            },
+            "Forever Ago": {
+              "launches": 2,
+              "minutes": 240
+            },
+            "The Long Dark": {
+              "launches": 6,
+              "minutes": 1379
+            },
+            "The Witcher 3: Wild Hunt": {
+              "launches": 3,
+              "minutes": 622
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,6,447,745,818,679,61,0,0,0,0,0,0,0,0,0],
+          "launches": 14,
+          "minutes": 2755
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "The Long Dark",
+              "minutes": 202
+            }
+          ],
+          "ended_at": "2026-10-20T10:55:32Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,26,60,60,56,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-20T07:33:37Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Forever Ago",
+              "minutes": 66
+            }
+          ],
+          "ended_at": "2026-10-19T10:20:15Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,46,20,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-19T09:14:00Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 189
+            }
+          ],
+          "ended_at": "2026-10-16T10:35:22Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,34,60,60,35,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-16T07:26:22Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Long Dark",
+              "minutes": 243
+            }
+          ],
+          "ended_at": "2026-10-15T11:19:03Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,44,60,60,60,19,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-15T07:16:12Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Crysis 2",
+              "minutes": 168
+            }
+          ],
+          "ended_at": "2026-10-14T09:51:53Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,56,60,52,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-14T07:04:19Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Long Dark",
+              "minutes": 246
+            }
+          ],
+          "ended_at": "2026-10-13T11:03:31Z",
+          "hours": [0,0,0,0,0,0,0,0,0,3,60,60,60,60,4,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-13T06:57:17Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Forever Ago",
+              "minutes": 174
+            }
+          ],
+          "ended_at": "2026-10-12T11:05:03Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,49,60,60,5,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-12T08:11:25Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 228
+            }
+          ],
+          "ended_at": "2026-10-09T10:50:17Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,58,60,60,50,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-09T07:02:08Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Long Dark",
+              "minutes": 262
+            }
+          ],
+          "ended_at": "2026-10-08T11:19:00Z",
+          "hours": [0,0,0,0,0,0,0,0,0,3,60,60,60,60,19,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-08T06:56:32Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Crysis 2",
+              "minutes": 178
+            }
+          ],
+          "ended_at": "2026-10-07T11:08:25Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,50,60,60,8,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-07T08:10:17Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Long Dark",
+              "minutes": 191
+            }
+          ],
+          "ended_at": "2026-10-06T10:55:23Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,16,60,60,55,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-06T07:44:21Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Farming Simulator 25",
+              "minutes": 168
+            }
+          ],
+          "ended_at": "2026-10-05T11:02:32Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,46,60,60,3,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-05T08:14:29Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 205
+            }
+          ],
+          "ended_at": "2026-10-02T10:42:58Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,42,60,60,43,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-02T07:18:16Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Long Dark",
+              "minutes": 235
+            }
+          ],
+          "ended_at": "2026-10-01T11:03:16Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,51,60,60,60,3,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-01T07:08:41Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Crysis 2",
+              "minutes": 162
+            }
+          ],
+          "ended_at": "2026-09-30T11:03:17Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,38,60,60,3,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-30T08:21:40Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Crysis 2",
+              "minutes": 8
+            }
+          ],
+          "ended_at": "2026-09-30T08:17:54Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-30T08:10:11Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Long Dark",
+              "minutes": 200
+            }
+          ],
+          "ended_at": "2026-09-29T11:03:28Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,17,60,60,60,3,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-29T07:43:04Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Euro Truck Simulator 2",
+              "minutes": 132
+            }
+          ],
+          "ended_at": "2026-09-28T10:38:26Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,33,60,38,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-28T08:26:38Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 227
+            }
+          ],
+          "ended_at": "2026-09-25T10:38:34Z",
+          "hours": [0,0,0,0,0,0,0,0,0,9,60,60,60,39,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-25T06:51:26Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Long Dark",
+              "minutes": 238
+            }
+          ],
+          "ended_at": "2026-09-24T11:06:06Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,52,60,60,60,6,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-24T07:08:09Z"
+        }
+      ]
+    },
+    "evildive": {
+      "followers": {
+        "changed_at": "2026-10-03T10:18:31Z",
+        "count": 78,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 78,
+          "2026-10-01": 77
+        }
+      },
+      "in_progress": null,
+      "monthly": {},
+      "recent_sessions": []
+    },
+    "impani4": {
+      "followers": {
+        "changed_at": "2026-10-10T16:00:20Z",
+        "count": 121,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-10-01": 120
+        }
+      },
+      "in_progress": null,
+      "monthly": {
+        "2026-10": {
+          "categories": {
+            "GeoGuessr": {
+              "launches": 2,
+              "minutes": 490
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,107,120,120,120,24,0,0,0,0],
+          "launches": 2,
+          "minutes": 490
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "GeoGuessr",
+              "minutes": 253
+            }
+          ],
+          "ended_at": "2026-10-17T16:23:52Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,60,60,60,24,0,0,0,0],
+          "started_at": "2026-10-17T12:10:30Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "GeoGuessr",
+              "minutes": 237
+            }
+          ],
+          "ended_at": "2026-10-10T15:59:46Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,60,60,60,0,0,0,0,0],
+          "started_at": "2026-10-10T12:02:34Z"
+        }
+      ]
+    },
+    "k4mbeg": {
+      "followers": {
+        "changed_at": "2026-10-03T10:18:31Z",
+        "count": 39,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 38,
+          "2026-10-01": 38
+        }
+      },
+      "in_progress": null,
+      "monthly": {},
+      "recent_sessions": []
+    },
+    "kryvichanka": {
+      "followers": {
+        "changed_at": "2026-10-19T21:40:51Z",
+        "count": 144,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 144,
+          "2026-10-01": 144
+        }
+      },
+      "in_progress": null,
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "Starfield": {
+              "launches": 4,
+              "minutes": 255
+            }
+          },
+          "hours": [0,54,80,60,60,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "launches": 4,
+          "minutes": 255
+        },
+        "2026-10": {
+          "categories": {
+            "Assassin's Creed Shadows": {
+              "launches": 2,
+              "minutes": 287
+            },
+            "Starfield": {
+              "launches": 15,
+              "minutes": 1333
+            }
+          },
+          "hours": [95,196,134,123,99,236,310,226,23,0,0,0,0,0,0,0,0,0,2,60,25,0,40,51],
+          "launches": 17,
+          "minutes": 1620
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Assassin's Creed Shadows",
+              "minutes": 135
+            }
+          ],
+          "ended_at": "2026-10-18T23:04:50Z",
+          "hours": [60,60,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10],
+          "started_at": "2026-10-18T20:49:54Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Assassin's Creed Shadows",
+              "minutes": 152
+            }
+          ],
+          "ended_at": "2026-10-18T04:51:38Z",
+          "hours": [0,0,0,0,0,40,60,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-18T02:19:33Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 31
+            }
+          ],
+          "ended_at": "2026-10-18T02:00:36Z",
+          "hours": [0,0,0,0,31,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-18T01:29:11Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 37
+            }
+          ],
+          "ended_at": "2026-10-18T00:08:46Z",
+          "hours": [0,0,28,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-17T23:31:57Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 169
+            }
+          ],
+          "ended_at": "2026-10-15T05:09:15Z",
+          "hours": [0,0,0,0,0,40,60,60,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-15T02:20:26Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 88
+            }
+          ],
+          "ended_at": "2026-10-14T17:25:26Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,25,0,0,0],
+          "started_at": "2026-10-14T15:57:32Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 50
+            }
+          ],
+          "ended_at": "2026-10-13T05:05:15Z",
+          "hours": [0,0,0,0,0,0,0,45,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-13T04:15:16Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 10
+            }
+          ],
+          "ended_at": "2026-10-13T03:52:38Z",
+          "hours": [0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-13T03:42:52Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 52
+            }
+          ],
+          "ended_at": "2026-10-12T23:18:54Z",
+          "hours": [0,33,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-12T22:26:57Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 187
+            }
+          ],
+          "ended_at": "2026-10-11T00:32:06Z",
+          "hours": [35,60,60,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-10T21:24:40Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 63
+            }
+          ],
+          "ended_at": "2026-10-09T23:21:56Z",
+          "hours": [0,41,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-09T22:19:22Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 113
+            }
+          ],
+          "ended_at": "2026-10-09T04:07:44Z",
+          "hours": [0,0,0,0,0,46,60,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-09T02:14:25Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 2
+            }
+          ],
+          "ended_at": "2026-10-08T22:03:55Z",
+          "hours": [0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-08T22:02:16Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 82
+            }
+          ],
+          "ended_at": "2026-10-08T20:41:06Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,41],
+          "started_at": "2026-10-08T19:19:31Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 110
+            }
+          ],
+          "ended_at": "2026-10-08T04:01:03Z",
+          "hours": [0,0,0,0,0,49,60,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-08T02:10:38Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 283
+            }
+          ],
+          "ended_at": "2026-10-07T05:08:52Z",
+          "hours": [0,0,0,34,60,60,60,60,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-07T00:25:42Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 56
+            }
+          ],
+          "ended_at": "2026-10-03T01:08:12Z",
+          "hours": [0,0,0,48,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-03T00:11:42Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 160
+            }
+          ],
+          "ended_at": "2026-09-26T02:01:32Z",
+          "hours": [0,0,39,60,60,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-25T23:21:06Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 5
+            }
+          ],
+          "ended_at": "2026-09-25T23:21:06Z",
+          "hours": [0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-25T23:16:21Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 39
+            }
+          ],
+          "ended_at": "2026-09-24T23:35:32Z",
+          "hours": [0,3,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-24T22:56:44Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Starfield",
+              "minutes": 51
+            }
+          ],
+          "ended_at": "2026-09-23T22:51:48Z",
+          "hours": [0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-23T22:00:55Z"
+        }
+      ]
+    },
+    "kurisu_illusia": {
+      "followers": {
+        "changed_at": "2026-10-19T21:40:51Z",
+        "count": 1000,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 1005,
+          "2026-10-01": 1003
+        }
+      },
+      "in_progress": null,
+      "monthly": {},
+      "recent_sessions": []
+    },
+    "lepus81": {
+      "followers": {
+        "changed_at": "2026-10-06T15:33:23Z",
+        "count": 633,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 626,
+          "2026-10-01": 632
+        }
+      },
+      "in_progress": {
+        "categories": [
+          {
+            "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+            "sec": 9526
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1657,3600,3600,669,0],
+        "last_seen_at": "2026-10-20T19:11:09Z",
+        "started_at": "2026-10-20T16:32:23Z",
+        "stream_id": "317099577686"
+      },
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "Dishonored": {
+              "launches": 2,
+              "minutes": 404
+            },
+            "No Man's Sky": {
+              "launches": 1,
+              "minutes": 202
+            },
+            "S.T.A.L.K.E.R. 2: Heart of Chornobyl": {
+              "launches": 5,
+              "minutes": 769
+            },
+            "The Witcher 3: Wild Hunt": {
+              "launches": 1,
+              "minutes": 252
+            }
+          },
+          "hours": [3,0,0,0,0,0,0,0,0,0,0,0,0,11,60,60,67,136,120,184,291,335,215,146],
+          "launches": 9,
+          "minutes": 1627
+        },
+        "2026-10": {
+          "categories": {
+            "Battlefield 6": {
+              "launches": 2,
+              "minutes": 388
+            },
+            "Dishonored": {
+              "launches": 1,
+              "minutes": 173
+            },
+            "Ghost of Yōtei": {
+              "launches": 1,
+              "minutes": 164
+            },
+            "Ready or Not": {
+              "launches": 2,
+              "minutes": 377
+            },
+            "S.T.A.L.K.E.R. 2: Heart of Chornobyl": {
+              "launches": 4,
+              "minutes": 814
+            }
+          },
+          "hours": [36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,213,240,238,280,300,320,167,60],
+          "launches": 10,
+          "minutes": 1916
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+              "minutes": 185
+            }
+          ],
+          "ended_at": "2026-10-19T15:46:26Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,60,60,46,0,0,0,0,0],
+          "started_at": "2026-10-19T12:41:46Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+              "minutes": 203
+            }
+          ],
+          "ended_at": "2026-10-18T19:05:16Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,60,60,60,5,0],
+          "started_at": "2026-10-18T15:42:06Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Battlefield 6",
+              "minutes": 192
+            }
+          ],
+          "ended_at": "2026-10-17T21:36:17Z",
+          "hours": [36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,60,60],
+          "started_at": "2026-10-17T18:24:07Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Ready or Not",
+              "minutes": 167
+            }
+          ],
+          "ended_at": "2026-10-08T18:44:25Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,60,44,0,0],
+          "started_at": "2026-10-08T15:57:35Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Ghost of Yōtei",
+              "minutes": 164
+            }
+          ],
+          "ended_at": "2026-10-08T15:09:22Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,60,60,9,0,0,0,0,0],
+          "started_at": "2026-10-08T12:25:47Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Battlefield 6",
+              "minutes": 196
+            }
+          ],
+          "ended_at": "2026-10-07T16:09:15Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,60,60,60,9,0,0,0,0],
+          "started_at": "2026-10-07T12:53:05Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+              "minutes": 247
+            }
+          ],
+          "ended_at": "2026-10-06T19:24:02Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,60,60,60,24,0],
+          "started_at": "2026-10-06T15:16:33Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+              "minutes": 179
+            }
+          ],
+          "ended_at": "2026-10-04T16:26:28Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,60,60,26,0,0,0,0],
+          "started_at": "2026-10-04T13:27:20Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Dishonored",
+              "minutes": 173
+            }
+          ],
+          "ended_at": "2026-10-02T19:34:26Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,60,60,34,0],
+          "started_at": "2026-10-02T16:41:06Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Ready or Not",
+              "minutes": 210
+            }
+          ],
+          "ended_at": "2026-10-01T19:43:32Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,60,60,44,0],
+          "started_at": "2026-10-01T16:13:42Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+              "minutes": 208
+            }
+          ],
+          "ended_at": "2026-09-30T20:52:36Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,60,60,53],
+          "started_at": "2026-09-30T17:24:56Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 252
+            }
+          ],
+          "ended_at": "2026-09-29T18:42:43Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,60,60,60,43,0,0],
+          "started_at": "2026-09-29T14:30:33Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+              "minutes": 2
+            }
+          ],
+          "ended_at": "2026-09-29T14:29:19Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0],
+          "started_at": "2026-09-29T14:27:09Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+              "minutes": 237
+            }
+          ],
+          "ended_at": "2026-09-28T21:02:37Z",
+          "hours": [3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,60,60,60],
+          "started_at": "2026-09-28T17:05:37Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+              "minutes": 129
+            }
+          ],
+          "ended_at": "2026-09-27T18:52:17Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,60,52,0,0],
+          "started_at": "2026-09-27T16:43:27Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Dishonored",
+              "minutes": 236
+            }
+          ],
+          "ended_at": "2026-09-26T14:44:59Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,11,60,60,60,45,0,0,0,0,0,0],
+          "started_at": "2026-09-26T10:49:29Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Dishonored",
+              "minutes": 168
+            }
+          ],
+          "ended_at": "2026-09-25T20:33:03Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,60,60,33],
+          "started_at": "2026-09-25T17:45:03Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+              "minutes": 193
+            }
+          ],
+          "ended_at": "2026-09-24T17:06:36Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,60,60,60,7,0,0,0],
+          "started_at": "2026-09-24T13:53:16Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "No Man's Sky",
+              "minutes": 202
+            }
+          ],
+          "ended_at": "2026-09-23T19:35:11Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,60,60,35,0],
+          "started_at": "2026-09-23T16:13:11Z"
+        }
+      ]
+    },
+    "lilzorka_": {
+      "followers": {
+        "changed_at": "2026-10-19T21:40:51Z",
+        "count": 129,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 130,
+          "2026-10-01": 130
+        }
+      },
+      "in_progress": null,
+      "monthly": {},
+      "recent_sessions": []
+    },
+    "lucii7vel": {
+      "followers": {
+        "changed_at": "2026-10-03T10:18:31Z",
+        "count": 75,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 74,
+          "2026-10-01": 74
+        }
+      },
+      "in_progress": null,
+      "monthly": {},
+      "recent_sessions": []
+    },
+    "marhinez": {
+      "followers": {
+        "changed_at": "2026-10-03T11:04:40Z",
+        "count": 232,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 230,
+          "2026-10-01": 230
+        }
+      },
+      "in_progress": null,
+      "monthly": {},
+      "recent_sessions": []
+    },
+    "mashninski": {
+      "followers": {
+        "changed_at": "2026-10-20T17:20:51Z",
+        "count": 172,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 161,
+          "2026-10-01": 162
+        }
+      },
+      "in_progress": null,
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "BioShock Remastered": {
+              "launches": 1,
+              "minutes": 143
+            },
+            "The Witcher 3: Wild Hunt": {
+              "launches": 2,
+              "minutes": 448
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,110,169,153,111,7,0,0],
+          "launches": 3,
+          "minutes": 591
+        },
+        "2026-10": {
+          "categories": {
+            " SEKIRO: SHADOWS DIE TWICE": {
+              "launches": 3,
+              "minutes": 428
+            },
+            "Alan Wake's American Nightmare": {
+              "launches": 1,
+              "minutes": 78
+            },
+            "Big Walk": {
+              "launches": 1,
+              "minutes": 78
+            },
+            "DOOM": {
+              "launches": 1,
+              "minutes": 223
+            },
+            "Goose Goose Duck": {
+              "launches": 1,
+              "minutes": 106
+            },
+            "How to Fish": {
+              "launches": 1,
+              "minutes": 162
+            },
+            "Just Chatting": {
+              "launches": 1,
+              "minutes": 123
+            },
+            "RV There Yet?": {
+              "launches": 1,
+              "minutes": 252
+            },
+            "The Witcher 3: Wild Hunt": {
+              "launches": 5,
+              "minutes": 735
+            },
+            "The Witcher 3: Wild Hunt Remastered": {
+              "launches": 5,
+              "minutes": 533
+            },
+            "Without a Dawn": {
+              "launches": 1,
+              "minutes": 102
+            }
+          },
+          "hours": [10,0,0,0,0,0,0,0,0,0,0,0,0,71,120,126,207,138,219,477,642,489,261,60],
+          "launches": 17,
+          "minutes": 2820
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Without a Dawn",
+              "minutes": 102
+            },
+            {
+              "game": "Alan Wake's American Nightmare",
+              "minutes": 78
+            }
+          ],
+          "ended_at": "2026-10-20T18:29:20Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,60,60,29,0,0],
+          "started_at": "2026-10-20T15:28:50Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "RV There Yet?",
+              "minutes": 252
+            }
+          ],
+          "ended_at": "2026-10-19T21:09:37Z",
+          "hours": [10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,60,60,60,60],
+          "started_at": "2026-10-19T16:57:17Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "DOOM",
+              "minutes": 223
+            }
+          ],
+          "ended_at": "2026-10-18T14:11:07Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,32,60,60,60,11,0,0,0,0,0,0],
+          "started_at": "2026-10-18T10:28:29Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 166
+            }
+          ],
+          "ended_at": "2026-10-15T19:42:27Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,60,60,42,0],
+          "started_at": "2026-10-15T16:56:43Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 170
+            }
+          ],
+          "ended_at": "2026-10-14T19:30:09Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,60,60,30,0],
+          "started_at": "2026-10-14T16:39:57Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 10
+            }
+          ],
+          "ended_at": "2026-10-14T16:36:28Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0],
+          "started_at": "2026-10-14T16:26:02Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 13
+            }
+          ],
+          "ended_at": "2026-10-14T16:16:30Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0],
+          "started_at": "2026-10-14T16:03:02Z"
+        },
+        {
+          "categories": [
+            {
+              "game": " SEKIRO: SHADOWS DIE TWICE",
+              "minutes": 147
+            }
+          ],
+          "ended_at": "2026-10-13T18:17:13Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,60,60,17,0,0],
+          "started_at": "2026-10-13T15:50:39Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 123
+            }
+          ],
+          "ended_at": "2026-10-09T18:22:45Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,60,23,0,0],
+          "started_at": "2026-10-09T16:19:54Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 15
+            },
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 174
+            }
+          ],
+          "ended_at": "2026-10-08T19:24:06Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,60,60,24,0],
+          "started_at": "2026-10-08T16:15:20Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Big Walk",
+              "minutes": 78
+            },
+            {
+              "game": "Goose Goose Duck",
+              "minutes": 106
+            }
+          ],
+          "ended_at": "2026-10-07T19:57:11Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,60,60,57,0],
+          "started_at": "2026-10-07T16:52:51Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 164
+            }
+          ],
+          "ended_at": "2026-10-06T16:16:43Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,60,60,17,0,0,0,0],
+          "started_at": "2026-10-06T13:32:55Z"
+        },
+        {
+          "categories": [
+            {
+              "game": " SEKIRO: SHADOWS DIE TWICE",
+              "minutes": 55
+            },
+            {
+              "game": "How to Fish",
+              "minutes": 162
+            }
+          ],
+          "ended_at": "2026-10-05T19:34:44Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,60,60,35,0],
+          "started_at": "2026-10-05T15:57:42Z"
+        },
+        {
+          "categories": [
+            {
+              "game": " SEKIRO: SHADOWS DIE TWICE",
+              "minutes": 226
+            }
+          ],
+          "ended_at": "2026-10-04T14:06:47Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,39,60,60,60,7,0,0,0,0,0,0],
+          "started_at": "2026-10-04T10:21:00Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 205
+            }
+          ],
+          "ended_at": "2026-10-03T16:18:40Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,60,60,60,19,0,0,0,0],
+          "started_at": "2026-10-03T12:54:07Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 206
+            }
+          ],
+          "ended_at": "2026-10-02T19:12:37Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,60,60,60,13,0],
+          "started_at": "2026-10-02T15:46:24Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 145
+            }
+          ],
+          "ended_at": "2026-10-01T17:41:41Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,60,42,0,0,0],
+          "started_at": "2026-10-01T15:16:41Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 176
+            }
+          ],
+          "ended_at": "2026-09-30T18:06:44Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,60,60,7,0,0],
+          "started_at": "2026-09-30T15:10:44Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 272
+            }
+          ],
+          "ended_at": "2026-09-29T17:50:33Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,60,60,60,51,0,0,0],
+          "started_at": "2026-09-29T13:18:48Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "BioShock Remastered",
+              "minutes": 143
+            }
+          ],
+          "ended_at": "2026-09-25T16:32:47Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,60,33,0,0,0,0],
+          "started_at": "2026-09-25T14:10:11Z"
+        }
+      ]
+    },
+    "mihas_gareza": {
+      "followers": {
+        "changed_at": "2026-10-20T13:10:52Z",
+        "count": 200,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 199,
+          "2026-10-01": 198
+        }
+      },
+      "in_progress": {
+        "categories": [
+          {
+            "game": "A Little to the Left",
+            "sec": 4421
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,152,3600,669,0],
+        "last_seen_at": "2026-10-20T19:11:09Z",
+        "started_at": "2026-10-20T17:57:28Z",
+        "stream_id": "319022314725"
+      },
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "Alaskan Road Truckers": {
+              "launches": 1,
+              "minutes": 142
+            },
+            "Grand Theft Auto V": {
+              "launches": 4,
+              "minutes": 796
+            },
+            "RESIDENT EVIL: requiem": {
+              "launches": 1,
+              "minutes": 189
+            },
+            "Serious Sam: The Second Encounter": {
+              "launches": 1,
+              "minutes": 188
+            }
+          },
+          "hours": [106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,400,420,374],
+          "launches": 7,
+          "minutes": 1315
+        },
+        "2026-10": {
+          "categories": {
+            "Big Walk": {
+              "launches": 1,
+              "minutes": 75
+            },
+            "Echo Mates": {
+              "launches": 1,
+              "minutes": 46
+            },
+            "Goose Goose Duck": {
+              "launches": 1,
+              "minutes": 105
+            },
+            "Grand Theft Auto V": {
+              "launches": 2,
+              "minutes": 419
+            },
+            "HELLDIVERS 2": {
+              "launches": 1,
+              "minutes": 247
+            },
+            "How to Fish": {
+              "launches": 1,
+              "minutes": 319
+            },
+            "RESIDENT EVIL: requiem": {
+              "launches": 1,
+              "minutes": 88
+            },
+            "RV There Yet?": {
+              "launches": 1,
+              "minutes": 204
+            },
+            "Serious Sam 3: BFE": {
+              "launches": 2,
+              "minutes": 340
+            },
+            "Serious Sam: The Second Encounter": {
+              "launches": 1,
+              "minutes": 119
+            },
+            "The Exit 8": {
+              "launches": 1,
+              "minutes": 97
+            },
+            "The Witcher 3: Wild Hunt Remastered": {
+              "launches": 1,
+              "minutes": 250
+            },
+            "Valor Mortis": {
+              "launches": 1,
+              "minutes": 97
+            },
+            "Vampire Survivors": {
+              "launches": 1,
+              "minutes": 107
+            },
+            "Way of the Hunter 2": {
+              "launches": 1,
+              "minutes": 128
+            }
+          },
+          "hours": [217,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,270,803,801,521],
+          "launches": 14,
+          "minutes": 2641
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Echo Mates",
+              "minutes": 46
+            },
+            {
+              "game": "RV There Yet?",
+              "minutes": 204
+            }
+          ],
+          "ended_at": "2026-10-19T21:14:43Z",
+          "hours": [15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,60,60,60],
+          "started_at": "2026-10-19T17:04:27Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Valor Mortis",
+              "minutes": 97
+            }
+          ],
+          "ended_at": "2026-10-18T19:32:25Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,32,0],
+          "started_at": "2026-10-18T17:55:16Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Serious Sam 3: BFE",
+              "minutes": 152
+            }
+          ],
+          "ended_at": "2026-10-15T20:28:27Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,60,60,28],
+          "started_at": "2026-10-15T17:56:15Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "HELLDIVERS 2",
+              "minutes": 247
+            }
+          ],
+          "ended_at": "2026-10-14T21:19:59Z",
+          "hours": [20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,60,60,60],
+          "started_at": "2026-10-14T17:13:15Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Exit 8",
+              "minutes": 97
+            }
+          ],
+          "ended_at": "2026-10-13T20:05:10Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,60,5],
+          "started_at": "2026-10-13T18:27:48Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Grand Theft Auto V",
+              "minutes": 219
+            }
+          ],
+          "ended_at": "2026-10-12T21:39:47Z",
+          "hours": [40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,60,60],
+          "started_at": "2026-10-12T18:01:02Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 250
+            }
+          ],
+          "ended_at": "2026-10-11T21:43:42Z",
+          "hours": [44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,60,60,60],
+          "started_at": "2026-10-11T17:33:29Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Grand Theft Auto V",
+              "minutes": 200
+            }
+          ],
+          "ended_at": "2026-10-09T21:28:16Z",
+          "hours": [28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,60,60],
+          "started_at": "2026-10-09T18:08:26Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Serious Sam 3: BFE",
+              "minutes": 188
+            }
+          ],
+          "ended_at": "2026-10-08T21:07:06Z",
+          "hours": [7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,60],
+          "started_at": "2026-10-08T17:58:36Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Big Walk",
+              "minutes": 75
+            },
+            {
+              "game": "Goose Goose Duck",
+              "minutes": 105
+            }
+          ],
+          "ended_at": "2026-10-07T19:54:54Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,60,55,0],
+          "started_at": "2026-10-07T16:55:04Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "RESIDENT EVIL: requiem",
+              "minutes": 88
+            },
+            {
+              "game": "Vampire Survivors",
+              "minutes": 107
+            }
+          ],
+          "ended_at": "2026-10-06T21:09:36Z",
+          "hours": [10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,60,60],
+          "started_at": "2026-10-06T17:55:03Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "How to Fish",
+              "minutes": 319
+            }
+          ],
+          "ended_at": "2026-10-05T21:53:16Z",
+          "hours": [53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,60,60,60,60],
+          "started_at": "2026-10-05T16:34:16Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Way of the Hunter 2",
+              "minutes": 128
+            }
+          ],
+          "ended_at": "2026-10-04T20:07:57Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,8],
+          "started_at": "2026-10-04T17:59:55Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Serious Sam: The Second Encounter",
+              "minutes": 119
+            }
+          ],
+          "ended_at": "2026-10-01T19:53:38Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,54,0],
+          "started_at": "2026-10-01T17:54:49Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "RESIDENT EVIL: requiem",
+              "minutes": 189
+            }
+          ],
+          "ended_at": "2026-09-29T21:04:37Z",
+          "hours": [5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,60,60],
+          "started_at": "2026-09-29T17:55:26Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Grand Theft Auto V",
+              "minutes": 217
+            }
+          ],
+          "ended_at": "2026-09-28T21:41:29Z",
+          "hours": [41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,60,60],
+          "started_at": "2026-09-28T18:04:48Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Alaskan Road Truckers",
+              "minutes": 142
+            }
+          ],
+          "ended_at": "2026-09-27T20:17:27Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,60,60,17],
+          "started_at": "2026-09-27T17:55:54Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Grand Theft Auto V",
+              "minutes": 181
+            }
+          ],
+          "ended_at": "2026-09-26T20:59:56Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,60],
+          "started_at": "2026-09-26T17:58:56Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Grand Theft Auto V",
+              "minutes": 224
+            }
+          ],
+          "ended_at": "2026-09-25T21:55:32Z",
+          "hours": [56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,60,60],
+          "started_at": "2026-09-25T18:11:32Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Serious Sam: The Second Encounter",
+              "minutes": 188
+            }
+          ],
+          "ended_at": "2026-09-24T21:04:00Z",
+          "hours": [4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,60,60,60],
+          "started_at": "2026-09-24T17:56:08Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Grand Theft Auto V",
+              "minutes": 174
+            }
+          ],
+          "ended_at": "2026-09-23T20:57:23Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,60,57],
+          "started_at": "2026-09-23T18:03:23Z"
+        }
+      ]
+    },
+    "ms_bahiema": {
+      "followers": {
+        "changed_at": "2026-10-20T12:54:44Z",
+        "count": 941,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 938,
+          "2026-10-01": 938
+        }
+      },
+      "in_progress": null,
+      "monthly": {
+        "2026-10": {
+          "categories": {
+            "Dressmaker (2026)": {
+              "launches": 1,
+              "minutes": 232
+            },
+            "Minecraft": {
+              "launches": 1,
+              "minutes": 243
+            }
+          },
+          "hours": [51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,60,60,60,12,13,60,60,60],
+          "launches": 2,
+          "minutes": 475
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Minecraft",
+              "minutes": 243
+            }
+          ],
+          "ended_at": "2026-10-04T21:50:50Z",
+          "hours": [51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,60,60,60],
+          "started_at": "2026-10-04T17:47:29Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Dressmaker (2026)",
+              "minutes": 232
+            }
+          ],
+          "ended_at": "2026-10-02T16:12:30Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,60,60,60,12,0,0,0,0],
+          "started_at": "2026-10-02T12:20:14Z"
+        }
+      ]
+    },
+    "mx_oda": {
+      "followers": {
+        "changed_at": "2026-10-19T21:40:51Z",
+        "count": 161,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 161,
+          "2026-10-01": 162
+        }
+      },
+      "in_progress": null,
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "Art": {
+              "launches": 1,
+              "minutes": 276
+            }
+          },
+          "hours": [29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,60,60,60,60],
+          "launches": 1,
+          "minutes": 276
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 276
+            }
+          ],
+          "ended_at": "2026-09-25T21:29:29Z",
+          "hours": [29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,60,60,60,60],
+          "started_at": "2026-09-25T16:53:54Z"
+        }
+      ]
+    },
+    "nine_ravens_cemetery": {
+      "followers": {
+        "changed_at": "2026-10-17T18:30:52Z",
+        "count": 301,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 295,
+          "2026-10-01": 298
+        }
+      },
+      "in_progress": {
+        "categories": [
+          {
+            "game": "Art",
+            "sec": 4283
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,3600,669,0],
+        "last_seen_at": "2026-10-20T19:11:09Z",
+        "started_at": "2026-10-20T17:59:46Z",
+        "stream_id": "318883737319"
+      },
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "Art": {
+              "launches": 6,
+              "minutes": 748
+            },
+            "Thief: Deadly Shadows": {
+              "launches": 2,
+              "minutes": 336
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,480,480,113],
+          "launches": 8,
+          "minutes": 1084
+        },
+        "2026-10": {
+          "categories": {
+            "Art": {
+              "launches": 12,
+              "minutes": 1485
+            },
+            "Just Chatting": {
+              "launches": 4,
+              "minutes": 417
+            },
+            "Thief: Deadly Shadows": {
+              "launches": 5,
+              "minutes": 692
+            }
+          },
+          "hours": [32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,1136,1140,261],
+          "launches": 21,
+          "minutes": 2596
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 128
+            }
+          ],
+          "ended_at": "2026-10-19T20:07:48Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,8],
+          "started_at": "2026-10-19T17:59:18Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Thief: Deadly Shadows",
+              "minutes": 132
+            }
+          ],
+          "ended_at": "2026-10-18T20:02:34Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,60,60,3],
+          "started_at": "2026-10-18T17:50:43Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Thief: Deadly Shadows",
+              "minutes": 143
+            }
+          ],
+          "ended_at": "2026-10-17T20:21:53Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,22],
+          "started_at": "2026-10-17T17:58:40Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 129
+            }
+          ],
+          "ended_at": "2026-10-16T20:03:45Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,60,60,4],
+          "started_at": "2026-10-16T17:55:00Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 128
+            }
+          ],
+          "ended_at": "2026-10-15T20:06:50Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,7],
+          "started_at": "2026-10-15T17:58:56Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 128
+            }
+          ],
+          "ended_at": "2026-10-14T20:06:46Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,7],
+          "started_at": "2026-10-14T17:59:04Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 0
+            }
+          ],
+          "ended_at": "2026-10-13T18:00:22Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-13T18:00:17Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 130
+            }
+          ],
+          "ended_at": "2026-10-13T20:10:06Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,10],
+          "started_at": "2026-10-13T18:00:08Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 125
+            }
+          ],
+          "ended_at": "2026-10-12T20:03:17Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,60,3],
+          "started_at": "2026-10-12T17:57:53Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Thief: Deadly Shadows",
+              "minutes": 130
+            }
+          ],
+          "ended_at": "2026-10-11T20:09:30Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,10],
+          "started_at": "2026-10-11T17:59:58Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Thief: Deadly Shadows",
+              "minutes": 165
+            }
+          ],
+          "ended_at": "2026-10-10T20:46:28Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,60,46],
+          "started_at": "2026-10-10T18:01:52Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 0
+            }
+          ],
+          "ended_at": "2026-10-09T18:00:24Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-09T18:00:17Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 127
+            }
+          ],
+          "ended_at": "2026-10-09T20:06:44Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,7],
+          "started_at": "2026-10-09T18:00:07Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 126
+            }
+          ],
+          "ended_at": "2026-10-08T20:05:01Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,5],
+          "started_at": "2026-10-08T17:58:36Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 132
+            }
+          ],
+          "ended_at": "2026-10-07T20:10:46Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,60,11],
+          "started_at": "2026-10-07T17:58:30Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 122
+            }
+          ],
+          "ended_at": "2026-10-06T20:01:35Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,2],
+          "started_at": "2026-10-06T17:59:43Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 212
+            }
+          ],
+          "ended_at": "2026-10-05T21:31:51Z",
+          "hours": [32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,60],
+          "started_at": "2026-10-05T17:59:40Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Thief: Deadly Shadows",
+              "minutes": 122
+            }
+          ],
+          "ended_at": "2026-10-04T20:02:37Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,60,3],
+          "started_at": "2026-10-04T18:01:00Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 165
+            }
+          ],
+          "ended_at": "2026-10-03T20:43:25Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,60,43],
+          "started_at": "2026-10-03T17:58:25Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 125
+            }
+          ],
+          "ended_at": "2026-10-02T20:05:35Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,60,6],
+          "started_at": "2026-10-02T18:00:35Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 125
+            }
+          ],
+          "ended_at": "2026-10-01T20:04:07Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,4],
+          "started_at": "2026-10-01T17:59:34Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 125
+            }
+          ],
+          "ended_at": "2026-09-30T20:02:39Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,60,3],
+          "started_at": "2026-09-30T17:58:04Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 122
+            }
+          ],
+          "ended_at": "2026-09-29T20:01:55Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,2],
+          "started_at": "2026-09-29T17:59:55Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 124
+            }
+          ],
+          "ended_at": "2026-09-28T20:03:18Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,3],
+          "started_at": "2026-09-28T17:59:18Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Thief: Deadly Shadows",
+              "minutes": 163
+            }
+          ],
+          "ended_at": "2026-09-27T20:39:44Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,60,60,40],
+          "started_at": "2026-09-27T17:56:47Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Thief: Deadly Shadows",
+              "minutes": 173
+            }
+          ],
+          "ended_at": "2026-09-26T20:51:17Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,60,51],
+          "started_at": "2026-09-26T17:58:01Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 129
+            }
+          ],
+          "ended_at": "2026-09-25T20:08:14Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,60,8],
+          "started_at": "2026-09-25T17:59:42Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 125
+            }
+          ],
+          "ended_at": "2026-09-24T20:04:08Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,4],
+          "started_at": "2026-09-24T17:59:21Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Art",
+              "minutes": 123
+            }
+          ],
+          "ended_at": "2026-09-23T20:02:19Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,2],
+          "started_at": "2026-09-23T17:59:26Z"
+        }
+      ]
+    },
+    "radyjo_holas": {
+      "followers": {
+        "changed_at": "2026-10-20T15:50:55Z",
+        "count": 69,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 64,
+          "2026-10-01": 65
+        }
+      },
+      "in_progress": {
+        "categories": [
+          {
+            "game": "Just Chatting",
+            "sec": 66989
+          }
+        ],
+        "hours_sec": [0,0,0,1520,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,669,0],
+        "last_seen_at": "2026-10-20T19:11:09Z",
+        "started_at": "2026-10-20T00:34:40Z",
+        "stream_id": "317141860308"
+      },
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "Just Chatting": {
+              "launches": 5,
+              "minutes": 13730
+            }
+          },
+          "hours": [600,600,600,573,540,540,540,540,540,540,540,540,540,540,557,600,600,600,600,600,600,600,600,600],
+          "launches": 5,
+          "minutes": 13730
+        },
+        "2026-10": {
+          "categories": {
+            "Just Chatting": {
+              "launches": 9,
+              "minutes": 25920
+            }
+          },
+          "hours": [1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080,1080],
+          "launches": 9,
+          "minutes": 25920
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2880
+            }
+          ],
+          "ended_at": "2026-10-20T00:34:40Z",
+          "hours": [120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120],
+          "started_at": "2026-10-18T00:34:29Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2880
+            }
+          ],
+          "ended_at": "2026-10-18T00:34:29Z",
+          "hours": [120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120],
+          "started_at": "2026-10-16T00:34:18Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2880
+            }
+          ],
+          "ended_at": "2026-10-16T00:34:18Z",
+          "hours": [120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120],
+          "started_at": "2026-10-14T00:34:07Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2880
+            }
+          ],
+          "ended_at": "2026-10-14T00:34:07Z",
+          "hours": [120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120],
+          "started_at": "2026-10-12T00:33:55Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2880
+            }
+          ],
+          "ended_at": "2026-10-12T00:33:55Z",
+          "hours": [120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120],
+          "started_at": "2026-10-10T00:33:44Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2880
+            }
+          ],
+          "ended_at": "2026-10-10T00:33:44Z",
+          "hours": [120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120],
+          "started_at": "2026-10-08T00:33:33Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2880
+            }
+          ],
+          "ended_at": "2026-10-08T00:33:33Z",
+          "hours": [120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120],
+          "started_at": "2026-10-06T00:33:22Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2880
+            }
+          ],
+          "ended_at": "2026-10-06T00:33:22Z",
+          "hours": [120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120],
+          "started_at": "2026-10-04T00:33:11Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2880
+            }
+          ],
+          "ended_at": "2026-10-04T00:33:11Z",
+          "hours": [120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120],
+          "started_at": "2026-10-02T00:32:59Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2880
+            }
+          ],
+          "ended_at": "2026-10-02T00:32:59Z",
+          "hours": [120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120],
+          "started_at": "2026-09-30T00:32:47Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2210
+            }
+          ],
+          "ended_at": "2026-09-30T00:32:47Z",
+          "hours": [120,120,120,93,60,60,60,60,60,60,60,60,60,60,77,120,120,120,120,120,120,120,120,120],
+          "started_at": "2026-09-28T11:42:54Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2880
+            }
+          ],
+          "ended_at": "2026-09-28T11:42:54Z",
+          "hours": [120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120],
+          "started_at": "2026-09-26T11:42:44Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2880
+            }
+          ],
+          "ended_at": "2026-09-26T11:42:44Z",
+          "hours": [120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120],
+          "started_at": "2026-09-24T11:42:33Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 2880
+            }
+          ],
+          "ended_at": "2026-09-24T11:42:33Z",
+          "hours": [120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120,120],
+          "started_at": "2026-09-22T11:42:22Z"
+        }
+      ]
+    },
+    "rudzi_belarus": {
+      "followers": {
+        "changed_at": "2026-10-20T04:30:54Z",
+        "count": 940,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 924,
+          "2026-10-01": 926
+        }
+      },
+      "in_progress": null,
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "SILENT HILL: townfall": {
+              "launches": 4,
+              "minutes": 224
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,93,119,11,0,0,0,0,0,0,0],
+          "launches": 4,
+          "minutes": 224
+        },
+        "2026-10": {
+          "categories": {
+            "Fallout 2": {
+              "launches": 1,
+              "minutes": 125
+            },
+            "SILENT HILL: townfall": {
+              "launches": 9,
+              "minutes": 734
+            },
+            "The Witcher 3: Wild Hunt Remastered": {
+              "launches": 3,
+              "minutes": 86
+            },
+            "Whiskerwood": {
+              "launches": 2,
+              "minutes": 106
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,7,443,442,117,39,0,0,0,0,0,0],
+          "launches": 15,
+          "minutes": 1052
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 115
+            }
+          ],
+          "ended_at": "2026-10-20T12:53:10Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,53,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-20T10:58:24Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 0
+            }
+          ],
+          "ended_at": "2026-10-19T11:00:53Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-19T11:00:40Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 125
+            }
+          ],
+          "ended_at": "2026-10-19T13:06:01Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,60,6,0,0,0,0,0,0,0],
+          "started_at": "2026-10-19T11:00:35Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 89
+            }
+          ],
+          "ended_at": "2026-10-15T12:43:13Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,43,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-15T11:14:38Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 83
+            }
+          ],
+          "ended_at": "2026-10-14T12:46:14Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,46,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-14T11:23:14Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 1
+            }
+          ],
+          "ended_at": "2026-10-14T11:09:17Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-14T11:08:52Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 2
+            }
+          ],
+          "ended_at": "2026-10-14T11:03:53Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-14T11:01:38Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Fallout 2",
+              "minutes": 125
+            }
+          ],
+          "ended_at": "2026-10-09T13:09:13Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,56,60,9,0,0,0,0,0,0,0],
+          "started_at": "2026-10-09T11:04:22Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 115
+            }
+          ],
+          "ended_at": "2026-10-08T12:50:51Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,4,60,51,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-08T10:56:02Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 32
+            }
+          ],
+          "ended_at": "2026-10-07T11:32:20Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-07T11:00:06Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 2
+            }
+          ],
+          "ended_at": "2026-10-06T13:11:58Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0],
+          "started_at": "2026-10-06T13:10:00Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 131
+            }
+          ],
+          "ended_at": "2026-10-06T13:09:16Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,9,0,0,0,0,0,0,0],
+          "started_at": "2026-10-06T10:58:43Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Whiskerwood",
+              "minutes": 74
+            }
+          ],
+          "ended_at": "2026-10-05T13:31:11Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,31,0,0,0,0,0,0,0],
+          "started_at": "2026-10-05T12:16:41Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Whiskerwood",
+              "minutes": 32
+            }
+          ],
+          "ended_at": "2026-10-05T11:38:19Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-05T11:06:46Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 125
+            }
+          ],
+          "ended_at": "2026-10-01T14:38:53Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,60,39,0,0,0,0,0,0],
+          "started_at": "2026-10-01T12:34:19Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 52
+            }
+          ],
+          "ended_at": "2026-09-30T13:00:27Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-30T12:08:27Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 2
+            }
+          ],
+          "ended_at": "2026-09-30T12:07:53Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-30T12:06:04Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 64
+            }
+          ],
+          "ended_at": "2026-09-30T12:05:20Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,5,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-30T11:01:39Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 106
+            }
+          ],
+          "ended_at": "2026-09-29T13:11:08Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,60,11,0,0,0,0,0,0,0],
+          "started_at": "2026-09-29T11:25:24Z"
+        }
+      ]
+    },
+    "shagrael_by": {
+      "followers": {
+        "changed_at": "2026-10-20T13:10:52Z",
+        "count": 1010,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 988,
+          "2026-10-01": 998
+        }
+      },
+      "in_progress": {
+        "categories": [
+          {
+            "game": "Kingdom Come: Deliverance",
+            "sec": 2924
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2255,669,0],
+        "last_seen_at": "2026-10-20T19:11:09Z",
+        "started_at": "2026-10-20T18:22:25Z",
+        "stream_id": "318884161127"
+      },
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "7 Days to Die": {
+              "launches": 3,
+              "minutes": 1400
+            },
+            "Counter-Strike": {
+              "launches": 2,
+              "minutes": 247
+            },
+            "Deadzone: Rogue": {
+              "launches": 1,
+              "minutes": 270
+            },
+            "ELDEN RING": {
+              "launches": 1,
+              "minutes": 315
+            },
+            "Fortnite": {
+              "launches": 1,
+              "minutes": 71
+            },
+            "Supermarket Simulator": {
+              "launches": 3,
+              "minutes": 671
+            },
+            "The Witcher 3: Wild Hunt": {
+              "launches": 1,
+              "minutes": 718
+            },
+            "Valheim": {
+              "launches": 4,
+              "minutes": 1184
+            }
+          },
+          "hours": [480,480,480,455,275,122,70,30,0,0,0,0,0,0,0,0,53,154,194,342,420,420,422,480],
+          "launches": 8,
+          "minutes": 4877
+        },
+        "2026-10": {
+          "categories": {
+            "Big Walk": {
+              "launches": 1,
+              "minutes": 88
+            },
+            "Counter-Strike": {
+              "launches": 4,
+              "minutes": 681
+            },
+            "ELDEN RING": {
+              "launches": 2,
+              "minutes": 297
+            },
+            "Echo Mates": {
+              "launches": 1,
+              "minutes": 56
+            },
+            "Escape the Backrooms": {
+              "launches": 1,
+              "minutes": 301
+            },
+            "Fatekeeper": {
+              "launches": 1,
+              "minutes": 250
+            },
+            "Fortnite": {
+              "launches": 2,
+              "minutes": 87
+            },
+            "Goose Goose Duck": {
+              "launches": 1,
+              "minutes": 98
+            },
+            "How to Fish": {
+              "launches": 1,
+              "minutes": 366
+            },
+            "Kingdom Come: Deliverance": {
+              "launches": 2,
+              "minutes": 594
+            },
+            "R.E.P.O.": {
+              "launches": 1,
+              "minutes": 160
+            },
+            "RV There Yet?": {
+              "launches": 1,
+              "minutes": 210
+            },
+            "Ready or Not": {
+              "launches": 2,
+              "minutes": 334
+            },
+            "Species: Unknown": {
+              "launches": 1,
+              "minutes": 361
+            },
+            "The Witcher 3: Wild Hunt Remastered": {
+              "launches": 3,
+              "minutes": 988
+            },
+            "Valheim": {
+              "launches": 14,
+              "minutes": 4950
+            },
+            "Waterpark Simulator": {
+              "launches": 3,
+              "minutes": 662
+            }
+          },
+          "hours": [1080,1080,1045,1017,957,900,721,298,51,0,0,0,0,0,0,0,0,0,0,162,337,753,1002,1080],
+          "launches": 18,
+          "minutes": 10485
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Echo Mates",
+              "minutes": 56
+            },
+            {
+              "game": "RV There Yet?",
+              "minutes": 210
+            },
+            {
+              "game": "Fatekeeper",
+              "minutes": 250
+            },
+            {
+              "game": "Valheim",
+              "minutes": 118
+            }
+          ],
+          "ended_at": "2026-10-20T03:28:40Z",
+          "hours": [60,60,60,60,60,60,29,0,0,0,0,0,0,0,0,0,0,0,0,5,60,60,60,60],
+          "started_at": "2026-10-19T16:55:00Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Kingdom Come: Deliverance",
+              "minutes": 184
+            },
+            {
+              "game": "Valheim",
+              "minutes": 457
+            }
+          ],
+          "ended_at": "2026-10-19T05:15:13Z",
+          "hours": [60,60,60,60,60,60,60,60,15,0,0,0,0,0,0,0,0,0,0,0,0,25,60,60],
+          "started_at": "2026-10-18T18:35:23Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Fortnite",
+              "minutes": 17
+            },
+            {
+              "game": "Counter-Strike",
+              "minutes": 70
+            },
+            {
+              "game": "R.E.P.O.",
+              "minutes": 160
+            },
+            {
+              "game": "Valheim",
+              "minutes": 392
+            }
+          ],
+          "ended_at": "2026-10-18T04:42:46Z",
+          "hours": [60,60,60,60,60,60,60,43,0,0,0,0,0,0,0,0,0,0,0,0,0,56,60,60],
+          "started_at": "2026-10-17T18:03:35Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Escape the Backrooms",
+              "minutes": 301
+            },
+            {
+              "game": "Valheim",
+              "minutes": 345
+            }
+          ],
+          "ended_at": "2026-10-17T05:36:03Z",
+          "hours": [60,60,60,60,60,60,60,60,36,0,0,0,0,0,0,0,0,0,0,0,0,10,60,60],
+          "started_at": "2026-10-16T18:49:43Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Counter-Strike",
+              "minutes": 119
+            },
+            {
+              "game": "Valheim",
+              "minutes": 423
+            }
+          ],
+          "ended_at": "2026-10-16T03:23:38Z",
+          "hours": [60,60,60,60,60,60,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,60,60],
+          "started_at": "2026-10-15T18:22:08Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Counter-Strike",
+              "minutes": 216
+            },
+            {
+              "game": "Valheim",
+              "minutes": 322
+            }
+          ],
+          "ended_at": "2026-10-15T04:23:29Z",
+          "hours": [60,60,60,60,60,60,60,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,60],
+          "started_at": "2026-10-14T19:25:09Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "ELDEN RING",
+              "minutes": 154
+            },
+            {
+              "game": "Valheim",
+              "minutes": 449
+            }
+          ],
+          "ended_at": "2026-10-14T04:19:29Z",
+          "hours": [60,60,60,60,60,60,60,19,0,0,0,0,0,0,0,0,0,0,0,0,0,44,60,60],
+          "started_at": "2026-10-13T18:16:29Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 444
+            }
+          ],
+          "ended_at": "2026-10-13T01:56:57Z",
+          "hours": [60,60,60,60,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,60,60],
+          "started_at": "2026-10-12T18:32:46Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Counter-Strike",
+              "minutes": 276
+            },
+            {
+              "game": "Fortnite",
+              "minutes": 70
+            },
+            {
+              "game": "Valheim",
+              "minutes": 106
+            }
+          ],
+          "ended_at": "2026-10-12T00:57:10Z",
+          "hours": [60,60,60,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,60,60,60],
+          "started_at": "2026-10-11T17:24:10Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Valheim",
+              "minutes": 468
+            }
+          ],
+          "ended_at": "2026-10-10T03:40:52Z",
+          "hours": [60,60,60,60,60,60,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,60],
+          "started_at": "2026-10-09T19:52:42Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Ready or Not",
+              "minutes": 165
+            },
+            {
+              "game": "Valheim",
+              "minutes": 545
+            }
+          ],
+          "ended_at": "2026-10-09T03:51:40Z",
+          "hours": [60,60,60,60,60,60,52,0,0,0,0,0,0,0,0,0,0,0,0,59,60,60,60,60],
+          "started_at": "2026-10-08T16:00:50Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Big Walk",
+              "minutes": 88
+            },
+            {
+              "game": "Goose Goose Duck",
+              "minutes": 98
+            },
+            {
+              "game": "Valheim",
+              "minutes": 535
+            }
+          ],
+          "ended_at": "2026-10-08T04:54:13Z",
+          "hours": [60,60,60,60,60,60,60,54,0,0,0,0,0,0,0,0,0,0,0,7,60,60,60,60],
+          "started_at": "2026-10-07T16:52:32Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Kingdom Come: Deliverance",
+              "minutes": 410
+            },
+            {
+              "game": "Waterpark Simulator",
+              "minutes": 150
+            }
+          ],
+          "ended_at": "2026-10-07T03:50:14Z",
+          "hours": [60,60,60,60,60,60,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,60,60],
+          "started_at": "2026-10-06T18:30:44Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "How to Fish",
+              "minutes": 366
+            },
+            {
+              "game": "Waterpark Simulator",
+              "minutes": 69
+            },
+            {
+              "game": "Valheim",
+              "minutes": 303
+            }
+          ],
+          "ended_at": "2026-10-06T04:39:17Z",
+          "hours": [60,60,60,60,60,60,60,39,0,0,0,0,0,0,0,0,0,0,0,39,60,60,60,60],
+          "started_at": "2026-10-05T16:21:27Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 276
+            },
+            {
+              "game": "Valheim",
+              "minutes": 274
+            }
+          ],
+          "ended_at": "2026-10-05T03:19:44Z",
+          "hours": [60,60,60,60,60,60,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,60,60],
+          "started_at": "2026-10-04T18:09:54Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Species: Unknown",
+              "minutes": 361
+            },
+            {
+              "game": "Valheim",
+              "minutes": 213
+            }
+          ],
+          "ended_at": "2026-10-04T03:39:50Z",
+          "hours": [60,60,60,60,60,60,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54,60,60],
+          "started_at": "2026-10-03T18:05:50Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "ELDEN RING",
+              "minutes": 143
+            },
+            {
+              "game": "Waterpark Simulator",
+              "minutes": 443
+            }
+          ],
+          "ended_at": "2026-10-03T03:44:44Z",
+          "hours": [60,60,60,60,60,60,45,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,60],
+          "started_at": "2026-10-02T17:58:44Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Ready or Not",
+              "minutes": 169
+            },
+            {
+              "game": "The Witcher 3: Wild Hunt Remastered",
+              "minutes": 268
+            }
+          ],
+          "ended_at": "2026-10-01T23:25:10Z",
+          "hours": [60,60,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,60,60,60,60],
+          "started_at": "2026-10-01T16:07:50Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 718
+            }
+          ],
+          "ended_at": "2026-10-01T01:48:26Z",
+          "hours": [60,60,60,60,48,0,0,0,0,0,0,0,0,0,0,0,9,60,60,60,60,60,60,60],
+          "started_at": "2026-09-30T13:50:46Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Supermarket Simulator",
+              "minutes": 338
+            }
+          ],
+          "ended_at": "2026-09-30T01:35:41Z",
+          "hours": [60,60,60,60,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,60],
+          "started_at": "2026-09-29T19:57:51Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Counter-Strike",
+              "minutes": 121
+            },
+            {
+              "game": "Fortnite",
+              "minutes": 71
+            },
+            {
+              "game": "Supermarket Simulator",
+              "minutes": 221
+            },
+            {
+              "game": "Valheim",
+              "minutes": 270
+            }
+          ],
+          "ended_at": "2026-09-29T03:09:30Z",
+          "hours": [60,60,60,60,60,60,10,0,0,0,0,0,0,0,0,0,0,0,14,60,60,60,60,60],
+          "started_at": "2026-09-28T15:46:10Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Deadzone: Rogue",
+              "minutes": 270
+            },
+            {
+              "game": "Valheim",
+              "minutes": 232
+            }
+          ],
+          "ended_at": "2026-09-28T01:10:33Z",
+          "hours": [60,60,60,60,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,60,60,60,60],
+          "started_at": "2026-09-27T16:47:43Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "7 Days to Die",
+              "minutes": 500
+            },
+            {
+              "game": "Supermarket Simulator",
+              "minutes": 112
+            }
+          ],
+          "ended_at": "2026-09-27T00:37:15Z",
+          "hours": [60,60,60,37,0,0,0,0,0,0,0,0,0,0,0,0,0,34,60,60,60,60,60,60],
+          "started_at": "2026-09-26T14:25:45Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "7 Days to Die",
+              "minutes": 198
+            },
+            {
+              "game": "Counter-Strike",
+              "minutes": 126
+            },
+            {
+              "game": "Valheim",
+              "minutes": 409
+            }
+          ],
+          "ended_at": "2026-09-26T04:29:44Z",
+          "hours": [60,60,60,60,60,60,60,30,0,0,0,0,0,0,0,0,0,0,0,44,60,60,60,60],
+          "started_at": "2026-09-25T16:16:24Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "ELDEN RING",
+              "minutes": 315
+            },
+            {
+              "game": "Valheim",
+              "minutes": 273
+            }
+          ],
+          "ended_at": "2026-09-25T02:02:12Z",
+          "hours": [60,60,60,60,60,2,0,0,0,0,0,0,0,0,0,0,0,0,0,46,60,60,60,60],
+          "started_at": "2026-09-24T16:13:52Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "7 Days to Die",
+              "minutes": 702
+            }
+          ],
+          "ended_at": "2026-09-24T00:57:42Z",
+          "hours": [60,60,60,58,0,0,0,0,0,0,0,0,0,0,0,0,44,60,60,60,60,60,60,60],
+          "started_at": "2026-09-23T13:15:42Z"
+        }
+      ]
+    },
+    "sla5her_by": {
+      "followers": {
+        "changed_at": "2026-10-07T20:50:22Z",
+        "count": 313,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-10-01": 313
+        }
+      },
+      "in_progress": null,
+      "monthly": {
+        "2026-10": {
+          "categories": {
+            "HELLDIVERS 2": {
+              "launches": 1,
+              "minutes": 246
+            }
+          },
+          "hours": [22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,60,60,60],
+          "launches": 1,
+          "minutes": 246
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "HELLDIVERS 2",
+              "minutes": 246
+            }
+          ],
+          "ended_at": "2026-10-14T21:21:38Z",
+          "hours": [22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,60,60,60],
+          "started_at": "2026-10-14T17:15:59Z"
+        }
+      ]
+    },
+    "toddzie": {
+      "followers": {
+        "changed_at": "2026-10-19T23:00:52Z",
+        "count": 410,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 410,
+          "2026-10-01": 411
+        }
+      },
+      "in_progress": null,
+      "monthly": {},
+      "recent_sessions": []
+    },
+    "toidrygizpg": {
+      "followers": {
+        "changed_at": "2026-10-09T08:55:54Z",
+        "count": 49,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-10-01": 45
+        }
+      },
+      "in_progress": null,
+      "monthly": {
+        "2026-10": {
+          "categories": {
+            "The Witcher 3: Wild Hunt": {
+              "launches": 2,
+              "minutes": 494
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,42,60,54,0,0,23,60,60,60,60,60,15,0,0],
+          "launches": 2,
+          "minutes": 494
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 156
+            }
+          ],
+          "ended_at": "2026-10-09T09:53:48Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,42,60,54,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-09T07:17:50Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 338
+            }
+          ],
+          "ended_at": "2026-10-08T18:14:41Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,60,60,60,60,60,15,0,0],
+          "started_at": "2026-10-08T12:37:03Z"
+        }
+      ]
+    },
+    "ucenamescy": {
+      "followers": {
+        "changed_at": "2026-10-15T22:11:11Z",
+        "count": 148,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 142,
+          "2026-10-01": 142
+        }
+      },
+      "in_progress": null,
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "Mewgenics": {
+              "launches": 1,
+              "minutes": 168
+            }
+          },
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,60,50],
+          "launches": 1,
+          "minutes": 168
+        },
+        "2026-10": {
+          "categories": {
+            "Apex Legends": {
+              "launches": 2,
+              "minutes": 351
+            },
+            "Big Walk": {
+              "launches": 1,
+              "minutes": 77
+            },
+            "Echo Mates": {
+              "launches": 1,
+              "minutes": 170
+            },
+            "Games + Demos": {
+              "launches": 1,
+              "minutes": 82
+            },
+            "Goose Goose Duck": {
+              "launches": 1,
+              "minutes": 105
+            },
+            "How to Fish": {
+              "launches": 1,
+              "minutes": 301
+            },
+            "Mewgenics": {
+              "launches": 2,
+              "minutes": 368
+            },
+            "RV There Yet?": {
+              "launches": 3,
+              "minutes": 102
+            },
+            "Ready or Not": {
+              "launches": 3,
+              "minutes": 288
+            },
+            "Shadows of Doubt": {
+              "launches": 1,
+              "minutes": 159
+            },
+            "Species: Unknown": {
+              "launches": 2,
+              "minutes": 145
+            }
+          },
+          "hours": [140,57,0,0,0,0,0,0,0,0,0,0,0,27,90,180,174,158,24,118,349,317,280,235],
+          "launches": 12,
+          "minutes": 2151
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "RV There Yet?",
+              "minutes": 20
+            },
+            {
+              "game": "Games + Demos",
+              "minutes": 82
+            }
+          ],
+          "ended_at": "2026-10-20T15:22:25Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,60,22,0,0,0,0,0],
+          "started_at": "2026-10-20T13:40:41Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "RV There Yet?",
+              "minutes": 18
+            },
+            {
+              "game": "Echo Mates",
+              "minutes": 170
+            },
+            {
+              "game": "RV There Yet?",
+              "minutes": 64
+            }
+          ],
+          "ended_at": "2026-10-19T21:15:38Z",
+          "hours": [16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,60,60,60],
+          "started_at": "2026-10-19T17:02:51Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Mewgenics",
+              "minutes": 202
+            }
+          ],
+          "ended_at": "2026-10-16T15:02:25Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,60,60,60,2,0,0,0,0,0],
+          "started_at": "2026-10-16T11:40:40Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Apex Legends",
+              "minutes": 169
+            }
+          ],
+          "ended_at": "2026-10-15T14:37:50Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,60,60,38,0,0,0,0,0,0],
+          "started_at": "2026-10-15T11:48:58Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Mewgenics",
+              "minutes": 166
+            }
+          ],
+          "ended_at": "2026-10-13T22:57:15Z",
+          "hours": [60,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49],
+          "started_at": "2026-10-13T20:11:10Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Shadows of Doubt",
+              "minutes": 159
+            }
+          ],
+          "ended_at": "2026-10-11T19:44:34Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,60,45,0],
+          "started_at": "2026-10-11T17:05:26Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Ready or Not",
+              "minutes": 144
+            }
+          ],
+          "ended_at": "2026-10-08T18:41:01Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,60,41,0,0],
+          "started_at": "2026-10-08T16:16:38Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Big Walk",
+              "minutes": 77
+            },
+            {
+              "game": "Goose Goose Duck",
+              "minutes": 105
+            }
+          ],
+          "ended_at": "2026-10-07T20:06:05Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,60,60,6],
+          "started_at": "2026-10-07T17:03:12Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Apex Legends",
+              "minutes": 182
+            }
+          ],
+          "ended_at": "2026-10-06T13:34:41Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,27,60,60,35,0,0,0,0,0,0,0],
+          "started_at": "2026-10-06T10:33:05Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Species: Unknown",
+              "minutes": 22
+            },
+            {
+              "game": "How to Fish",
+              "minutes": 301
+            }
+          ],
+          "ended_at": "2026-10-05T21:54:52Z",
+          "hours": [55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,60,60,60,60],
+          "started_at": "2026-10-05T16:30:37Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Ready or Not",
+              "minutes": 1
+            },
+            {
+              "game": "Species: Unknown",
+              "minutes": 123
+            }
+          ],
+          "ended_at": "2026-10-03T21:08:31Z",
+          "hours": [9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,60],
+          "started_at": "2026-10-03T19:04:38Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Ready or Not",
+              "minutes": 143
+            }
+          ],
+          "ended_at": "2026-10-01T18:36:30Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,60,36,0,0],
+          "started_at": "2026-10-01T16:13:36Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Mewgenics",
+              "minutes": 168
+            }
+          ],
+          "ended_at": "2026-09-23T20:49:51Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,60,50],
+          "started_at": "2026-09-23T18:01:37Z"
+        }
+      ]
+    },
+    "ulaadzik": {
+      "followers": {
+        "changed_at": "2026-10-19T21:40:51Z",
+        "count": 180,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 181,
+          "2026-10-01": 181
+        }
+      },
+      "in_progress": null,
+      "monthly": {},
+      "recent_sessions": []
+    },
+    "watafakablr": {
+      "followers": {
+        "changed_at": "2026-10-20T18:10:58Z",
+        "count": 472,
+        "fail_runs": 0,
+        "snapshots": {
+          "2026-09-01": 467,
+          "2026-10-01": 466
+        }
+      },
+      "in_progress": {
+        "categories": [
+          {
+            "game": "WARDOGS",
+            "sec": 11892
+          }
+        ],
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,423,3600,3600,3600,669,0],
+        "last_seen_at": "2026-10-20T19:11:09Z",
+        "started_at": "2026-10-20T15:52:57Z",
+        "stream_id": "317144952660"
+      },
+      "monthly": {
+        "2026-09": {
+          "categories": {
+            "Just Chatting": {
+              "launches": 1,
+              "minutes": 90
+            },
+            "PAPERHEAD EP.0": {
+              "launches": 1,
+              "minutes": 136
+            },
+            "Retro": {
+              "launches": 2,
+              "minutes": 509
+            },
+            "WARDOGS": {
+              "launches": 5,
+              "minutes": 1598
+            }
+          },
+          "hours": [89,1,0,0,0,0,0,0,0,0,0,102,188,240,171,60,17,73,240,240,240,240,240,190],
+          "launches": 8,
+          "minutes": 2333
+        },
+        "2026-10": {
+          "categories": {
+            "ARC Raiders": {
+              "launches": 2,
+              "minutes": 187
+            },
+            "HELLDIVERS 2": {
+              "launches": 1,
+              "minutes": 247
+            },
+            "Just Chatting": {
+              "launches": 3,
+              "minutes": 592
+            },
+            "Retro": {
+              "launches": 4,
+              "minutes": 1174
+            },
+            "WARDOGS": {
+              "launches": 15,
+              "minutes": 4626
+            }
+          },
+          "hours": [309,36,0,0,0,0,0,0,0,0,171,300,277,178,120,148,201,264,501,847,946,909,900,719],
+          "launches": 23,
+          "minutes": 6827
+        }
+      },
+      "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 316
+            },
+            {
+              "game": "Just Chatting",
+              "minutes": 100
+            }
+          ],
+          "ended_at": "2026-10-18T20:15:35Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,60,60,60,60,60,60,16],
+          "started_at": "2026-10-18T13:19:19Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Retro",
+              "minutes": 170
+            }
+          ],
+          "ended_at": "2026-10-18T10:31:19Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,19,60,60,31,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-18T07:41:07Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 394
+            }
+          ],
+          "ended_at": "2026-10-17T21:24:05Z",
+          "hours": [24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,60,60,60,60,60,60],
+          "started_at": "2026-10-17T14:50:29Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 0
+            }
+          ],
+          "ended_at": "2026-10-17T14:50:29Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-17T14:50:01Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 337
+            }
+          ],
+          "ended_at": "2026-10-15T20:59:41Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,60,60,60,60,60],
+          "started_at": "2026-10-15T15:22:50Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "HELLDIVERS 2",
+              "minutes": 247
+            }
+          ],
+          "ended_at": "2026-10-14T21:21:38Z",
+          "hours": [22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,60,60,60],
+          "started_at": "2026-10-14T17:14:15Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 288
+            }
+          ],
+          "ended_at": "2026-10-13T21:04:52Z",
+          "hours": [5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,60,60,60,60],
+          "started_at": "2026-10-13T16:17:11Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 267
+            }
+          ],
+          "ended_at": "2026-10-12T20:06:27Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,60,60,60,60,6],
+          "started_at": "2026-10-12T15:39:16Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 369
+            },
+            {
+              "game": "Just Chatting",
+              "minutes": 148
+            }
+          ],
+          "ended_at": "2026-10-11T21:08:40Z",
+          "hours": [9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,60,60,60,60,60,60,60,60],
+          "started_at": "2026-10-11T12:31:45Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Retro",
+              "minutes": 146
+            }
+          ],
+          "ended_at": "2026-10-11T09:37:13Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,48,60,37,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-11T07:11:42Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 377
+            }
+          ],
+          "ended_at": "2026-10-10T20:05:12Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,60,60,60,60,60,60,5],
+          "started_at": "2026-10-10T13:48:10Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "ARC Raiders",
+              "minutes": 180
+            }
+          ],
+          "ended_at": "2026-10-10T10:27:24Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,32,60,60,27,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-10T07:27:49Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "ARC Raiders",
+              "minutes": 7
+            }
+          ],
+          "ended_at": "2026-10-10T07:27:49Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-10T07:21:16Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 369
+            }
+          ],
+          "ended_at": "2026-10-09T22:32:59Z",
+          "hours": [60,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,60,60,60,60],
+          "started_at": "2026-10-09T16:24:03Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 397
+            }
+          ],
+          "ended_at": "2026-10-08T22:02:41Z",
+          "hours": [60,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,60,60,60,60,60],
+          "started_at": "2026-10-08T15:25:59Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 260
+            }
+          ],
+          "ended_at": "2026-10-07T20:32:09Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,60,60,60,32],
+          "started_at": "2026-10-07T16:12:11Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 334
+            }
+          ],
+          "ended_at": "2026-10-05T21:31:51Z",
+          "hours": [32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,60,60,60,60],
+          "started_at": "2026-10-05T15:58:07Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Just Chatting",
+              "minutes": 344
+            }
+          ],
+          "ended_at": "2026-10-04T21:29:24Z",
+          "hours": [29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,60,60,60,60,60],
+          "started_at": "2026-10-04T15:45:11Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Retro",
+              "minutes": 499
+            }
+          ],
+          "ended_at": "2026-10-04T15:45:11Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,34,60,60,60,60,60,60,60,45,0,0,0,0,0],
+          "started_at": "2026-10-04T07:26:01Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 384
+            }
+          ],
+          "ended_at": "2026-10-03T21:09:48Z",
+          "hours": [10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,60,60,60,60,60,60],
+          "started_at": "2026-10-03T14:45:52Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Retro",
+              "minutes": 359
+            }
+          ],
+          "ended_at": "2026-10-03T13:27:57Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,31,60,60,60,60,60,28,0,0,0,0,0,0,0],
+          "started_at": "2026-10-03T07:28:59Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 160
+            }
+          ],
+          "ended_at": "2026-10-02T18:08:35Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,60,60,9,0,0],
+          "started_at": "2026-10-02T15:29:02Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 374
+            }
+          ],
+          "ended_at": "2026-10-01T21:58:00Z",
+          "hours": [58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,60,60,60,60,60],
+          "started_at": "2026-10-01T15:43:30Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 273
+            },
+            {
+              "game": "Just Chatting",
+              "minutes": 90
+            }
+          ],
+          "ended_at": "2026-09-27T20:18:21Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,60,60,60,60,60,18],
+          "started_at": "2026-09-27T14:15:11Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Retro",
+              "minutes": 203
+            }
+          ],
+          "ended_at": "2026-09-27T11:28:35Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,54,60,60,29,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-27T08:05:30Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "Retro",
+              "minutes": 306
+            }
+          ],
+          "ended_at": "2026-09-26T13:17:29Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,48,60,60,60,60,17,0,0,0,0,0,0,0],
+          "started_at": "2026-09-26T08:11:33Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 396
+            }
+          ],
+          "ended_at": "2026-09-25T21:29:29Z",
+          "hours": [29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,60,60,60,60,60,60],
+          "started_at": "2026-09-25T14:53:56Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 134
+            }
+          ],
+          "ended_at": "2026-09-25T11:30:46Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,43,60,31,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-25T09:17:16Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 442
+            }
+          ],
+          "ended_at": "2026-09-24T22:01:01Z",
+          "hours": [60,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,60,60,60,60,60,60],
+          "started_at": "2026-09-24T14:38:38Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "PAPERHEAD EP.0",
+              "minutes": 136
+            }
+          ],
+          "ended_at": "2026-09-24T11:50:51Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,25,60,51,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-09-24T09:34:55Z"
+        },
+        {
+          "categories": [
+            {
+              "game": "WARDOGS",
+              "minutes": 353
+            }
+          ],
+          "ended_at": "2026-09-23T20:51:32Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,60,60,60,60,52],
+          "started_at": "2026-09-23T14:58:52Z"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-10-20T19:11:09Z"
+}
