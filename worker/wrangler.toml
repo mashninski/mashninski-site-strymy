@@ -11,7 +11,7 @@ preview_urls = false
 
 # Каждые 10 минут: запуск collect.yml и сверка подписок EventSub.
 # Cron самого воркфлоу сдвинут на 3-59/10 — минуты не совпадают.
-# В :17 нечётных часов UTC: запуск harvest.yml ai-news-harvester, вид
+# В :17 нечётных часов UTC: запуск harvest.yml mashninski-site-naviny, вид
 # прогона по часу — src/harvest.js (строка та же, что HARVEST_CRON там).
 # Запасной schedule в harvest.yml — в :47 тех же часов.
 [triggers]

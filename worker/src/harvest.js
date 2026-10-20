@@ -1,4 +1,4 @@
-/* Запуск сборщика новостей ai-news-harvester (воркфлоу harvest.yml)
+/* Запуск сборщика новостей mashninski-site-naviny (воркфлоу harvest.yml)
    по времени — вместо schedule GitHub, который выкидывает прогоны.
 
    Решение — claude/ai-news-plan.md сайта, «Этап 9»: новость на сайте
@@ -20,7 +20,7 @@ import { dispatchWorkflow } from "./github.js";
 export const HARVEST_CRON = "17 1-23/2 * * *";
 
 const HARVEST_URL =
-  "https://api.github.com/repos/mashninski/ai-news-harvester/actions/workflows/harvest.yml/dispatches";
+  "https://api.github.com/repos/mashninski/mashninski-site-naviny/actions/workflows/harvest.yml/dispatches";
 
 export const KIND_BY_HOUR = { 23: "generate", 11: "generate", 1: "fix", 13: "fix", 5: "publish", 17: "publish" };
 

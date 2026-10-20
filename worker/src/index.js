@@ -1,10 +1,10 @@
-/* Worker «будильник» бота streaminfo-sitebot.
+/* Worker «будильник» бота mashninski-site-strymy.
 
    - cron каждые 10 минут: запуск collect.yml через workflow_dispatch
      (cron самого GitHub часами пропускает прогоны) и сверка подписок
      Twitch EventSub;
    - cron в :17 нечётных часов: запуск harvest.yml сборщика новостей
-     ai-news-harvester с видом прогона по часу (src/harvest.js);
+     mashninski-site-naviny с видом прогона по часу (src/harvest.js);
    - POST /twitch/eventsub: Twitch сообщает о начале или конце эфира,
      бот запускается сразу.
 

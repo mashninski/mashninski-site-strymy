@@ -1,5 +1,5 @@
 /* Запуск воркфлоу через workflow_dispatch: бот (collect.yml) и сборщик
-   новостей ai-news-harvester (harvest.yml, src/harvest.js).
+   новостей mashninski-site-naviny (harvest.yml, src/harvest.js).
 
    Событие workflow_dispatch GitHub ставит в очередь сразу, в отличие
    от schedule, который часами пропускает прогоны. Параллельных прогонов
@@ -7,7 +7,7 @@
    и один ждущий, лишние ждущие GitHub сам заменяет последним. */
 
 const COLLECT_URL =
-  "https://api.github.com/repos/mashninski/streaminfo-sitebot/actions/workflows/collect.yml/dispatches";
+  "https://api.github.com/repos/mashninski/mashninski-site-strymy/actions/workflows/collect.yml/dispatches";
 
 /**
  * POST на адрес dispatches с телом { ref: "main", inputs }. Токен —

@@ -39,7 +39,7 @@ test("dispatchHarvest шлёт workflow_dispatch harvest.yml с видом пр�
   const calls = captureFetch();
   assert.equal(await dispatchHarvest({ GITHUB_TOKEN: "gh-test" }, at(23)), true);
   assert.equal(await dispatchHarvest({ GITHUB_TOKEN: "gh-test" }, at(9)), true);
-  assert.match(calls[0].url, /ai-news-harvester\/actions\/workflows\/harvest\.yml\/dispatches$/);
+  assert.match(calls[0].url, /mashninski-site-naviny\/actions\/workflows\/harvest\.yml\/dispatches$/);
   assert.deepEqual(calls[0].body, { ref: "main", inputs: { kind: "generate" } });
   assert.deepEqual(calls[1].body, { ref: "main", inputs: { kind: "collect" } });
 });
@@ -61,7 +61,7 @@ test("cron harvest в wrangler.toml — тот же, что HARVEST_CRON", () =>
 // Запасной schedule харвестера — те же часы и виды, минута 47. Харвестер —
 // отдельный репозиторий; лежит рядом (D:\production) — сверяем, нет — пропуск.
 const HARVEST_YML = fileURLToPath(
-  new URL("../../../ai-news-harvester/.github/workflows/harvest.yml", import.meta.url),
+  new URL("../../../naviny/.github/workflows/harvest.yml", import.meta.url),
 );
 
 test("часы и виды совпадают с запасным schedule в harvest.yml", { skip: !existsSync(HARVEST_YML) }, () => {

@@ -36,6 +36,16 @@ jobs:
           ref: main
           ssh-key: ${{ secrets.DEPLOY_KEY }}
 
+      # Данные бота (data/) живут в отдельной ветке data, а не в main: коммит
+      # раз в 10 минут иначе засорял бы историю кода. Ветка подключается
+      # рабочей копией в $RUNNER_TEMP/state, data/ сборщика — ссылкой на неё.
+      - name: Load state
+        run: |
+          git fetch --depth=1 origin data
+          git worktree add --detach "$RUNNER_TEMP/state" FETCH_HEAD
+          rm -rf data
+          ln -s "$RUNNER_TEMP/state/data" data
+
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
@@ -60,6 +70,7 @@ jobs:
         run: python collect.py
 
       - name: Commit if changed
+        working-directory: ${{ runner.temp }}/state
         run: |
           if [[ -z "$(git status --porcelain data/)" ]]; then
             echo "Изменений нет — коммита не будет"
@@ -69,7 +80,7 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add data/
           git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ)"
-          git push
+          git push origin HEAD:data
 
       # Смена логина или пропажа канала: данные уже закоммичены выше, а этот шаг
       # завершается ошибкой, чтобы GitHub прислал владельцу письмо о сбое.
