@@ -2110,7 +2110,7 @@
         "since": "2026-10-21T08:03:14Z",
         "stream_id": "318889665511",
         "title": "BEL дэградацыя",
-        "viewers": 0
+        "viewers": 1
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-09-03T10:48:48Z",
@@ -4744,5 +4744,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-21T08:03:44Z"
+  "updated_at": "2026-10-21T08:10:33Z"
 }
