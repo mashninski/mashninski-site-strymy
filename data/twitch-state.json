@@ -650,6 +650,21 @@
       "display_name": "Bel_Asch",
       "history": [
         {
+          "duration_min": 211,
+          "ended_at": "2026-10-21T18:29:33Z",
+          "game": "Silent Hill: Shattered Memories",
+          "source": "vod",
+          "started_at": "2026-10-21T14:58:53Z",
+          "stream_id": "319031396837",
+          "title": "Традыцыі не парушаюцца 🌁 | Silent Hill: Shattered Memories (Wii ver)",
+          "vod": {
+            "gone": false,
+            "id": "2906804667",
+            "seen_at": "2026-10-21T18:33:46Z",
+            "url": "https://www.twitch.tv/videos/2906804667"
+          }
+        },
+        {
           "duration_min": 129,
           "ended_at": "2026-10-20T21:19:04Z",
           "game": "Dragon Age: Inquisition",
@@ -891,26 +906,26 @@
         }
       ],
       "last_stream": {
-        "duration_min": 129,
-        "ended_at": "2026-10-20T21:19:04Z",
-        "game": "Dragon Age: Inquisition",
+        "duration_min": 211,
+        "ended_at": "2026-10-21T18:29:33Z",
+        "game": "Silent Hill: Shattered Memories",
         "source": "vod",
-        "started_at": "2026-10-20T19:10:27Z",
-        "stream_id": "319023541477",
-        "title": "Невялікі чыл 🧘‍♀️ | Dragon Age: Inquisition",
+        "started_at": "2026-10-21T14:58:53Z",
+        "stream_id": "319031396837",
+        "title": "Традыцыі не парушаюцца 🌁 | Silent Hill: Shattered Memories (Wii ver)",
         "vod": {
           "gone": false,
-          "id": "2906141292",
-          "seen_at": "2026-10-20T21:25:39Z",
-          "url": "https://www.twitch.tv/videos/2906141292"
+          "id": "2906804667",
+          "seen_at": "2026-10-21T18:33:46Z",
+          "url": "https://www.twitch.tv/videos/2906804667"
         }
       },
       "live": {
-        "game": "Silent Hill: Shattered Memories",
-        "since": "2026-10-21T14:58:53Z",
-        "stream_id": "319031396837",
-        "title": "Традыцыі не парушаюцца 🌁 | Silent Hill: Shattered Memories (Wii ver)",
-        "viewers": 4
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -2079,7 +2094,7 @@
         "since": "2026-10-21T17:15:12Z",
         "stream_id": "317070505301",
         "title": "Dead Space падзея у Battlefield 6 Памацаем",
-        "viewers": 10
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -2827,7 +2842,7 @@
         "since": "2026-10-21T17:55:04Z",
         "stream_id": "319091344614",
         "title": "[BLR] Рыхтуемся да GTA VI. Зарабляем міліярд. Stonks",
-        "viewers": 5
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3278,7 +3293,7 @@
         "since": "2026-10-21T17:59:52Z",
         "stream_id": "317152336724",
         "title": "Кароль сардэчны",
-        "viewers": 7
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4119,7 +4134,7 @@
         "since": "2026-10-21T18:21:33Z",
         "stream_id": "317071086037",
         "title": "Ідзем па дроп від Іринка подруга",
-        "viewers": 6
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4760,5 +4775,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-21T18:30:31Z"
+  "updated_at": "2026-10-21T18:33:46Z"
 }
