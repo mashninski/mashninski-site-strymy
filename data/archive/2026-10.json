@@ -719,16 +719,27 @@
     },
     "lilzorka_": {
       "added_at": "2026-09-11",
-      "categories": {},
+      "categories": {
+        "ROBLOX": {
+          "launches": 1,
+          "minutes": 107
+        }
+      },
       "display_name": "lilzorka_",
       "followers_end": null,
       "followers_start": 130,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-      "launches": 0,
-      "minutes": 0,
-      "prev_broadcast_at": null,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,57,50,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 1,
+      "minutes": 107,
+      "prev_broadcast_at": "2026-09-03T10:48:48Z",
       "prev_ended_at": null,
-      "sessions": []
+      "sessions": [
+        {
+          "duration_min": 107,
+          "ended_at": "2026-10-21T09:50:03Z",
+          "started_at": "2026-10-21T08:03:14Z"
+        }
+      ]
     },
     "lucii7vel": {
       "added_at": "2026-09-11",
@@ -1939,5 +1950,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-21T05:18:43Z"
+  "updated_at": "2026-10-21T09:50:31Z"
 }
