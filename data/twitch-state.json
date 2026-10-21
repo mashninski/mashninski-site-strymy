@@ -2527,6 +2527,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 224,
+          "ended_at": "2026-10-21T21:38:40Z",
+          "game": "Grand Theft Auto V",
+          "source": "vod",
+          "started_at": "2026-10-21T17:55:04Z",
+          "stream_id": "319091344614",
+          "title": "[BLR] Рыхтуемся да GTA VI. Зарабляем міліярд. Stonks",
+          "vod": {
+            "gone": false,
+            "id": "2906937071",
+            "seen_at": "2026-10-21T21:40:16Z",
+            "url": "https://www.twitch.tv/videos/2906937071"
+          }
+        },
+        {
           "duration_min": 194,
           "ended_at": "2026-10-20T21:11:38Z",
           "game": "A Little to the Left",
@@ -2810,44 +2825,29 @@
             "seen_at": "2026-09-26T21:00:52Z",
             "url": "https://www.twitch.tv/videos/2884727072"
           }
-        },
-        {
-          "duration_min": 224,
-          "ended_at": "2026-09-25T21:55:32Z",
-          "game": "Grand Theft Auto V",
-          "source": "vod",
-          "started_at": "2026-09-25T18:11:32Z",
-          "stream_id": "318716792549",
-          "title": "[BLR] Рыхтуемся да GTA VI. Прыгоды ў Солтэн сіці",
-          "vod": {
-            "gone": false,
-            "id": "2883785137",
-            "seen_at": "2026-09-25T22:01:06Z",
-            "url": "https://www.twitch.tv/videos/2883785137"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 194,
-        "ended_at": "2026-10-20T21:11:38Z",
-        "game": "A Little to the Left",
+        "duration_min": 224,
+        "ended_at": "2026-10-21T21:38:40Z",
+        "game": "Grand Theft Auto V",
         "source": "vod",
-        "started_at": "2026-10-20T17:57:28Z",
-        "stream_id": "319022314725",
-        "title": "[BLR] Размоўны стрым. Крыху ўлева. Індзі аўторак",
+        "started_at": "2026-10-21T17:55:04Z",
+        "stream_id": "319091344614",
+        "title": "[BLR] Рыхтуемся да GTA VI. Зарабляем міліярд. Stonks",
         "vod": {
           "gone": false,
-          "id": "2906078517",
-          "seen_at": "2026-10-20T21:13:17Z",
-          "url": "https://www.twitch.tv/videos/2906078517"
+          "id": "2906937071",
+          "seen_at": "2026-10-21T21:40:16Z",
+          "url": "https://www.twitch.tv/videos/2906937071"
         }
       },
       "live": {
-        "game": "Grand Theft Auto V",
-        "since": "2026-10-21T17:55:04Z",
-        "stream_id": "319091344614",
-        "title": "[BLR] Рыхтуемся да GTA VI. Зарабляем міліярд. Stonks",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4139,7 +4139,7 @@
         "since": "2026-10-21T18:21:33Z",
         "stream_id": "317071086037",
         "title": "Ідзем па дроп від Іринка подруга",
-        "viewers": 12
+        "viewers": 13
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4780,5 +4780,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-21T21:30:39Z"
+  "updated_at": "2026-10-21T21:40:15Z"
 }
