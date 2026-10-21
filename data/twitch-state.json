@@ -2983,6 +2983,21 @@
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
         {
+          "duration_min": 162,
+          "ended_at": "2026-10-21T20:42:20Z",
+          "game": "Art",
+          "source": "vod",
+          "started_at": "2026-10-21T17:59:52Z",
+          "stream_id": "317152336724",
+          "title": "Кароль сардэчны",
+          "vod": {
+            "gone": false,
+            "id": "2906941626",
+            "seen_at": "2026-10-21T20:43:53Z",
+            "url": "https://www.twitch.tv/videos/2906941626"
+          }
+        },
+        {
           "duration_min": 130,
           "ended_at": "2026-10-20T20:09:21Z",
           "game": "Art",
@@ -3261,44 +3276,29 @@
             "seen_at": "2026-10-04T22:06:16Z",
             "url": "https://www.twitch.tv/videos/2891909223"
           }
-        },
-        {
-          "duration_min": 165,
-          "ended_at": "2026-10-03T20:43:25Z",
-          "game": "Just Chatting",
-          "source": "vod",
-          "started_at": "2026-10-03T17:58:25Z",
-          "stream_id": "316992277718",
-          "title": "Глядзім \"Адрынутыя\" 2012, трошкі захварэў",
-          "vod": {
-            "gone": false,
-            "id": "2890939369",
-            "seen_at": "2026-10-03T21:09:51Z",
-            "url": "https://www.twitch.tv/videos/2890939369"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 130,
-        "ended_at": "2026-10-20T20:09:21Z",
+        "duration_min": 162,
+        "ended_at": "2026-10-21T20:42:20Z",
         "game": "Art",
         "source": "vod",
-        "started_at": "2026-10-20T17:59:46Z",
-        "stream_id": "318883737319",
-        "title": "Найжудаснейшы павук",
+        "started_at": "2026-10-21T17:59:52Z",
+        "stream_id": "317152336724",
+        "title": "Кароль сардэчны",
         "vod": {
           "gone": false,
-          "id": "2906080856",
-          "seen_at": "2026-10-20T20:11:00Z",
-          "url": "https://www.twitch.tv/videos/2906080856"
+          "id": "2906941626",
+          "seen_at": "2026-10-21T20:43:53Z",
+          "url": "https://www.twitch.tv/videos/2906941626"
         }
       },
       "live": {
-        "game": "Art",
-        "since": "2026-10-21T17:59:52Z",
-        "stream_id": "317152336724",
-        "title": "Кароль сардэчны",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4139,7 +4139,7 @@
         "since": "2026-10-21T18:21:33Z",
         "stream_id": "317071086037",
         "title": "Ідзем па дроп від Іринка подруга",
-        "viewers": 11
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4780,5 +4780,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-21T20:40:38Z"
+  "updated_at": "2026-10-21T20:43:53Z"
 }
