@@ -638,7 +638,7 @@
         "since": "2026-10-21T18:06:44Z",
         "stream_id": "319034433509",
         "title": "Пабудуем ЗША, мо магчыма будзе батл)",
-        "viewers": 6
+        "viewers": 7
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6f85ccf-8f12-43f4-90e3-1e1cf95ab956-profile_image-300x300.jpeg",
@@ -1774,6 +1774,21 @@
       "display_name": "lepus81",
       "history": [
         {
+          "duration_min": 198,
+          "ended_at": "2026-10-21T20:33:02Z",
+          "game": "Ready or Not",
+          "source": "vod",
+          "started_at": "2026-10-21T17:15:12Z",
+          "stream_id": "317070505301",
+          "title": "Пару кастамных мап у RoN",
+          "vod": {
+            "gone": false,
+            "id": "2906905908",
+            "seen_at": "2026-10-21T20:34:38Z",
+            "url": "https://www.twitch.tv/videos/2906905908"
+          }
+        },
+        {
           "duration_min": 241,
           "ended_at": "2026-10-20T20:33:23Z",
           "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
@@ -2057,44 +2072,29 @@
             "seen_at": "2026-10-04T11:06:01Z",
             "url": "https://www.twitch.tv/videos/2882743803"
           }
-        },
-        {
-          "duration_min": 202,
-          "ended_at": "2026-09-23T19:35:11Z",
-          "game": "No Man's Sky",
-          "source": "vod",
-          "started_at": "2026-09-23T16:13:11Z",
-          "stream_id": "316973135188",
-          "title": "Зазірнем у новую экспедыцыю",
-          "vod": {
-            "gone": false,
-            "id": "2881982246",
-            "seen_at": "2026-10-04T11:06:01Z",
-            "url": "https://www.twitch.tv/videos/2881982246"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 241,
-        "ended_at": "2026-10-20T20:33:23Z",
-        "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "duration_min": 198,
+        "ended_at": "2026-10-21T20:33:02Z",
+        "game": "Ready or Not",
         "source": "vod",
-        "started_at": "2026-10-20T16:32:23Z",
-        "stream_id": "317099577686",
-        "title": "\"Няхай спраўдзяцца іх мары, няхай яны павераць у сябе і няхай яны пасмяюцца над сваім запалам\"",
+        "started_at": "2026-10-21T17:15:12Z",
+        "stream_id": "317070505301",
+        "title": "Пару кастамных мап у RoN",
         "vod": {
           "gone": false,
-          "id": "2906008637",
-          "seen_at": "2026-10-20T20:35:05Z",
-          "url": "https://www.twitch.tv/videos/2906008637"
+          "id": "2906905908",
+          "seen_at": "2026-10-21T20:34:38Z",
+          "url": "https://www.twitch.tv/videos/2906905908"
         }
       },
       "live": {
-        "game": "Ready or Not",
-        "since": "2026-10-21T17:15:12Z",
-        "stream_id": "317070505301",
-        "title": "Пару кастамных мап у RoN",
-        "viewers": 8
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -2842,7 +2842,7 @@
         "since": "2026-10-21T17:55:04Z",
         "stream_id": "319091344614",
         "title": "[BLR] Рыхтуемся да GTA VI. Зарабляем міліярд. Stonks",
-        "viewers": 6
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3293,7 +3293,7 @@
         "since": "2026-10-21T17:59:52Z",
         "stream_id": "317152336724",
         "title": "Кароль сардэчны",
-        "viewers": 9
+        "viewers": 10
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4134,7 +4134,7 @@
         "since": "2026-10-21T18:21:33Z",
         "stream_id": "317071086037",
         "title": "Ідзем па дроп від Іринка подруга",
-        "viewers": 8
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4775,5 +4775,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-21T20:30:40Z"
+  "updated_at": "2026-10-21T20:34:38Z"
 }

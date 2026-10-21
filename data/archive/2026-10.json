@@ -654,8 +654,12 @@
       "added_at": "2026-09-11",
       "categories": {
         "Battlefield 6": {
-          "launches": 2,
-          "minutes": 388
+          "launches": 3,
+          "minutes": 533
+        },
+        "Bodycam": {
+          "launches": 1,
+          "minutes": 10
         },
         "Dishonored": {
           "launches": 1,
@@ -666,8 +670,8 @@
           "minutes": 164
         },
         "Ready or Not": {
-          "launches": 2,
-          "minutes": 377
+          "launches": 3,
+          "minutes": 420
         },
         "S.T.A.L.K.E.R. 2: Heart of Chornobyl": {
           "launches": 5,
@@ -677,9 +681,9 @@
       "display_name": "lepus81",
       "followers_end": null,
       "followers_start": 632,
-      "hours": [36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,213,240,238,308,360,380,227,93],
-      "launches": 11,
-      "minutes": 2157,
+      "hours": [36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,213,240,238,308,405,440,287,126],
+      "launches": 12,
+      "minutes": 2355,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-30T20:55:42Z",
       "sessions": [
@@ -737,6 +741,11 @@
           "duration_min": 241,
           "ended_at": "2026-10-20T20:33:23Z",
           "started_at": "2026-10-20T16:32:23Z"
+        },
+        {
+          "duration_min": 198,
+          "ended_at": "2026-10-21T20:33:02Z",
+          "started_at": "2026-10-21T17:15:12Z"
         }
       ]
     },
@@ -1987,5 +1996,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-21T18:33:46Z"
+  "updated_at": "2026-10-21T20:34:38Z"
 }
