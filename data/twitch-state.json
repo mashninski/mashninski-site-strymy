@@ -3783,6 +3783,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 655,
+          "ended_at": "2026-10-21T05:17:05Z",
+          "game": "Kingdom Come: Deliverance",
+          "source": "vod",
+          "started_at": "2026-10-20T18:22:25Z",
+          "stream_id": "318884161127",
+          "title": "Спробуем дабіць сюжэт від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2906100887",
+            "seen_at": "2026-10-21T05:18:44Z",
+            "url": "https://www.twitch.tv/videos/2906100887"
+          }
+        },
+        {
           "duration_min": 634,
           "ended_at": "2026-10-20T03:28:40Z",
           "game": "Valheim",
@@ -4066,44 +4081,29 @@
             "seen_at": "2026-10-04T11:06:03Z",
             "url": "https://www.twitch.tv/videos/2888050514"
           }
-        },
-        {
-          "duration_min": 338,
-          "ended_at": "2026-09-30T01:35:41Z",
-          "game": "Supermarket Simulator",
-          "source": "vod",
-          "started_at": "2026-09-29T19:57:51Z",
-          "stream_id": "318629077095",
-          "title": "элдэн маркет від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2887461706",
-            "seen_at": "2026-10-04T11:06:03Z",
-            "url": "https://www.twitch.tv/videos/2887461706"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 634,
-        "ended_at": "2026-10-20T03:28:40Z",
-        "game": "Valheim",
+        "duration_min": 655,
+        "ended_at": "2026-10-21T05:17:05Z",
+        "game": "Kingdom Come: Deliverance",
         "source": "vod",
-        "started_at": "2026-10-19T16:55:00Z",
-        "stream_id": "319066279014",
-        "title": "І зноў вікінгі від Іринка подруга",
+        "started_at": "2026-10-20T18:22:25Z",
+        "stream_id": "318884161127",
+        "title": "Спробуем дабіць сюжэт від Іринка подруга",
         "vod": {
           "gone": false,
-          "id": "2905170309",
-          "seen_at": "2026-10-20T03:30:18Z",
-          "url": "https://www.twitch.tv/videos/2905170309"
+          "id": "2906100887",
+          "seen_at": "2026-10-21T05:18:44Z",
+          "url": "https://www.twitch.tv/videos/2906100887"
         }
       },
       "live": {
-        "game": "Kingdom Come: Deliverance",
-        "since": "2026-10-20T18:22:25Z",
-        "stream_id": "318884161127",
-        "title": "Спробуем дабіць сюжэт від Іринка подруга",
-        "viewers": 29
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4744,5 +4744,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-21T05:10:31Z"
+  "updated_at": "2026-10-21T05:18:43Z"
 }
