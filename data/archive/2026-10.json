@@ -1025,8 +1025,8 @@
           "minutes": 204
         },
         "Serious Sam 3: BFE": {
-          "launches": 2,
-          "minutes": 340
+          "launches": 3,
+          "minutes": 543
         },
         "Serious Sam: The Second Encounter": {
           "launches": 1,
@@ -1056,9 +1056,9 @@
       "display_name": "Mihas_Gareza",
       "followers_end": null,
       "followers_start": 198,
-      "hours": [268,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,278,923,921,641],
-      "launches": 16,
-      "minutes": 3059,
+      "hours": [287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,283,983,981,701],
+      "launches": 17,
+      "minutes": 3262,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-29T21:19:48Z",
       "sessions": [
@@ -1141,6 +1141,11 @@
           "duration_min": 224,
           "ended_at": "2026-10-21T21:38:40Z",
           "started_at": "2026-10-21T17:55:04Z"
+        },
+        {
+          "duration_min": 203,
+          "ended_at": "2026-10-22T21:18:52Z",
+          "started_at": "2026-10-22T17:55:27Z"
         }
       ]
     },
@@ -2087,5 +2092,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-22T20:25:09Z"
+  "updated_at": "2026-10-22T21:20:30Z"
 }
