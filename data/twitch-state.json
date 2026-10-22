@@ -1779,6 +1779,21 @@
       "display_name": "lepus81",
       "history": [
         {
+          "duration_min": 220,
+          "ended_at": "2026-10-22T19:44:20Z",
+          "game": "Ready or Not",
+          "source": "vod",
+          "started_at": "2026-10-22T16:04:40Z",
+          "stream_id": "317075852757",
+          "title": "Нехта гатовы, нехта не.",
+          "vod": {
+            "gone": false,
+            "id": "2907712313",
+            "seen_at": "2026-10-22T19:45:58Z",
+            "url": "https://www.twitch.tv/videos/2907712313"
+          }
+        },
+        {
           "duration_min": 198,
           "ended_at": "2026-10-21T20:33:02Z",
           "game": "Ready or Not",
@@ -2062,44 +2077,29 @@
             "seen_at": "2026-10-04T11:06:01Z",
             "url": "https://www.twitch.tv/videos/2883761336"
           }
-        },
-        {
-          "duration_min": 193,
-          "ended_at": "2026-09-24T17:06:36Z",
-          "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-          "source": "vod",
-          "started_at": "2026-09-24T13:53:16Z",
-          "stream_id": "316900737237",
-          "title": "Проста цёгаюся па анамальшчыне",
-          "vod": {
-            "gone": false,
-            "id": "2882743803",
-            "seen_at": "2026-10-04T11:06:01Z",
-            "url": "https://www.twitch.tv/videos/2882743803"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 198,
-        "ended_at": "2026-10-21T20:33:02Z",
+        "duration_min": 220,
+        "ended_at": "2026-10-22T19:44:20Z",
         "game": "Ready or Not",
         "source": "vod",
-        "started_at": "2026-10-21T17:15:12Z",
-        "stream_id": "317070505301",
-        "title": "Пару кастамных мап у RoN",
+        "started_at": "2026-10-22T16:04:40Z",
+        "stream_id": "317075852757",
+        "title": "Нехта гатовы, нехта не.",
         "vod": {
           "gone": false,
-          "id": "2906905908",
-          "seen_at": "2026-10-21T20:34:38Z",
-          "url": "https://www.twitch.tv/videos/2906905908"
+          "id": "2907712313",
+          "seen_at": "2026-10-22T19:45:58Z",
+          "url": "https://www.twitch.tv/videos/2907712313"
         }
       },
       "live": {
-        "game": "Ready or Not",
-        "since": "2026-10-22T16:04:40Z",
-        "stream_id": "317075852757",
-        "title": "Нехта гатовы, нехта не.",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -2847,7 +2847,7 @@
         "since": "2026-10-22T17:55:27Z",
         "stream_id": "317158022740",
         "title": "[BLR] Рэтра чацвер. Сур'ёзны Сэм. Да першага энкаўнтэра.",
-        "viewers": 5
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3298,7 +3298,7 @@
         "since": "2026-10-22T17:57:41Z",
         "stream_id": "317112306134",
         "title": "Нуарныя жалуды",
-        "viewers": 7
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4145,11 +4145,11 @@
         }
       },
       "live": {
-        "game": "Ready or Not",
+        "game": "Valheim",
         "since": "2026-10-22T15:54:15Z",
         "stream_id": "319101673318",
-        "title": "Дык гатовыя? від Іринка подруга",
-        "viewers": 12
+        "title": "Вікінгі-чараўнікі у справе! від Іринка подруга",
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4813,12 +4813,12 @@
         "since": "2026-10-22T15:13:33Z",
         "stream_id": "317110937558",
         "title": "🔥ПАСЛЯ ГЭТАЙ ГУЛЬНІ Я НАБЫЎ ЛЯДОЎНЮ З СІСТЭМАЙ NO FROST🥰@watafakablr",
-        "viewers": 5
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-22T19:40:41Z"
+  "updated_at": "2026-10-22T19:45:58Z"
 }
