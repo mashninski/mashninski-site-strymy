@@ -1,7 +1,7 @@
 {
   "_fields": "login обязателен. Необязательные: note (моё описание, перебивает описание из Twitch), socials {telegram, youtube, instagram, ...}, tags, featured, hidden",
   "streamers": [
-    { "login": "mashninski", "note": null, "socials": {}, "tags": [], "featured": false, "hidden": false, "added_at": "2026-09-11" },
+    { "login": "mashninski", "note": null, "socials": { "instagram": "https://www.instagram.com/mashninski/" }, "tags": [], "featured": false, "hidden": false, "added_at": "2026-09-11" },
     { "login": "lepus81", "added_at": "2026-09-11" },
     { "login": "kryvichanka", "added_at": "2026-09-11" },
     { "login": "radyjo_holas", "added_at": "2026-09-11" },
