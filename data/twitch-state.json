@@ -326,7 +326,7 @@
         "since": "2026-10-22T08:19:32Z",
         "stream_id": "317154803668",
         "title": "Дзе я? Amnesia",
-        "viewers": 19
+        "viewers": 22
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -1074,6 +1074,21 @@
       "display_name": "DzedMaksim",
       "history": [
         {
+          "duration_min": 245,
+          "ended_at": "2026-10-22T11:05:55Z",
+          "game": "The Long Dark",
+          "source": "vod",
+          "started_at": "2026-10-22T07:01:00Z",
+          "stream_id": "319096921318",
+          "title": "87# Агарнуліся! Перамога будзе за намі! Дзень 480+💀Няпрошаны госьць💀|🪓 The Long Dark беларуская мова",
+          "vod": {
+            "gone": false,
+            "id": "2907453680",
+            "seen_at": "2026-10-22T11:07:38Z",
+            "url": "https://www.twitch.tv/videos/2907453680"
+          }
+        },
+        {
           "duration_min": 229,
           "ended_at": "2026-10-21T11:15:13Z",
           "game": "Crysis 3",
@@ -1357,44 +1372,29 @@
             "seen_at": "2026-10-04T11:06:03Z",
             "url": "https://www.twitch.tv/videos/2886213028"
           }
-        },
-        {
-          "duration_min": 227,
-          "ended_at": "2026-09-25T10:38:34Z",
-          "game": "The Witcher 3: Wild Hunt",
-          "source": "vod",
-          "started_at": "2026-09-25T06:51:26Z",
-          "stream_id": "318710153573",
-          "title": "#11 Велен. Збіраем строі Школы Грыфона | The Witcher 3 беларуская мова",
-          "vod": {
-            "gone": false,
-            "id": "2883422053",
-            "seen_at": "2026-10-04T11:06:03Z",
-            "url": "https://www.twitch.tv/videos/2883422053"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 229,
-        "ended_at": "2026-10-21T11:15:13Z",
-        "game": "Crysis 3",
+        "duration_min": 245,
+        "ended_at": "2026-10-22T11:05:55Z",
+        "game": "The Long Dark",
         "source": "vod",
-        "started_at": "2026-10-21T07:26:03Z",
-        "stream_id": "318889454183",
-        "title": "1# Пачатак | Crysis 3 беларуская мова",
+        "started_at": "2026-10-22T07:01:00Z",
+        "stream_id": "319096921318",
+        "title": "87# Агарнуліся! Перамога будзе за намі! Дзень 480+💀Няпрошаны госьць💀|🪓 The Long Dark беларуская мова",
         "vod": {
           "gone": false,
-          "id": "2906604186",
-          "seen_at": "2026-10-21T11:16:46Z",
-          "url": "https://www.twitch.tv/videos/2906604186"
+          "id": "2907453680",
+          "seen_at": "2026-10-22T11:07:38Z",
+          "url": "https://www.twitch.tv/videos/2907453680"
         }
       },
       "live": {
-        "game": "The Long Dark",
-        "since": "2026-10-22T07:01:00Z",
-        "stream_id": "319096921318",
-        "title": "87# Агарнуліся! Перамога будзе за намі! Дзень 480+💀Няпрошаны госьць💀|🪓 The Long Dark беларуская мова",
-        "viewers": 17
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -3813,11 +3813,11 @@
         }
       },
       "live": {
-        "game": "Dead Space 2",
+        "game": "SILENT HILL: townfall",
         "since": "2026-10-22T11:01:23Z",
         "stream_id": "319041534053",
-        "title": "Dead Space 2 ці касімчны дзед наносіць удар у адказ!",
-        "viewers": 0
+        "title": "Фінал? Silent Hill Townfall",
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -4790,5 +4790,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-22T11:01:45Z"
+  "updated_at": "2026-10-22T11:07:36Z"
 }
