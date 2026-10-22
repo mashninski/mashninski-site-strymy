@@ -322,11 +322,11 @@
         }
       },
       "live": {
-        "game": "Amnesia: Rebirth",
+        "game": "Amnesia: The Dark Descent",
         "since": "2026-10-22T08:19:32Z",
         "stream_id": "317154803668",
         "title": "Дзе я? Amnesia",
-        "viewers": 0
+        "viewers": 12
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -1394,7 +1394,7 @@
         "since": "2026-10-22T07:01:00Z",
         "stream_id": "319096921318",
         "title": "87# Агарнуліся! Перамога будзе за намі! Дзень 480+💀Няпрошаны госьць💀|🪓 The Long Dark беларуская мова",
-        "viewers": 15
+        "viewers": 10
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -4790,5 +4790,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-22T08:20:08Z"
+  "updated_at": "2026-10-22T08:30:41Z"
 }
