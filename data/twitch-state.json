@@ -1394,7 +1394,7 @@
         "since": "2026-10-22T07:01:00Z",
         "stream_id": "319096921318",
         "title": "87# Агарнуліся! Перамога будзе за намі! Дзень 480+💀Няпрошаны госьць💀|🪓 The Long Dark беларуская мова",
-        "viewers": 16
+        "viewers": 17
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -3813,11 +3813,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Dead Space 2",
+        "since": "2026-10-22T11:01:23Z",
+        "stream_id": "319041534053",
+        "title": "Dead Space 2 ці касімчны дзед наносіць удар у адказ!",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -4790,5 +4790,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-22T11:00:38Z"
+  "updated_at": "2026-10-22T11:01:45Z"
 }
