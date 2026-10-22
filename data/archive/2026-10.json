@@ -1777,8 +1777,8 @@
           "minutes": 170
         },
         "Games + Demos": {
-          "launches": 1,
-          "minutes": 82
+          "launches": 2,
+          "minutes": 273
         },
         "Goose Goose Duck": {
           "launches": 1,
@@ -1812,9 +1812,9 @@
       "display_name": "Ucenamescy",
       "followers_end": null,
       "followers_start": 142,
-      "hours": [140,57,0,0,0,0,0,0,0,0,0,0,0,27,90,180,174,158,24,118,349,317,280,235],
-      "launches": 12,
-      "minutes": 2151,
+      "hours": [140,57,0,0,0,0,0,0,0,0,0,0,0,27,140,240,234,179,24,118,349,317,280,235],
+      "launches": 13,
+      "minutes": 2342,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-23T20:51:32Z",
       "sessions": [
@@ -1877,6 +1877,11 @@
           "duration_min": 102,
           "ended_at": "2026-10-20T15:22:25Z",
           "started_at": "2026-10-20T13:40:41Z"
+        },
+        {
+          "duration_min": 191,
+          "ended_at": "2026-10-22T14:20:36Z",
+          "started_at": "2026-10-22T11:09:33Z"
         }
       ]
     },
@@ -2049,5 +2054,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-22T12:48:22Z"
+  "updated_at": "2026-10-22T14:22:20Z"
 }
