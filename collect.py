@@ -63,6 +63,7 @@ FOLLOWERS_PAUSE_SEC = 2.5
 # Беларусь весь год на UTC+3, без перехода на летнее время — смещение фиксированное.
 MINSK = timezone(timedelta(hours=3))
 RECENT_DAYS = 31              # окно recent_sessions: 30 дней карточек + день запаса
+DAILY_DAYS = 31               # followers.daily: сегодня и 30 дней назад — база прироста за 30 дней
 
 VOD_CHECK_WINDOW_MIN = 10     # всем Get Videos — в первом прогоне каждого часа
 # У кого есть сессия без записи, закончившаяся за столько дней, — Get Videos
@@ -451,7 +452,7 @@ def blank_stats() -> dict:
         "monthly": {},
         "recent_sessions": [],
         "in_progress": None,
-        "followers": {"count": None, "changed_at": None, "snapshots": {}, "fail_runs": 0},
+        "followers": {"count": None, "changed_at": None, "snapshots": {}, "daily": {}, "fail_runs": 0},
     }
 
 
@@ -622,6 +623,11 @@ def prune_stats(ss: dict, ts: datetime) -> None:
     snaps = ss["followers"]["snapshots"]
     for k in [k for k in snaps if k[:7] < keep_from]:
         del snaps[k]
+    # Дневные снимки — DAILY_DAYS дат по Мінску, считая сегодняшнюю.
+    daily = ss["followers"].setdefault("daily", {})
+    day_from = (ts.astimezone(MINSK) - timedelta(days=DAILY_DAYS - 1)).strftime("%Y-%m-%d")
+    for k in [k for k in daily if k < day_from]:
+        del daily[k]
     cutoff = ts - timedelta(days=RECENT_DAYS)
     ss["recent_sessions"] = [s for s in ss["recent_sessions"] if parse_iso(s["ended_at"]) >= cutoff]
 
@@ -665,6 +671,7 @@ def update_followers(stats: dict, logins: list, counts, ts: datetime) -> None:
     """counts — ответ fetch_followers или None, если все попытки провалились.
     При сбое старое число не трогаем: ни нуля, ни пропуска."""
     month_key = ts.astimezone(MINSK).strftime("%Y-%m-01")
+    day_key = ts.astimezone(MINSK).strftime("%Y-%m-%d")
     for login in logins:
         f = stats["streamers"][login]["followers"]
         count = counts.get(login) if counts else None
@@ -688,6 +695,9 @@ def update_followers(stats: dict, logins: list, counts, ts: datetime) -> None:
             f["changed_at"] = iso(ts)
         # Снимок на 1-е число — первое успешное значение на или после 1-го по Мінску.
         f["snapshots"].setdefault(month_key, count)
+        # Дневной снимок — первое успешное значение за сутки по Мінску: база прироста
+        # за 30 дней на сайте. Сбой запроса день не пишет (continue выше).
+        f.setdefault("daily", {}).setdefault(day_key, count)
 
 
 def update_prev_broadcast(state: dict, logins: list, broadcasts) -> None:
