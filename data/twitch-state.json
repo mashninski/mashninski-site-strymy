@@ -2195,6 +2195,21 @@
       "display_name": "mashninski",
       "history": [
         {
+          "duration_min": 162,
+          "ended_at": "2026-10-22T17:44:08Z",
+          "game": "Stray",
+          "source": "vod",
+          "started_at": "2026-10-22T15:01:48Z",
+          "stream_id": "318904673255",
+          "title": "Ну амаль сталкер, не пачынайце тут",
+          "vod": {
+            "gone": false,
+            "id": "2907667995",
+            "seen_at": "2026-10-22T17:45:47Z",
+            "url": "https://www.twitch.tv/videos/2907667995"
+          }
+        },
+        {
           "duration_min": 160,
           "ended_at": "2026-10-21T17:23:10Z",
           "game": "Alan Wake's American Nightmare",
@@ -2478,44 +2493,29 @@
             "seen_at": "2026-09-30T18:07:36Z",
             "url": "https://www.twitch.tv/videos/2888101890"
           }
-        },
-        {
-          "duration_min": 272,
-          "ended_at": "2026-09-29T17:50:33Z",
-          "game": "The Witcher 3: Wild Hunt",
-          "source": "vod",
-          "started_at": "2026-09-29T13:18:48Z",
-          "stream_id": "318623550183",
-          "title": "ЦЕРПКА ЯК АГРЭСТ СЎОДКА ЯК БЭЗ",
-          "vod": {
-            "gone": false,
-            "id": "2887171849",
-            "seen_at": "2026-10-04T11:06:01Z",
-            "url": "https://www.twitch.tv/videos/2887171849"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 160,
-        "ended_at": "2026-10-21T17:23:10Z",
-        "game": "Alan Wake's American Nightmare",
+        "duration_min": 162,
+        "ended_at": "2026-10-22T17:44:08Z",
+        "game": "Stray",
         "source": "vod",
-        "started_at": "2026-10-21T14:42:40Z",
-        "stream_id": "319088533094",
-        "title": "Алесь Прачыналкін: Амерыканскія Жахасцікі",
+        "started_at": "2026-10-22T15:01:48Z",
+        "stream_id": "318904673255",
+        "title": "Ну амаль сталкер, не пачынайце тут",
         "vod": {
           "gone": false,
-          "id": "2906794806",
-          "seen_at": "2026-10-21T17:24:47Z",
-          "url": "https://www.twitch.tv/videos/2906794806"
+          "id": "2907667995",
+          "seen_at": "2026-10-22T17:45:47Z",
+          "url": "https://www.twitch.tv/videos/2907667995"
         }
       },
       "live": {
-        "game": "Stray",
-        "since": "2026-10-22T15:01:48Z",
-        "stream_id": "318904673255",
-        "title": "Ну амаль сталкер, не пачынайце тут",
-        "viewers": 12
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -4548,7 +4548,7 @@
         "since": "2026-10-22T16:21:40Z",
         "stream_id": "318905648743",
         "title": "Фаер он зе холл ◉ Ready Or Not",
-        "viewers": 7
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -4798,12 +4798,12 @@
         "since": "2026-10-22T15:13:33Z",
         "stream_id": "317110937558",
         "title": "🔥ПАСЛЯ ГЭТАЙ ГУЛЬНІ Я НАБЫЎ ЛЯДОЎНЮ З СІСТЭМАЙ NO FROST🥰@watafakablr",
-        "viewers": 10
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-22T17:40:38Z"
+  "updated_at": "2026-10-22T17:45:46Z"
 }
