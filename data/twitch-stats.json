@@ -14,22 +14,7 @@
           "2026-10-01": 1293
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Amnesia: Rebirth",
-            "sec": 669
-          },
-          {
-            "game": "Amnesia: The Dark Descent",
-            "sec": 10797
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,2428,3600,3600,1838,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-22T11:30:38Z",
-        "started_at": "2026-10-22T08:19:32Z",
-        "stream_id": "317154803668"
-      },
+      "in_progress": null,
       "monthly": {
         "2026-09": {
           "categories": {
@@ -52,6 +37,14 @@
         },
         "2026-10": {
           "categories": {
+            "Amnesia: Rebirth": {
+              "launches": 1,
+              "minutes": 11
+            },
+            "Amnesia: The Dark Descent": {
+              "launches": 1,
+              "minutes": 189
+            },
             "Banquet for Fools": {
               "launches": 1,
               "minutes": 231
@@ -97,12 +90,27 @@
               "minutes": 206
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,626,823,838,718,15,0,0,0,0,0,0,0,0],
-          "launches": 17,
-          "minutes": 3021
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,666,883,898,758,15,0,0,0,0,0,0,0,0],
+          "launches": 18,
+          "minutes": 3221
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Amnesia: Rebirth",
+              "minutes": 11
+            },
+            {
+              "game": "Amnesia: The Dark Descent",
+              "minutes": 189
+            }
+          ],
+          "ended_at": "2026-10-22T11:40:01Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,40,60,60,40,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-22T08:19:32Z"
+        },
         {
           "categories": [
             {
@@ -3197,11 +3205,11 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 39347
+            "sec": 40003
           }
         ],
-        "hours_sec": [0,0,0,1509,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,1838,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-22T11:30:38Z",
+        "hours_sec": [0,0,0,1509,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,2494,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-22T11:41:34Z",
         "started_at": "2026-10-22T00:34:51Z",
         "stream_id": "317153857236"
       },
@@ -3414,11 +3422,11 @@
         "categories": [
           {
             "game": "SILENT HILL: townfall",
-            "sec": 165
+            "sec": 821
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,165,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-22T11:30:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,821,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-22T11:41:34Z",
         "started_at": "2026-10-22T11:27:53Z",
         "stream_id": "319041766501"
       },
@@ -4394,11 +4402,11 @@
         "categories": [
           {
             "game": "Games + Demos",
-            "sec": 1265
+            "sec": 1921
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1265,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-22T11:30:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1921,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-22T11:41:34Z",
         "started_at": "2026-10-22T11:09:33Z",
         "stream_id": "319041610853"
       },
@@ -5087,5 +5095,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-22T11:30:38Z"
+  "updated_at": "2026-10-22T11:41:34Z"
 }
