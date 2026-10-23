@@ -6,6 +6,21 @@
       "display_name": "AngryRalef",
       "history": [
         {
+          "duration_min": 205,
+          "ended_at": "2026-10-23T11:35:20Z",
+          "game": "MediEvil",
+          "source": "vod",
+          "started_at": "2026-10-23T08:10:21Z",
+          "stream_id": "319052408933",
+          "title": "Я трохі стаў шкілетам. MediEvil",
+          "vod": {
+            "gone": false,
+            "id": "2908351587",
+            "seen_at": "2026-10-23T11:36:53Z",
+            "url": "https://www.twitch.tv/videos/2908351587"
+          }
+        },
+        {
           "duration_min": 200,
           "ended_at": "2026-10-22T11:40:01Z",
           "game": "Amnesia: The Dark Descent",
@@ -289,44 +304,29 @@
             "seen_at": "2026-10-04T11:06:02Z",
             "url": "https://www.twitch.tv/videos/2887905318"
           }
-        },
-        {
-          "duration_min": 232,
-          "ended_at": "2026-09-29T12:00:05Z",
-          "game": "Control",
-          "source": "vod",
-          "started_at": "2026-09-29T08:08:05Z",
-          "stream_id": "318621322727",
-          "title": "Хтанічны голас спынены, але Бюро ўсё яшчэ на лакдаўне. Робім дадатковыя квэсты, потым дапаўненні. Control",
-          "vod": {
-            "gone": false,
-            "id": "2887045274",
-            "seen_at": "2026-09-29T12:09:00Z",
-            "url": "https://www.twitch.tv/videos/2887045274"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 200,
-        "ended_at": "2026-10-22T11:40:01Z",
-        "game": "Amnesia: The Dark Descent",
+        "duration_min": 205,
+        "ended_at": "2026-10-23T11:35:20Z",
+        "game": "MediEvil",
         "source": "vod",
-        "started_at": "2026-10-22T08:19:32Z",
-        "stream_id": "317154803668",
-        "title": "Дзе я? Amnesia",
+        "started_at": "2026-10-23T08:10:21Z",
+        "stream_id": "319052408933",
+        "title": "Я трохі стаў шкілетам. MediEvil",
         "vod": {
           "gone": false,
-          "id": "2907478530",
-          "seen_at": "2026-10-22T11:41:35Z",
-          "url": "https://www.twitch.tv/videos/2907478530"
+          "id": "2908351587",
+          "seen_at": "2026-10-23T11:36:53Z",
+          "url": "https://www.twitch.tv/videos/2908351587"
         }
       },
       "live": {
-        "game": "MediEvil",
-        "since": "2026-10-23T08:10:21Z",
-        "stream_id": "319052408933",
-        "title": "Я трохі стаў шкілетам. MediEvil",
-        "viewers": 21
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -3817,7 +3817,7 @@
         "since": "2026-10-23T11:00:33Z",
         "stream_id": "319111735398",
         "title": "Разгадваем загадкі па-беларуску ў Chants of Sennaar",
-        "viewers": 28
+        "viewers": 32
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -4820,5 +4820,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-23T11:30:39Z"
+  "updated_at": "2026-10-23T11:36:53Z"
 }
