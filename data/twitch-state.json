@@ -1764,7 +1764,7 @@
         "since": "2026-10-23T20:27:04Z",
         "stream_id": "317724039287",
         "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
-        "viewers": 3
+        "viewers": 2
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad2b7c75-ce68-451d-9983-b84b1dd67c16-profile_image-300x300.png",
@@ -2542,6 +2542,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 194,
+          "ended_at": "2026-10-23T21:09:08Z",
+          "game": "Grand Theft Auto V",
+          "source": "vod",
+          "started_at": "2026-10-23T17:55:33Z",
+          "stream_id": "319058650981",
+          "title": "[BLR] Рыхтуемся да GTA VI. Зарабляем міліярд. Stonks",
+          "vod": {
+            "gone": false,
+            "id": "2908692154",
+            "seen_at": "2026-10-23T21:10:51Z",
+            "url": "https://www.twitch.tv/videos/2908692154"
+          }
+        },
+        {
           "duration_min": 203,
           "ended_at": "2026-10-22T21:18:52Z",
           "game": "Serious Sam 3: BFE",
@@ -2825,44 +2840,29 @@
             "seen_at": "2026-10-04T11:06:03Z",
             "url": "https://www.twitch.tv/videos/2886523923"
           }
-        },
-        {
-          "duration_min": 142,
-          "ended_at": "2026-09-27T20:17:27Z",
-          "game": "Alaskan Road Truckers",
-          "source": "vod",
-          "started_at": "2026-09-27T17:55:54Z",
-          "stream_id": "318741949157",
-          "title": "[BLR] Нядзельны трыял. Падарожжа па Алясцы. Забіваем боса ў фіналке пасля",
-          "vod": {
-            "gone": false,
-            "id": "2885682403",
-            "seen_at": "2026-10-04T11:06:03Z",
-            "url": "https://www.twitch.tv/videos/2885682403"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 203,
-        "ended_at": "2026-10-22T21:18:52Z",
-        "game": "Serious Sam 3: BFE",
+        "duration_min": 194,
+        "ended_at": "2026-10-23T21:09:08Z",
+        "game": "Grand Theft Auto V",
         "source": "vod",
-        "started_at": "2026-10-22T17:55:27Z",
-        "stream_id": "317158022740",
-        "title": "[BLR] Рэтра чацвер. Сур'ёзны Сэм. Да першага энкаўнтэра.",
+        "started_at": "2026-10-23T17:55:33Z",
+        "stream_id": "319058650981",
+        "title": "[BLR] Рыхтуемся да GTA VI. Зарабляем міліярд. Stonks",
         "vod": {
           "gone": false,
-          "id": "2907798491",
-          "seen_at": "2026-10-22T21:20:30Z",
-          "url": "https://www.twitch.tv/videos/2907798491"
+          "id": "2908692154",
+          "seen_at": "2026-10-23T21:10:51Z",
+          "url": "https://www.twitch.tv/videos/2908692154"
         }
       },
       "live": {
-        "game": "Grand Theft Auto V",
-        "since": "2026-10-23T17:55:33Z",
-        "stream_id": "319058650981",
-        "title": "[BLR] Рыхтуемся да GTA VI. Зарабляем міліярд. Stonks",
-        "viewers": 11
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4848,12 +4848,12 @@
         "since": "2026-10-23T16:07:51Z",
         "stream_id": "317082020309",
         "title": "🔥ЗМАГАЕМСЯ СУПРАЦЬ 2ух ЦІМ АДНАЧАСОВА + заўтра РАНІЦАЙ СУПЕР НОВАЯ ГУЛЬНЯ толькі яна ў бэтатэсце🥰@watafakablr",
-        "viewers": 10
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-23T21:00:39Z"
+  "updated_at": "2026-10-23T21:10:51Z"
 }
