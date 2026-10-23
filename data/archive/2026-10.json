@@ -1430,8 +1430,8 @@
       "added_at": "2026-09-11",
       "categories": {
         "Chants of Sennaar": {
-          "launches": 1,
-          "minutes": 0
+          "launches": 2,
+          "minutes": 133
         },
         "Dead Space 2": {
           "launches": 2,
@@ -1457,9 +1457,9 @@
       "display_name": "Rudzi_Belarus",
       "followers_end": null,
       "followers_start": 926,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,7,532,549,145,39,0,0,0,0,0,0],
-      "launches": 19,
-      "minutes": 1277,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,7,591,609,158,39,0,0,0,0,0,0],
+      "launches": 20,
+      "minutes": 1410,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-30T13:00:27Z",
       "sessions": [
@@ -1552,6 +1552,11 @@
           "duration_min": 79,
           "ended_at": "2026-10-22T12:46:50Z",
           "started_at": "2026-10-22T11:27:53Z"
+        },
+        {
+          "duration_min": 133,
+          "ended_at": "2026-10-23T13:13:05Z",
+          "started_at": "2026-10-23T11:00:33Z"
         },
         {
           "duration_min": 1,
@@ -2121,5 +2126,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-23T11:36:53Z"
+  "updated_at": "2026-10-23T13:14:38Z"
 }
