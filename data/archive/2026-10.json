@@ -1232,8 +1232,8 @@
           "minutes": 1904
         },
         "Just Chatting": {
-          "launches": 4,
-          "minutes": 417
+          "launches": 5,
+          "minutes": 549
         },
         "Thief: Deadly Shadows": {
           "launches": 5,
@@ -1243,9 +1243,9 @@
       "display_name": "Nine_Ravens_Cemetery",
       "followers_end": null,
       "followers_start": 298,
-      "hours": [32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,1316,1320,317],
-      "launches": 24,
-      "minutes": 3015,
+      "hours": [32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,1376,1380,320],
+      "launches": 25,
+      "minutes": 3147,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-30T20:20:53Z",
       "sessions": [
@@ -1368,6 +1368,11 @@
           "duration_min": 127,
           "ended_at": "2026-10-22T20:04:46Z",
           "started_at": "2026-10-22T17:57:41Z"
+        },
+        {
+          "duration_min": 132,
+          "ended_at": "2026-10-23T20:03:11Z",
+          "started_at": "2026-10-23T17:50:42Z"
         }
       ]
     },
@@ -2149,5 +2154,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-23T18:09:36Z"
+  "updated_at": "2026-10-23T20:04:43Z"
 }

@@ -2114,7 +2114,7 @@
         "since": "2026-10-23T17:34:48Z",
         "stream_id": "317164348500",
         "title": "Корва! Корва! Дзе ты Корва? Ды не стой ты а выходзь!",
-        "viewers": 11
+        "viewers": 14
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -2862,7 +2862,7 @@
         "since": "2026-10-23T17:55:33Z",
         "stream_id": "319058650981",
         "title": "[BLR] Рыхтуемся да GTA VI. Зарабляем міліярд. Stonks",
-        "viewers": 3
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -2997,6 +2997,21 @@
       "description": "Штодзённыя стрымы - маляванне і гульні. Утульнасць, дзіўныя казкі, дранікі. Ніякага \"ші\".",
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
+        {
+          "duration_min": 132,
+          "ended_at": "2026-10-23T20:03:11Z",
+          "game": "Just Chatting",
+          "source": "vod",
+          "started_at": "2026-10-23T17:50:42Z",
+          "stream_id": "317118526806",
+          "title": "\"Дом-монстр\" 2006",
+          "vod": {
+            "gone": false,
+            "id": "2908687969",
+            "seen_at": "2026-10-23T20:04:46Z",
+            "url": "https://www.twitch.tv/videos/2908687969"
+          }
+        },
         {
           "duration_min": 127,
           "ended_at": "2026-10-22T20:04:46Z",
@@ -3281,39 +3296,29 @@
             "seen_at": "2026-10-06T20:20:46Z",
             "url": "https://www.twitch.tv/videos/2893590046"
           }
-        },
-        {
-          "duration_min": 212,
-          "ended_at": "2026-10-05T21:31:51Z",
-          "game": "Art",
-          "source": "observed",
-          "started_at": "2026-10-05T17:59:40Z",
-          "stream_id": "316971384021",
-          "title": "Шасцёрачка",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 127,
-        "ended_at": "2026-10-22T20:04:46Z",
-        "game": "Art",
+        "duration_min": 132,
+        "ended_at": "2026-10-23T20:03:11Z",
+        "game": "Just Chatting",
         "source": "vod",
-        "started_at": "2026-10-22T17:57:41Z",
-        "stream_id": "317112306134",
-        "title": "Нуарныя жалуды",
+        "started_at": "2026-10-23T17:50:42Z",
+        "stream_id": "317118526806",
+        "title": "\"Дом-монстр\" 2006",
         "vod": {
           "gone": false,
-          "id": "2907800639",
-          "seen_at": "2026-10-22T20:06:26Z",
-          "url": "https://www.twitch.tv/videos/2907800639"
+          "id": "2908687969",
+          "seen_at": "2026-10-23T20:04:46Z",
+          "url": "https://www.twitch.tv/videos/2908687969"
         }
       },
       "live": {
-        "game": "Just Chatting",
-        "since": "2026-10-23T17:50:42Z",
-        "stream_id": "317118526806",
-        "title": "\"Дом-монстр\" 2006",
-        "viewers": 8
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4843,12 +4848,12 @@
         "since": "2026-10-23T16:07:51Z",
         "stream_id": "317082020309",
         "title": "🔥ЗМАГАЕМСЯ СУПРАЦЬ 2ух ЦІМ АДНАЧАСОВА + заўтра РАНІЦАЙ СУПЕР НОВАЯ ГУЛЬНЯ толькі яна ў бэтатэсце🥰@watafakablr",
-        "viewers": 16
+        "viewers": 14
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-23T20:00:39Z"
+  "updated_at": "2026-10-23T20:04:43Z"
 }
