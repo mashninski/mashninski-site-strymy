@@ -257,8 +257,8 @@
           "minutes": 614
         },
         "Silent Hill: Shattered Memories": {
-          "launches": 1,
-          "minutes": 211
+          "launches": 2,
+          "minutes": 413
         },
         "The Order: 1886": {
           "launches": 5,
@@ -268,9 +268,9 @@
       "display_name": "Bel_Asch",
       "followers_end": null,
       "followers_start": 207,
-      "hours": [19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,104,180,196,231,273,226,163],
-      "launches": 10,
-      "minutes": 1420,
+      "hours": [19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,118,240,256,291,281,226,163],
+      "launches": 11,
+      "minutes": 1622,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-28T19:35:58Z",
       "sessions": [
@@ -323,6 +323,11 @@
           "duration_min": 211,
           "ended_at": "2026-10-21T18:29:33Z",
           "started_at": "2026-10-21T14:58:53Z"
+        },
+        {
+          "duration_min": 202,
+          "ended_at": "2026-10-23T18:08:01Z",
+          "started_at": "2026-10-23T14:45:33Z"
         }
       ]
     },
@@ -2144,5 +2149,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-23T17:56:12Z"
+  "updated_at": "2026-10-23T18:09:36Z"
 }

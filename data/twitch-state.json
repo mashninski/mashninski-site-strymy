@@ -655,6 +655,21 @@
       "display_name": "Bel_Asch",
       "history": [
         {
+          "duration_min": 202,
+          "ended_at": "2026-10-23T18:08:01Z",
+          "game": "Silent Hill: Shattered Memories",
+          "source": "vod",
+          "started_at": "2026-10-23T14:45:33Z",
+          "stream_id": "319055769573",
+          "title": "Шукаем Шэрыл 🔦 | Silent Hill: Shattered Memories (Wii ver)",
+          "vod": {
+            "gone": false,
+            "id": "2908543520",
+            "seen_at": "2026-10-23T18:09:38Z",
+            "url": "https://www.twitch.tv/videos/2908543520"
+          }
+        },
+        {
           "duration_min": 211,
           "ended_at": "2026-10-21T18:29:33Z",
           "game": "Silent Hill: Shattered Memories",
@@ -911,26 +926,26 @@
         }
       ],
       "last_stream": {
-        "duration_min": 211,
-        "ended_at": "2026-10-21T18:29:33Z",
+        "duration_min": 202,
+        "ended_at": "2026-10-23T18:08:01Z",
         "game": "Silent Hill: Shattered Memories",
         "source": "vod",
-        "started_at": "2026-10-21T14:58:53Z",
-        "stream_id": "319031396837",
-        "title": "Традыцыі не парушаюцца 🌁 | Silent Hill: Shattered Memories (Wii ver)",
+        "started_at": "2026-10-23T14:45:33Z",
+        "stream_id": "319055769573",
+        "title": "Шукаем Шэрыл 🔦 | Silent Hill: Shattered Memories (Wii ver)",
         "vod": {
           "gone": false,
-          "id": "2906804667",
-          "seen_at": "2026-10-21T18:33:46Z",
-          "url": "https://www.twitch.tv/videos/2906804667"
+          "id": "2908543520",
+          "seen_at": "2026-10-23T18:09:38Z",
+          "url": "https://www.twitch.tv/videos/2908543520"
         }
       },
       "live": {
-        "game": "Silent Hill: Shattered Memories",
-        "since": "2026-10-23T14:45:33Z",
-        "stream_id": "319055769573",
-        "title": "Шукаем Шэрыл 🔦 | Silent Hill: Shattered Memories (Wii ver)",
-        "viewers": 13
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -2847,7 +2862,7 @@
         "since": "2026-10-23T17:55:33Z",
         "stream_id": "319058650981",
         "title": "[BLR] Рыхтуемся да GTA VI. Зарабляем міліярд. Stonks",
-        "viewers": 2
+        "viewers": 3
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3298,7 +3313,7 @@
         "since": "2026-10-23T17:50:42Z",
         "stream_id": "317118526806",
         "title": "\"Дом-монстр\" 2006",
-        "viewers": 2
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4828,12 +4843,12 @@
         "since": "2026-10-23T16:07:51Z",
         "stream_id": "317082020309",
         "title": "🔥ЗМАГАЕМСЯ СУПРАЦЬ 2ух ЦІМ АДНАЧАСОВА + заўтра РАНІЦАЙ СУПЕР НОВАЯ ГУЛЬНЯ толькі яна ў бэтатэсце🥰@watafakablr",
-        "viewers": 12
+        "viewers": 15
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-23T18:00:40Z"
+  "updated_at": "2026-10-23T18:09:36Z"
 }
