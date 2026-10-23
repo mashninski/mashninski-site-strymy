@@ -326,7 +326,7 @@
         "since": "2026-10-23T08:10:21Z",
         "stream_id": "319052408933",
         "title": "Я трохі стаў шкілетам. MediEvil",
-        "viewers": 21
+        "viewers": 27
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -3497,6 +3497,21 @@
       "display_name": "Rudzi_Belarus",
       "history": [
         {
+          "duration_min": 1,
+          "ended_at": "2026-10-23T11:00:42Z",
+          "game": "Chants of Sennaar",
+          "source": "vod",
+          "started_at": "2026-10-23T11:00:39Z",
+          "stream_id": "319111735398",
+          "title": "Разгадвае загадкі па-беларуску ў Chants of Sennaar",
+          "vod": {
+            "gone": false,
+            "id": "2908414001",
+            "seen_at": "2026-10-23T11:00:42Z",
+            "url": "https://www.twitch.tv/videos/2908414001"
+          }
+        },
+        {
           "duration_min": 79,
           "ended_at": "2026-10-22T12:46:50Z",
           "game": "SILENT HILL: townfall",
@@ -3780,36 +3795,21 @@
             "seen_at": "2026-09-30T13:09:53Z",
             "url": "https://www.twitch.tv/videos/2887993271"
           }
-        },
-        {
-          "duration_min": 2,
-          "ended_at": "2026-09-30T12:07:53Z",
-          "game": "SILENT HILL: townfall",
-          "source": "vod",
-          "started_at": "2026-09-30T12:06:04Z",
-          "stream_id": "317014520404",
-          "title": "Новы Silent Hill - Townfall. Смерць і адтуліны",
-          "vod": {
-            "gone": false,
-            "id": "2887991999",
-            "seen_at": "2026-10-04T11:06:03Z",
-            "url": "https://www.twitch.tv/videos/2887991999"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 79,
-        "ended_at": "2026-10-22T12:46:50Z",
-        "game": "SILENT HILL: townfall",
+        "duration_min": 1,
+        "ended_at": "2026-10-23T11:00:42Z",
+        "game": "Chants of Sennaar",
         "source": "vod",
-        "started_at": "2026-10-22T11:27:53Z",
-        "stream_id": "319041766501",
-        "title": "Фінал? Silent Hill Townfall",
+        "started_at": "2026-10-23T11:00:39Z",
+        "stream_id": "319111735398",
+        "title": "Разгадвае загадкі па-беларуску ў Chants of Sennaar",
         "vod": {
           "gone": false,
-          "id": "2907546466",
-          "seen_at": "2026-10-22T12:48:22Z",
-          "url": "https://www.twitch.tv/videos/2907546466"
+          "id": "2908414001",
+          "seen_at": "2026-10-23T11:00:42Z",
+          "url": "https://www.twitch.tv/videos/2908414001"
         }
       },
       "live": {
@@ -4820,5 +4820,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-23T10:50:01Z"
+  "updated_at": "2026-10-23T11:00:40Z"
 }
