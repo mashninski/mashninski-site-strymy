@@ -1760,11 +1760,11 @@
         "vod": null
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Assassin's Creed Shadows",
+        "since": "2026-10-23T20:27:04Z",
+        "stream_id": "317724039287",
+        "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad2b7c75-ce68-451d-9983-b84b1dd67c16-profile_image-300x300.png",
@@ -1793,6 +1793,21 @@
       "description": "Вітаю! Стрымлю па-беларуску розныя гульні і намагаюся каб наша мова жыла. Кансультую, дапамагаю ў самастойным набыцці камплектуючых і ў рашэнні праблем з кампутарам. Далучайся па спасылках да маіх суполак. Будзе цікава і карысна ;)",
       "display_name": "lepus81",
       "history": [
+        {
+          "duration_min": 172,
+          "ended_at": "2026-10-23T20:26:38Z",
+          "game": "Dishonored",
+          "source": "vod",
+          "started_at": "2026-10-23T17:34:48Z",
+          "stream_id": "317164348500",
+          "title": "Корва! Корва! Дзе ты Корва? Ды не стой ты а выходзь!",
+          "vod": {
+            "gone": false,
+            "id": "2908675329",
+            "seen_at": "2026-10-23T20:28:33Z",
+            "url": "https://www.twitch.tv/videos/2908675329"
+          }
+        },
         {
           "duration_min": 220,
           "ended_at": "2026-10-22T19:44:20Z",
@@ -2077,44 +2092,29 @@
             "seen_at": "2026-10-04T11:06:01Z",
             "url": "https://www.twitch.tv/videos/2884424777"
           }
-        },
-        {
-          "duration_min": 168,
-          "ended_at": "2026-09-25T20:33:03Z",
-          "game": "Dishonored",
-          "source": "vod",
-          "started_at": "2026-09-25T17:45:03Z",
-          "stream_id": "316941242454",
-          "title": "Зняслаўлены...",
-          "vod": {
-            "gone": false,
-            "id": "2883761336",
-            "seen_at": "2026-10-04T11:06:01Z",
-            "url": "https://www.twitch.tv/videos/2883761336"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 220,
-        "ended_at": "2026-10-22T19:44:20Z",
-        "game": "Ready or Not",
+        "duration_min": 172,
+        "ended_at": "2026-10-23T20:26:38Z",
+        "game": "Dishonored",
         "source": "vod",
-        "started_at": "2026-10-22T16:04:40Z",
-        "stream_id": "317075852757",
-        "title": "Нехта гатовы, нехта не.",
+        "started_at": "2026-10-23T17:34:48Z",
+        "stream_id": "317164348500",
+        "title": "Корва! Корва! Дзе ты Корва? Ды не стой ты а выходзь!",
         "vod": {
           "gone": false,
-          "id": "2907712313",
-          "seen_at": "2026-10-22T19:45:58Z",
-          "url": "https://www.twitch.tv/videos/2907712313"
+          "id": "2908675329",
+          "seen_at": "2026-10-23T20:28:33Z",
+          "url": "https://www.twitch.tv/videos/2908675329"
         }
       },
       "live": {
-        "game": "Dishonored",
-        "since": "2026-10-23T17:34:48Z",
-        "stream_id": "317164348500",
-        "title": "Корва! Корва! Дзе ты Корва? Ды не стой ты а выходзь!",
-        "viewers": 13
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -2862,7 +2862,7 @@
         "since": "2026-10-23T17:55:33Z",
         "stream_id": "319058650981",
         "title": "[BLR] Рыхтуемся да GTA VI. Зарабляем міліярд. Stonks",
-        "viewers": 5
+        "viewers": 10
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4848,12 +4848,12 @@
         "since": "2026-10-23T16:07:51Z",
         "stream_id": "317082020309",
         "title": "🔥ЗМАГАЕМСЯ СУПРАЦЬ 2ух ЦІМ АДНАЧАСОВА + заўтра РАНІЦАЙ СУПЕР НОВАЯ ГУЛЬНЯ толькі яна ў бэтатэсце🥰@watafakablr",
-        "viewers": 16
+        "viewers": 15
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-23T20:20:40Z"
+  "updated_at": "2026-10-23T20:28:32Z"
 }
