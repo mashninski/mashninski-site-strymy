@@ -7,6 +7,7 @@
   2. Get Users   — аватар, описание, broadcaster_type, user_id;
   3. Get Streams — кто сейчас в эфире;
   4. ловит переходы онлайн→офлайн и закрывает сессию;
+  4б. общий чат Twitch (Shared Chat): совместные эфиры — каапы;
   5. Get Videos: ищет VOD к сессиям без записи (у кого такая есть за 7 дней —
      каждый прогон, остальным раз в час), проверяет, не исчезли ли старые;
      по найденной записи пересчитывает статистику сессии;
@@ -18,7 +19,7 @@
 
 Ключи читаются из переменных окружения TWITCH_CLIENT_ID и TWITCH_CLIENT_SECRET.
 Устройство статистики — claude/twitch-stats-spec.md в репозитории сайта,
-архива месяцев — claude/twitch-chronicle-spec.md, §4, там же.
+архива месяцев — claude/twitch-chronicle-spec.md, §4, каапов — §13 спеки статистики.
 """
 
 import copy
@@ -209,6 +210,11 @@ class Twitch:
     def archives(self, user_id: str, limit: int = VIDEOS_LIMIT) -> list:
         # Get Videos принимает только один user_id за запрос — отсюда отдельный вызов на стримера.
         return self.get("videos", {"user_id": user_id, "type": "archive", "first": limit})
+
+    def shared_chat(self, user_id: str):
+        """Сессия общего чата канала или None. Токен приложения подходит (проверено 23.10.2026)."""
+        data = self.get("shared_chat/session", {"broadcaster_id": user_id})
+        return data[0] if data else None
 
 
 # ---------- логика ----------
@@ -738,6 +744,96 @@ def dump_json(path: Path, data: dict, compact_lists: bool = False) -> None:
         f.write(text + "\n")
 
 
+# ---------- каапы ----------
+#
+# Совместные эфиры по общему чату Twitch (Shared Chat): stats["coops"], ключ — session_id.
+# Спека — claude/twitch-stats-spec.md, §13, в репозитории сайта. Запись меняется только
+# при начале, конце, новом участнике или новой игре: updated_at из ответа и «когда видели»
+# не хранятся, иначе коммит был бы каждый прогон, пока сессия идёт.
+
+def update_coops(tw, stats: dict, state: dict, logins: list, live_now: dict, ts: datetime) -> None:
+    """live_now — ответ Get Streams этого прогона (user_id → стрим)."""
+    coops = stats.setdefault("coops", {})
+    ours = {state["streamers"][l]["user_id"]: l for l in logins
+            if state["streamers"][l].get("user_id")}
+
+    # Запрос на каждого нашего в эфире, кроме уже найденных в сессии этого прогона:
+    # один запрос на сессию, а не на участника.
+    seen, covered, failed = {}, set(), set()
+    for uid in ours:
+        if uid not in live_now or uid in covered:
+            continue
+        try:
+            s = tw.shared_chat(uid)
+        except Exception as e:
+            print(f"  {ours[uid]}: общий чат не получен — {e}", file=sys.stderr)
+            failed.add(uid)
+            continue
+        if not s:
+            continue
+        ids = [p["broadcaster_id"] for p in s.get("participants", [])]
+        seen[s["session_id"]] = (s, ids)
+        covered.update(ids)
+
+    # Логины чужих участников — одним Get Users на всех новых. Не ответил — участник
+    # пишется без логина, следующий прогон допишет.
+    known = {p["id"] for c in coops.values() for p in c["participants"] if p.get("login")}
+    foreign = sorted({i for _, ids in seen.values() for i in ids if i not in ours and i not in known})
+    try:
+        names = tw.users_by_id(foreign) if foreign else {}
+    except Exception as e:
+        print(f"  участники общего чата не получены — {e}", file=sys.stderr)
+        names = {}
+
+    def person(uid: str) -> dict:
+        if uid in ours:
+            st = state["streamers"][ours[uid]]
+            return {"id": uid, "login": ours[uid], "name": st.get("display_name") or ours[uid]}
+        u = names.get(uid)
+        return {"id": uid, "login": u["login"].lower() if u else None,
+                "name": u["display_name"] if u else None}
+
+    for sid, (s, ids) in seen.items():
+        c = coops.get(sid)
+        if c is None:
+            # created_at приходит с наносекундами — до секунды, как остальные отметки.
+            c = coops[sid] = {"host_id": s.get("host_broadcaster_id"),
+                              "started_at": iso(parse_iso(s["created_at"])),
+                              "ended_at": None, "participants": [], "games": []}
+            print(f"  каап начался: {sid}")
+        elif c["ended_at"]:
+            # Наши были вне эфира один прогон (рестарт), а сессия жива — это та же.
+            c["ended_at"] = None
+        by_id = {p["id"]: p for p in c["participants"]}
+        for uid in ids:
+            p = by_id.get(uid)
+            if p is None:
+                c["participants"].append(person(uid))
+            elif not p.get("login"):
+                p.update(person(uid))
+        # Игры — объединение категорий наших участников в эфире, без минут.
+        for uid in ids:
+            game = live_now.get(uid, {}).get("game_name") if uid in ours else None
+            if game and game not in c["games"]:
+                c["games"].append(game)
+
+    # Конец — первый прогон, где ни один наш участник сессию не отдал. Сбой запроса
+    # у нашего участника в эфире сессию не закрывает: неизвестно, идёт ли она.
+    for sid, c in coops.items():
+        if c["ended_at"] or sid in seen:
+            continue
+        our_ids = [p["id"] for p in c["participants"] if p["id"] in ours]
+        if any(uid in failed for uid in our_ids):
+            continue
+        c["ended_at"] = iso(ts)
+        print(f"  каап закончился: {sid}")
+
+    # 31 день, как recent_sessions; месяц остаётся в архиве.
+    cutoff = ts - timedelta(days=RECENT_DAYS)
+    for sid in [k for k, c in coops.items() if c["ended_at"] and parse_iso(c["ended_at"]) < cutoff]:
+        del coops[sid]
+
+
 # ---------- архив месяцев ----------
 #
 # data/archive/YYYY-MM.json — всё, что сайту нужно, чтобы показать месяц, когда его
@@ -844,6 +940,14 @@ def update_archive(stats: dict, state: dict, registry: list, logins: list, ts: d
                                              stats["streamers"][login],
                                              state["streamers"].get(login, {}), added.get(login))
         data = {"month": month, "collecting_since": since, "streamers": streamers}
+        # Каапы месяца начала — поверх прошлой версии файла: в stats они живут 31 день.
+        # Ключа нет, пока каапов в месяце не было, — месяцы до запуска сбора не трогаются.
+        coops = dict(old.get("coops", {}))
+        for sid, c in stats.get("coops", {}).items():
+            if minsk_month(parse_iso(c["started_at"])) == month:
+                coops[sid] = copy.deepcopy(c)
+        if coops:
+            data["coops"] = coops
         # updated_at в сравнение не входит — по той же причине, что у состояния.
         if data == {k: v for k, v in old.items() if k != "updated_at"}:
             continue
@@ -1003,6 +1107,13 @@ def run() -> int:
             track_live(login, stats["streamers"][login], s, ts)
         elif was_live:
             close_session(login, st, ts)
+
+    # --- каапы (общий чат) ---
+    # Сбой здесь не должен остановить сбор: состояние и статистика важнее.
+    try:
+        update_coops(tw, stats, state, logins, live_now, ts)
+    except Exception as e:
+        print(f"  каапы не обновлены — {e}", file=sys.stderr)
 
     # --- подписчики ---
     try:
