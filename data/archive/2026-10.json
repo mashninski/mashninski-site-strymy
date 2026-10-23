@@ -566,8 +566,8 @@
       "added_at": "2026-09-11",
       "categories": {
         "Assassin's Creed Shadows": {
-          "launches": 4,
-          "minutes": 585
+          "launches": 5,
+          "minutes": 716
         },
         "Starfield": {
           "launches": 15,
@@ -577,9 +577,9 @@
       "display_name": "Kryvichanka",
       "followers_end": null,
       "followers_start": 144,
-      "hours": [95,196,187,183,159,250,368,280,23,0,0,0,0,0,0,0,0,0,2,60,25,0,40,51],
-      "launches": 19,
-      "minutes": 1918,
+      "hours": [155,234,187,183,159,250,368,280,23,0,0,0,0,0,0,0,0,0,2,60,25,0,40,84],
+      "launches": 20,
+      "minutes": 2049,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-26T02:01:32Z",
       "sessions": [
@@ -677,6 +677,11 @@
           "duration_min": 112,
           "ended_at": "2026-10-23T04:53:52Z",
           "started_at": "2026-10-23T03:02:07Z"
+        },
+        {
+          "duration_min": 131,
+          "ended_at": "2026-10-23T22:38:30Z",
+          "started_at": "2026-10-23T20:27:04Z"
         }
       ]
     },
@@ -2164,5 +2169,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-23T21:10:51Z"
+  "updated_at": "2026-10-23T22:38:30Z"
 }

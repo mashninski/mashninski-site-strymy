@@ -1549,6 +1549,16 @@
       "display_name": "Kryvichanka",
       "history": [
         {
+          "duration_min": 131,
+          "ended_at": "2026-10-23T22:38:30Z",
+          "game": "Assassin's Creed Shadows",
+          "source": "observed",
+          "started_at": "2026-10-23T20:27:04Z",
+          "stream_id": "317724039287",
+          "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
+          "vod": null
+        },
+        {
           "duration_min": 112,
           "ended_at": "2026-10-23T04:53:52Z",
           "game": "Assassin's Creed Shadows",
@@ -1737,34 +1747,24 @@
           "stream_id": "319434338775",
           "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
           "vod": null
-        },
-        {
-          "duration_min": 160,
-          "ended_at": "2026-09-26T02:01:32Z",
-          "game": "Starfield",
-          "source": "observed",
-          "started_at": "2026-09-25T23:21:06Z",
-          "stream_id": "319352321239",
-          "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 112,
-        "ended_at": "2026-10-23T04:53:52Z",
+        "duration_min": 131,
+        "ended_at": "2026-10-23T22:38:30Z",
         "game": "Assassin's Creed Shadows",
         "source": "observed",
-        "started_at": "2026-10-23T03:02:07Z",
-        "stream_id": "317719619447",
+        "started_at": "2026-10-23T20:27:04Z",
+        "stream_id": "317724039287",
         "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
         "vod": null
       },
       "live": {
-        "game": "Assassin's Creed Shadows",
-        "since": "2026-10-23T20:27:04Z",
-        "stream_id": "317724039287",
-        "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
-        "viewers": 2
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad2b7c75-ce68-451d-9983-b84b1dd67c16-profile_image-300x300.png",
@@ -4848,12 +4848,12 @@
         "since": "2026-10-23T16:07:51Z",
         "stream_id": "317082020309",
         "title": "🔥ЗМАГАЕМСЯ СУПРАЦЬ 2ух ЦІМ АДНАЧАСОВА + заўтра РАНІЦАЙ СУПЕР НОВАЯ ГУЛЬНЯ толькі яна ў бэтатэсце🥰@watafakablr",
-        "viewers": 10
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-23T22:31:29Z"
+  "updated_at": "2026-10-23T22:38:30Z"
 }
