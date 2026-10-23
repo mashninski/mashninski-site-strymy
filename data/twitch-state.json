@@ -930,7 +930,7 @@
         "since": "2026-10-23T14:45:33Z",
         "stream_id": "319055769573",
         "title": "Шукаем Шэрыл 🔦 | Silent Hill: Shattered Memories (Wii ver)",
-        "viewers": 7
+        "viewers": 18
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -2099,7 +2099,7 @@
         "since": "2026-10-23T17:34:48Z",
         "stream_id": "317164348500",
         "title": "Корва! Корва! Дзе ты Корва? Ды не стой ты а выходзь!",
-        "viewers": 5
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -2194,6 +2194,21 @@
       "description": "ai enthusiast | hardpain gamer",
       "display_name": "mashninski",
       "history": [
+        {
+          "duration_min": 244,
+          "ended_at": "2026-10-23T17:54:42Z",
+          "game": "Clair Obscur: Expedition 33",
+          "source": "vod",
+          "started_at": "2026-10-23T13:50:22Z",
+          "stream_id": "319113426022",
+          "title": "Сёння французска-японскі геймінг, заўтра пераклад",
+          "vod": {
+            "gone": false,
+            "id": "2908507745",
+            "seen_at": "2026-10-23T17:56:13Z",
+            "url": "https://www.twitch.tv/videos/2908507745"
+          }
+        },
         {
           "duration_min": 162,
           "ended_at": "2026-10-22T17:44:08Z",
@@ -2478,44 +2493,29 @@
             "seen_at": "2026-10-04T11:06:01Z",
             "url": "https://www.twitch.tv/videos/2888963986"
           }
-        },
-        {
-          "duration_min": 176,
-          "ended_at": "2026-09-30T18:06:44Z",
-          "game": "The Witcher 3: Wild Hunt",
-          "source": "vod",
-          "started_at": "2026-09-30T15:10:44Z",
-          "stream_id": "318772615013",
-          "title": "Не хаціце крыху ябучага грыфона?",
-          "vod": {
-            "gone": false,
-            "id": "2888101890",
-            "seen_at": "2026-09-30T18:07:36Z",
-            "url": "https://www.twitch.tv/videos/2888101890"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 162,
-        "ended_at": "2026-10-22T17:44:08Z",
-        "game": "Stray",
+        "duration_min": 244,
+        "ended_at": "2026-10-23T17:54:42Z",
+        "game": "Clair Obscur: Expedition 33",
         "source": "vod",
-        "started_at": "2026-10-22T15:01:48Z",
-        "stream_id": "318904673255",
-        "title": "Ну амаль сталкер, не пачынайце тут",
+        "started_at": "2026-10-23T13:50:22Z",
+        "stream_id": "319113426022",
+        "title": "Сёння французска-японскі геймінг, заўтра пераклад",
         "vod": {
           "gone": false,
-          "id": "2907667995",
-          "seen_at": "2026-10-22T17:45:47Z",
-          "url": "https://www.twitch.tv/videos/2907667995"
+          "id": "2908507745",
+          "seen_at": "2026-10-23T17:56:13Z",
+          "url": "https://www.twitch.tv/videos/2908507745"
         }
       },
       "live": {
-        "game": "Clair Obscur: Expedition 33",
-        "since": "2026-10-23T13:50:22Z",
-        "stream_id": "319113426022",
-        "title": "Сёння французска-японскі геймінг, заўтра пераклад",
-        "viewers": 12
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -2843,11 +2843,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Grand Theft Auto V",
+        "since": "2026-10-23T17:55:33Z",
+        "stream_id": "319058650981",
+        "title": "[BLR] Рыхтуемся да GTA VI. Зарабляем міліярд. Stonks",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3298,7 +3298,7 @@
         "since": "2026-10-23T17:50:42Z",
         "stream_id": "317118526806",
         "title": "\"Дом-монстр\" 2006",
-        "viewers": 0
+        "viewers": 2
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4828,12 +4828,12 @@
         "since": "2026-10-23T16:07:51Z",
         "stream_id": "317082020309",
         "title": "🔥ЗМАГАЕМСЯ СУПРАЦЬ 2ух ЦІМ АДНАЧАСОВА + заўтра РАНІЦАЙ СУПЕР НОВАЯ ГУЛЬНЯ толькі яна ў бэтатэсце🥰@watafakablr",
-        "viewers": 11
+        "viewers": 10
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-23T17:51:12Z"
+  "updated_at": "2026-10-23T17:56:12Z"
 }
