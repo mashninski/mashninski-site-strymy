@@ -930,7 +930,7 @@
         "since": "2026-10-23T14:45:33Z",
         "stream_id": "319055769573",
         "title": "Шукаем Шэрыл 🔦 | Silent Hill: Shattered Memories (Wii ver)",
-        "viewers": 3
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -2515,7 +2515,7 @@
         "since": "2026-10-23T13:50:22Z",
         "stream_id": "319113426022",
         "title": "Сёння французска-японскі геймінг, заўтра пераклад",
-        "viewers": 10
+        "viewers": 12
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -4278,6 +4278,21 @@
       "display_name": "Ucenamescy",
       "history": [
         {
+          "duration_min": 164,
+          "ended_at": "2026-10-23T15:24:41Z",
+          "game": "Silver Pines",
+          "source": "vod",
+          "started_at": "2026-10-23T12:40:20Z",
+          "stream_id": "319054408805",
+          "title": "Cрэбныя Сосенькі ◉ Silver Pines",
+          "vod": {
+            "gone": false,
+            "id": "2908465048",
+            "seen_at": "2026-10-23T15:26:32Z",
+            "url": "https://www.twitch.tv/videos/2908465048"
+          }
+        },
+        {
           "duration_min": 167,
           "ended_at": "2026-10-22T19:08:18Z",
           "game": "Ready or Not",
@@ -4544,26 +4559,26 @@
         }
       ],
       "last_stream": {
-        "duration_min": 167,
-        "ended_at": "2026-10-22T19:08:18Z",
-        "game": "Ready or Not",
+        "duration_min": 164,
+        "ended_at": "2026-10-23T15:24:41Z",
+        "game": "Silver Pines",
         "source": "vod",
-        "started_at": "2026-10-22T16:21:40Z",
-        "stream_id": "318905648743",
-        "title": "Фаер он зе холл ◉ Ready Or Not",
+        "started_at": "2026-10-23T12:40:20Z",
+        "stream_id": "319054408805",
+        "title": "Cрэбныя Сосенькі ◉ Silver Pines",
         "vod": {
           "gone": false,
-          "id": "2907724635",
-          "seen_at": "2026-10-22T19:10:00Z",
-          "url": "https://www.twitch.tv/videos/2907724635"
+          "id": "2908465048",
+          "seen_at": "2026-10-23T15:26:32Z",
+          "url": "https://www.twitch.tv/videos/2908465048"
         }
       },
       "live": {
-        "game": "Silver Pines",
-        "since": "2026-10-23T12:40:20Z",
-        "stream_id": "319054408805",
-        "title": "Cрэбныя Сосенькі ◉ Silver Pines",
-        "viewers": 11
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -4820,5 +4835,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-23T15:20:38Z"
+  "updated_at": "2026-10-23T15:26:31Z"
 }
