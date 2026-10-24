@@ -3323,7 +3323,7 @@
         "since": "2026-10-24T17:59:10Z",
         "stream_id": "319131252454",
         "title": "\"Сонцастаянне\" 2019",
-        "viewers": 12
+        "viewers": 13
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4184,7 +4184,7 @@
         "since": "2026-10-24T18:52:30Z",
         "stream_id": "317171714516",
         "title": "Ну цяпер-та ўжо фінал? від Іринка подруга",
-        "viewers": 11
+        "viewers": 13
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4695,14 +4695,19 @@
       "display_name": "watafakablr",
       "history": [
         {
-          "duration_min": 363,
-          "ended_at": "2026-10-24T20:01:03Z",
+          "duration_min": 361,
+          "ended_at": "2026-10-24T19:59:31Z",
           "game": "Until Dawn",
-          "source": "observed",
+          "source": "vod",
           "started_at": "2026-10-24T13:58:07Z",
           "stream_id": "317124212054",
           "title": "🔥#1 UNTIL DAWN - будзе жооорстка🥰@watafakablr",
-          "vod": null
+          "vod": {
+            "gone": false,
+            "id": "2909470363",
+            "seen_at": "2026-10-24T20:10:40Z",
+            "url": "https://www.twitch.tv/videos/2909470363"
+          }
         },
         {
           "duration_min": 127,
@@ -4901,14 +4906,19 @@
         }
       ],
       "last_stream": {
-        "duration_min": 363,
-        "ended_at": "2026-10-24T20:01:03Z",
+        "duration_min": 361,
+        "ended_at": "2026-10-24T19:59:31Z",
         "game": "Until Dawn",
-        "source": "observed",
+        "source": "vod",
         "started_at": "2026-10-24T13:58:07Z",
         "stream_id": "317124212054",
         "title": "🔥#1 UNTIL DAWN - будзе жооорстка🥰@watafakablr",
-        "vod": null
+        "vod": {
+          "gone": false,
+          "id": "2909470363",
+          "seen_at": "2026-10-24T20:10:40Z",
+          "url": "https://www.twitch.tv/videos/2909470363"
+        }
       },
       "live": {
         "game": null,
@@ -4922,5 +4932,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-24T20:01:19Z"
+  "updated_at": "2026-10-24T20:10:39Z"
 }
