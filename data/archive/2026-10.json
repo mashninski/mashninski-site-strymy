@@ -1827,16 +1827,27 @@
     },
     "stablechaotic": {
       "added_at": "2026-10-24",
-      "categories": {},
+      "categories": {
+        "Just Chatting": {
+          "launches": 1,
+          "minutes": 200
+        }
+      },
       "display_name": "stableChaotic",
       "followers_end": null,
       "followers_start": 7,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-      "launches": 0,
-      "minutes": 0,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,45,60,60,36,0,0,0,0,0,0,0,0,0],
+      "launches": 1,
+      "minutes": 200,
       "prev_broadcast_at": null,
       "prev_ended_at": null,
-      "sessions": []
+      "sessions": [
+        {
+          "duration_min": 200,
+          "ended_at": "2026-10-24T11:35:32Z",
+          "started_at": "2026-10-24T08:15:29Z"
+        }
+      ]
     },
     "toddzie": {
       "added_at": "2026-09-11",
@@ -2210,5 +2221,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-24T11:07:08Z"
+  "updated_at": "2026-10-24T11:35:32Z"
 }
