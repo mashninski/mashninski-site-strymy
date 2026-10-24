@@ -4660,6 +4660,16 @@
       "display_name": "watafakablr",
       "history": [
         {
+          "duration_min": 127,
+          "ended_at": "2026-10-24T11:07:08Z",
+          "game": "HUNGER",
+          "source": "observed",
+          "started_at": "2026-10-24T09:00:18Z",
+          "stream_id": "317122486742",
+          "title": "🔥СІМУЛЯТАР ХРНЦУЗСКІХ БЕСаПРДКаЎ бэта тэст🥰@watafakablr",
+          "vod": null
+        },
+        {
           "duration_min": 393,
           "ended_at": "2026-10-23T22:40:56Z",
           "game": "WARDOGS",
@@ -4853,39 +4863,29 @@
           "stream_id": "317062596308",
           "title": "🔥ТУТ МАГЛА БЫЦЬ ВАША РЭКЛАМА АЛЕ ЗАМЕСТ ГЭТАГА БУЛЬБА🥰@watafakablr",
           "vod": null
-        },
-        {
-          "duration_min": 334,
-          "ended_at": "2026-10-05T21:31:51Z",
-          "game": "WARDOGS",
-          "source": "observed",
-          "started_at": "2026-10-05T15:58:07Z",
-          "stream_id": "317004920406",
-          "title": "🔥ТУТ МАГЛА БЫЦЬ ВАША РЭКЛАМА АЛЕ ЗАМЕСТ ГЭТАГА БУЛЬБА🥰@watafakablr",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 393,
-        "ended_at": "2026-10-23T22:40:56Z",
-        "game": "WARDOGS",
+        "duration_min": 127,
+        "ended_at": "2026-10-24T11:07:08Z",
+        "game": "HUNGER",
         "source": "observed",
-        "started_at": "2026-10-23T16:07:51Z",
-        "stream_id": "317082020309",
-        "title": "🔥ЗМАГАЕМСЯ СУПРАЦЬ 2ух ЦІМ АДНАЧАСОВА + заўтра РАНІЦАЙ СУПЕР НОВАЯ ГУЛЬНЯ толькі яна ў бэтатэсце🥰@watafakablr",
+        "started_at": "2026-10-24T09:00:18Z",
+        "stream_id": "317122486742",
+        "title": "🔥СІМУЛЯТАР ХРНЦУЗСКІХ БЕСаПРДКаЎ бэта тэст🥰@watafakablr",
         "vod": null
       },
       "live": {
-        "game": "HUNGER",
-        "since": "2026-10-24T09:00:18Z",
-        "stream_id": "317122486742",
-        "title": "🔥СІМУЛЯТАР ХРНЦУЗСКІХ БЕСаПРДКаЎ бэта тэст🥰@watafakablr",
-        "viewers": 12
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-24T11:00:37Z"
+  "updated_at": "2026-10-24T11:07:08Z"
 }

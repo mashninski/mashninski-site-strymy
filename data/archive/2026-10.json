@@ -2042,6 +2042,10 @@
           "launches": 1,
           "minutes": 247
         },
+        "HUNGER": {
+          "launches": 1,
+          "minutes": 127
+        },
         "Just Chatting": {
           "launches": 3,
           "minutes": 592
@@ -2062,9 +2066,9 @@
       "display_name": "watafakablr",
       "followers_end": null,
       "followers_start": 466,
-      "hours": [376,77,0,0,0,0,0,0,0,0,171,300,277,178,120,148,201,264,554,1019,1126,1089,1080,864],
-      "launches": 26,
-      "minutes": 7846,
+      "hours": [376,77,0,0,0,0,0,0,0,0,171,300,337,238,127,148,201,264,554,1019,1126,1089,1080,864],
+      "launches": 27,
+      "minutes": 7973,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-27T20:18:21Z",
       "sessions": [
@@ -2197,9 +2201,14 @@
           "duration_min": 393,
           "ended_at": "2026-10-23T22:40:56Z",
           "started_at": "2026-10-23T16:07:51Z"
+        },
+        {
+          "duration_min": 127,
+          "ended_at": "2026-10-24T11:07:08Z",
+          "started_at": "2026-10-24T09:00:18Z"
         }
       ]
     }
   },
-  "updated_at": "2026-10-24T09:46:50Z"
+  "updated_at": "2026-10-24T11:07:08Z"
 }
