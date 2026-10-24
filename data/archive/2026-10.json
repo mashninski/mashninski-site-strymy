@@ -1825,6 +1825,19 @@
         }
       ]
     },
+    "stablechaotic": {
+      "added_at": "2026-10-24",
+      "categories": {},
+      "display_name": "stableChaotic",
+      "followers_end": null,
+      "followers_start": 7,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+      "launches": 0,
+      "minutes": 0,
+      "prev_broadcast_at": null,
+      "prev_ended_at": null,
+      "sessions": []
+    },
     "toddzie": {
       "added_at": "2026-09-11",
       "categories": {},
@@ -2188,5 +2201,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-24T02:25:26Z"
+  "updated_at": "2026-10-24T09:46:50Z"
 }
