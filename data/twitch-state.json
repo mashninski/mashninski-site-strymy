@@ -1554,6 +1554,16 @@
       "display_name": "Kryvichanka",
       "history": [
         {
+          "duration_min": 45,
+          "ended_at": "2026-10-24T19:30:59Z",
+          "game": "Assassin's Creed Shadows",
+          "source": "observed",
+          "started_at": "2026-10-24T18:45:35Z",
+          "stream_id": "319684674135",
+          "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
+          "vod": null
+        },
+        {
           "duration_min": 131,
           "ended_at": "2026-10-23T22:38:30Z",
           "game": "Assassin's Creed Shadows",
@@ -1742,34 +1752,24 @@
           "stream_id": "319484018647",
           "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
           "vod": null
-        },
-        {
-          "duration_min": 56,
-          "ended_at": "2026-10-03T01:08:12Z",
-          "game": "Starfield",
-          "source": "observed",
-          "started_at": "2026-10-03T00:11:42Z",
-          "stream_id": "319434338775",
-          "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 131,
-        "ended_at": "2026-10-23T22:38:30Z",
+        "duration_min": 45,
+        "ended_at": "2026-10-24T19:30:59Z",
         "game": "Assassin's Creed Shadows",
         "source": "observed",
-        "started_at": "2026-10-23T20:27:04Z",
-        "stream_id": "317724039287",
+        "started_at": "2026-10-24T18:45:35Z",
+        "stream_id": "319684674135",
         "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
         "vod": null
       },
       "live": {
-        "game": "Assassin's Creed Shadows",
-        "since": "2026-10-24T18:45:35Z",
-        "stream_id": "319684674135",
-        "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
-        "viewers": 4
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad2b7c75-ce68-451d-9983-b84b1dd67c16-profile_image-300x300.png",
@@ -3323,7 +3323,7 @@
         "since": "2026-10-24T17:59:10Z",
         "stream_id": "319131252454",
         "title": "\"Сонцастаянне\" 2019",
-        "viewers": 8
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4915,12 +4915,12 @@
         "since": "2026-10-24T13:58:07Z",
         "stream_id": "317124212054",
         "title": "🔥#1 UNTIL DAWN - будзе жооорстка🥰@watafakablr",
-        "viewers": 16
+        "viewers": 15
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-24T19:20:37Z"
+  "updated_at": "2026-10-24T19:30:59Z"
 }
