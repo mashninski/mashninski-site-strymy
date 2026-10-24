@@ -338,6 +338,21 @@
       "display_name": "annigilatormg42",
       "history": [
         {
+          "duration_min": 122,
+          "ended_at": "2026-10-24T02:23:54Z",
+          "game": "Total War: Shogun 2",
+          "source": "vod",
+          "started_at": "2026-10-24T00:21:38Z",
+          "stream_id": "319122135782",
+          "title": "Пасярод начы. У Самурая няма мэты, ё толькі шлях)",
+          "vod": {
+            "gone": false,
+            "id": "2909012809",
+            "seen_at": "2026-10-24T02:25:27Z",
+            "url": "https://www.twitch.tv/videos/2909012809"
+          }
+        },
+        {
           "duration_min": 148,
           "ended_at": "2026-10-21T20:34:45Z",
           "game": "Empire: Total War",
@@ -611,39 +626,29 @@
           "stream_id": "318632204773",
           "title": "Працягваем змагацца за Вялікі Катай)",
           "vod": null
-        },
-        {
-          "duration_min": 143,
-          "ended_at": "2026-09-17T22:50:40Z",
-          "game": "Gallipoli",
-          "source": "observed",
-          "started_at": "2026-09-17T20:27:59Z",
-          "stream_id": "318487230439",
-          "title": "Працягваем штурм плато Галліпалі)",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 148,
-        "ended_at": "2026-10-21T20:34:45Z",
-        "game": "Empire: Total War",
+        "duration_min": 122,
+        "ended_at": "2026-10-24T02:23:54Z",
+        "game": "Total War: Shogun 2",
         "source": "vod",
-        "started_at": "2026-10-21T18:06:44Z",
-        "stream_id": "319034433509",
-        "title": "Пабудуем ЗША, мо магчыма будзе батл)",
+        "started_at": "2026-10-24T00:21:38Z",
+        "stream_id": "319122135782",
+        "title": "Пасярод начы. У Самурая няма мэты, ё толькі шлях)",
         "vod": {
           "gone": false,
-          "id": "2906949137",
-          "seen_at": "2026-10-21T20:36:21Z",
-          "url": "https://www.twitch.tv/videos/2906949137"
+          "id": "2909012809",
+          "seen_at": "2026-10-24T02:25:27Z",
+          "url": "https://www.twitch.tv/videos/2909012809"
         }
       },
       "live": {
-        "game": "Total War: Shogun 2",
-        "since": "2026-10-24T00:21:38Z",
-        "stream_id": "319122135782",
-        "title": "Пасярод начы. У Самурая няма мэты, ё толькі шлях)",
-        "viewers": 3
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6f85ccf-8f12-43f4-90e3-1e1cf95ab956-profile_image-300x300.jpeg",
@@ -3515,7 +3520,7 @@
         "since": "2026-10-24T00:35:02Z",
         "stream_id": "318924215143",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 0
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e25efe0-6f98-4fc3-9fce-ca2d63c9fcf9-profile_image-300x300.png",
@@ -4865,5 +4870,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-24T01:30:38Z"
+  "updated_at": "2026-10-24T02:25:26Z"
 }

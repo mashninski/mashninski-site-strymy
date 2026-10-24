@@ -384,18 +384,7 @@
           "2026-10-01": 54
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Total War: Shogun 2",
-            "sec": 7140
-          }
-        ],
-        "hours_sec": [0,0,0,2302,3600,1238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-24T02:20:38Z",
-        "started_at": "2026-10-24T00:21:38Z",
-        "stream_id": "319122135782"
-      },
+      "in_progress": null,
       "monthly": {
         "2026-09": {
           "categories": {
@@ -438,17 +427,32 @@
               "launches": 1,
               "minutes": 137
             },
+            "Total War: Shogun 2": {
+              "launches": 1,
+              "minutes": 122
+            },
             "Total War: WARHAMMER III": {
               "launches": 3,
               "minutes": 571
             }
           },
-          "hours": [81,60,42,0,0,0,0,0,0,0,0,0,0,0,0,0,35,81,251,300,182,226,184,154],
-          "launches": 10,
-          "minutes": 1596
+          "hours": [81,60,42,38,60,24,0,0,0,0,0,0,0,0,0,0,35,81,251,300,182,226,184,154],
+          "launches": 11,
+          "minutes": 1718
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Total War: Shogun 2",
+              "minutes": 122
+            }
+          ],
+          "ended_at": "2026-10-24T02:23:54Z",
+          "hours": [0,0,0,38,60,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-24T00:21:38Z"
+        },
         {
           "categories": [
             {
@@ -3408,11 +3412,11 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 6336
+            "sec": 6624
           }
         ],
-        "hours_sec": [0,0,0,1498,3600,1238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-24T02:20:38Z",
+        "hours_sec": [0,0,0,1498,3600,1526,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-24T02:25:26Z",
         "started_at": "2026-10-24T00:35:02Z",
         "stream_id": "318924215143"
       },
@@ -5422,5 +5426,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-24T02:20:38Z"
+  "updated_at": "2026-10-24T02:25:26Z"
 }

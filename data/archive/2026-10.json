@@ -183,6 +183,10 @@
           "launches": 1,
           "minutes": 137
         },
+        "Total War: Shogun 2": {
+          "launches": 1,
+          "minutes": 122
+        },
         "Total War: WARHAMMER III": {
           "launches": 3,
           "minutes": 571
@@ -191,9 +195,9 @@
       "display_name": "annigilatormg42",
       "followers_end": null,
       "followers_start": 54,
-      "hours": [81,60,42,0,0,0,0,0,0,0,0,0,0,0,0,0,35,81,251,300,182,226,184,154],
-      "launches": 10,
-      "minutes": 1596,
+      "hours": [81,60,42,38,60,24,0,0,0,0,0,0,0,0,0,0,35,81,251,300,182,226,184,154],
+      "launches": 11,
+      "minutes": 1718,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-29T21:46:12Z",
       "sessions": [
@@ -246,6 +250,11 @@
           "duration_min": 148,
           "ended_at": "2026-10-21T20:34:45Z",
           "started_at": "2026-10-21T18:06:44Z"
+        },
+        {
+          "duration_min": 122,
+          "ended_at": "2026-10-24T02:23:54Z",
+          "started_at": "2026-10-24T00:21:38Z"
         }
       ]
     },
@@ -2179,5 +2188,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-24T00:36:21Z"
+  "updated_at": "2026-10-24T02:25:26Z"
 }
