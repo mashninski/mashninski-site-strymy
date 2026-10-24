@@ -3323,7 +3323,7 @@
         "since": "2026-10-24T17:59:10Z",
         "stream_id": "319131252454",
         "title": "\"Сонцастаянне\" 2019",
-        "viewers": 12
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -3520,7 +3520,7 @@
         "since": "2026-10-24T00:35:02Z",
         "stream_id": "318924215143",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 2
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e25efe0-6f98-4fc3-9fce-ca2d63c9fcf9-profile_image-300x300.png",
@@ -4184,7 +4184,7 @@
         "since": "2026-10-24T18:52:30Z",
         "stream_id": "317171714516",
         "title": "Ну цяпер-та ўжо фінал? від Іринка подруга",
-        "viewers": 10
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4695,6 +4695,16 @@
       "display_name": "watafakablr",
       "history": [
         {
+          "duration_min": 363,
+          "ended_at": "2026-10-24T20:01:03Z",
+          "game": "Until Dawn",
+          "source": "observed",
+          "started_at": "2026-10-24T13:58:07Z",
+          "stream_id": "317124212054",
+          "title": "🔥#1 UNTIL DAWN - будзе жооорстка🥰@watafakablr",
+          "vod": null
+        },
+        {
           "duration_min": 127,
           "ended_at": "2026-10-24T11:07:08Z",
           "game": "HUNGER",
@@ -4888,39 +4898,29 @@
           "stream_id": "317068304212",
           "title": "🔥ТУТ МАГЛА БЫЦЬ ВАША РЭКЛАМА АЛЕ ЗАМЕСТ ГЭТАГА БУЛЬБА🥰@watafakablr",
           "vod": null
-        },
-        {
-          "duration_min": 260,
-          "ended_at": "2026-10-07T20:32:09Z",
-          "game": "WARDOGS",
-          "source": "observed",
-          "started_at": "2026-10-07T16:12:11Z",
-          "stream_id": "317062596308",
-          "title": "🔥ТУТ МАГЛА БЫЦЬ ВАША РЭКЛАМА АЛЕ ЗАМЕСТ ГЭТАГА БУЛЬБА🥰@watafakablr",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 127,
-        "ended_at": "2026-10-24T11:07:08Z",
-        "game": "HUNGER",
+        "duration_min": 363,
+        "ended_at": "2026-10-24T20:01:03Z",
+        "game": "Until Dawn",
         "source": "observed",
-        "started_at": "2026-10-24T09:00:18Z",
-        "stream_id": "317122486742",
-        "title": "🔥СІМУЛЯТАР ХРНЦУЗСКІХ БЕСаПРДКаЎ бэта тэст🥰@watafakablr",
+        "started_at": "2026-10-24T13:58:07Z",
+        "stream_id": "317124212054",
+        "title": "🔥#1 UNTIL DAWN - будзе жооорстка🥰@watafakablr",
         "vod": null
       },
       "live": {
-        "game": "Until Dawn",
-        "since": "2026-10-24T13:58:07Z",
-        "stream_id": "317124212054",
-        "title": "🔥#1 UNTIL DAWN - будзе жооорстка🥰@watafakablr",
-        "viewers": 14
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-24T19:50:39Z"
+  "updated_at": "2026-10-24T20:01:03Z"
 }
