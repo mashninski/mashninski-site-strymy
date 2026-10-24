@@ -3526,11 +3526,11 @@
         "vod": null
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Just Chatting",
+        "since": "2026-10-24T21:37:36Z",
+        "stream_id": "317091638229",
+        "title": "Беларускі кантэнт — хутка навіны пра праэкт",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e25efe0-6f98-4fc3-9fce-ca2d63c9fcf9-profile_image-300x300.png",
@@ -4194,7 +4194,7 @@
         "since": "2026-10-24T18:52:30Z",
         "stream_id": "317171714516",
         "title": "Ну цяпер-та ўжо фінал? від Іринка подруга",
-        "viewers": 10
+        "viewers": 13
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4942,5 +4942,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-24T21:30:36Z"
+  "updated_at": "2026-10-24T21:38:01Z"
 }
