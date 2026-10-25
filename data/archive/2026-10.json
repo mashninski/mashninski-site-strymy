@@ -1673,8 +1673,8 @@
           "minutes": 366
         },
         "Kingdom Come: Deliverance": {
-          "launches": 3,
-          "minutes": 1249
+          "launches": 4,
+          "minutes": 1645
         },
         "R.E.P.O.": {
           "launches": 1,
@@ -1708,9 +1708,9 @@
       "display_name": "ShagraeL_BY",
       "followers_end": null,
       "followers_start": 998,
-      "hours": [1260,1260,1225,1197,1137,1080,817,358,68,0,0,0,0,0,0,0,0,0,6,222,397,889,1182,1260],
-      "launches": 21,
-      "minutes": 12360,
+      "hours": [1320,1320,1285,1257,1166,1080,817,358,68,0,0,0,0,0,0,0,0,0,6,222,397,897,1242,1320],
+      "launches": 22,
+      "minutes": 12756,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-01T01:57:14Z",
       "sessions": [
@@ -1818,6 +1818,11 @@
           "duration_min": 701,
           "ended_at": "2026-10-23T03:35:06Z",
           "started_at": "2026-10-22T15:54:15Z"
+        },
+        {
+          "duration_min": 396,
+          "ended_at": "2026-10-25T01:28:50Z",
+          "started_at": "2026-10-24T18:52:30Z"
         }
       ]
     },
@@ -2255,5 +2260,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-24T21:30:36Z"
+  "updated_at": "2026-10-25T01:30:31Z"
 }

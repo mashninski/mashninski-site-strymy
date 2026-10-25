@@ -3874,6 +3874,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 396,
+          "ended_at": "2026-10-25T01:28:50Z",
+          "game": "Kingdom Come: Deliverance",
+          "source": "vod",
+          "started_at": "2026-10-24T18:52:30Z",
+          "stream_id": "317171714516",
+          "title": "Ну цяпер-та ўжо фінал? від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2909717924",
+            "seen_at": "2026-10-25T01:30:32Z",
+            "url": "https://www.twitch.tv/videos/2909717924"
+          }
+        },
+        {
           "duration_min": 701,
           "ended_at": "2026-10-23T03:35:06Z",
           "game": "Valheim",
@@ -4157,44 +4172,29 @@
             "seen_at": "2026-10-04T11:06:03Z",
             "url": "https://www.twitch.tv/videos/2890948369"
           }
-        },
-        {
-          "duration_min": 586,
-          "ended_at": "2026-10-03T03:44:44Z",
-          "game": "Waterpark Simulator",
-          "source": "vod",
-          "started_at": "2026-10-02T17:58:44Z",
-          "stream_id": "318662477927",
-          "title": "Бульк від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2889963275",
-            "seen_at": "2026-10-03T04:03:29Z",
-            "url": "https://www.twitch.tv/videos/2889963275"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 701,
-        "ended_at": "2026-10-23T03:35:06Z",
-        "game": "Valheim",
+        "duration_min": 396,
+        "ended_at": "2026-10-25T01:28:50Z",
+        "game": "Kingdom Come: Deliverance",
         "source": "vod",
-        "started_at": "2026-10-22T15:54:15Z",
-        "stream_id": "319101673318",
-        "title": "Вікінгі-чараўнікі у справе! від Іринка подруга",
+        "started_at": "2026-10-24T18:52:30Z",
+        "stream_id": "317171714516",
+        "title": "Ну цяпер-та ўжо фінал? від Іринка подруга",
         "vod": {
           "gone": false,
-          "id": "2907702823",
-          "seen_at": "2026-10-23T03:37:13Z",
-          "url": "https://www.twitch.tv/videos/2907702823"
+          "id": "2909717924",
+          "seen_at": "2026-10-25T01:30:32Z",
+          "url": "https://www.twitch.tv/videos/2909717924"
         }
       },
       "live": {
-        "game": "Kingdom Come: Deliverance",
-        "since": "2026-10-24T18:52:30Z",
-        "stream_id": "317171714516",
-        "title": "Ну цяпер-та ўжо фінал? від Іринка подруга",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4942,5 +4942,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-25T01:20:37Z"
+  "updated_at": "2026-10-25T01:30:31Z"
 }
