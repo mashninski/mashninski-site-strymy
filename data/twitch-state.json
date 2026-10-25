@@ -338,6 +338,21 @@
       "display_name": "annigilatormg42",
       "history": [
         {
+          "duration_min": 210,
+          "ended_at": "2026-10-25T18:19:59Z",
+          "game": "Total War: WARHAMMER III",
+          "source": "vod",
+          "started_at": "2026-10-25T14:50:12Z",
+          "stream_id": "318944400871",
+          "title": "Працягваем гуляць за нашу Цёмную Прыгажуню, і магчыма пазней паспрабуем штосці новае)",
+          "vod": {
+            "gone": false,
+            "id": "2910472750",
+            "seen_at": "2026-10-25T18:21:34Z",
+            "url": "https://www.twitch.tv/videos/2910472750"
+          }
+        },
+        {
           "duration_min": 122,
           "ended_at": "2026-10-24T02:23:54Z",
           "game": "Total War: Shogun 2",
@@ -616,39 +631,29 @@
           "stream_id": "318506774887",
           "title": "Працягваем даследваць Свет вачыма гішпанскіх канкістадораў)",
           "vod": null
-        },
-        {
-          "duration_min": 190,
-          "ended_at": "2026-09-18T19:32:28Z",
-          "game": "Total War: WARHAMMER III",
-          "source": "observed",
-          "started_at": "2026-09-18T16:22:36Z",
-          "stream_id": "318632204773",
-          "title": "Працягваем змагацца за Вялікі Катай)",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 122,
-        "ended_at": "2026-10-24T02:23:54Z",
-        "game": "Total War: Shogun 2",
+        "duration_min": 210,
+        "ended_at": "2026-10-25T18:19:59Z",
+        "game": "Total War: WARHAMMER III",
         "source": "vod",
-        "started_at": "2026-10-24T00:21:38Z",
-        "stream_id": "319122135782",
-        "title": "Пасярод начы. У Самурая няма мэты, ё толькі шлях)",
+        "started_at": "2026-10-25T14:50:12Z",
+        "stream_id": "318944400871",
+        "title": "Працягваем гуляць за нашу Цёмную Прыгажуню, і магчыма пазней паспрабуем штосці новае)",
         "vod": {
           "gone": false,
-          "id": "2909012809",
-          "seen_at": "2026-10-24T02:25:27Z",
-          "url": "https://www.twitch.tv/videos/2909012809"
+          "id": "2910472750",
+          "seen_at": "2026-10-25T18:21:34Z",
+          "url": "https://www.twitch.tv/videos/2910472750"
         }
       },
       "live": {
-        "game": "Total War: WARHAMMER III",
-        "since": "2026-10-25T14:50:12Z",
-        "stream_id": "318944400871",
-        "title": "Працягваем гуляць за нашу Цёмную Прыгажуню, і магчыма пазней паспрабуем штосці новае)",
-        "viewers": 2
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6f85ccf-8f12-43f4-90e3-1e1cf95ab956-profile_image-300x300.jpeg",
@@ -2867,7 +2872,7 @@
         "since": "2026-10-25T17:58:35Z",
         "stream_id": "317132673494",
         "title": "[BLR] Нядзельны трыял. Сэрца Чарнобыля",
-        "viewers": 1
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4931,16 +4936,16 @@
         }
       },
       "live": {
-        "game": "Until Dawn",
+        "game": "Just Chatting",
         "since": "2026-10-25T13:26:07Z",
         "stream_id": "317176383444",
-        "title": "🔥#2 UNTIL DAWN + калі пасьпеем то паглядзім інтэлектуальны кантэнт🥰@watafakablr",
-        "viewers": 16
+        "title": "🔥Інтэлектуальны кантэнт🥰@watafakablr",
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-25T18:10:40Z"
+  "updated_at": "2026-10-25T18:21:33Z"
 }
