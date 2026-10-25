@@ -2863,11 +2863,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "since": "2026-10-25T17:58:35Z",
+        "stream_id": "317132673494",
+        "title": "[BLR] Нядзельны трыял. Сэрца Чарнобыля",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4942,5 +4942,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-25T17:40:39Z"
+  "updated_at": "2026-10-25T17:59:07Z"
 }
