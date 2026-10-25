@@ -4710,6 +4710,21 @@
       "display_name": "watafakablr",
       "history": [
         {
+          "duration_min": 386,
+          "ended_at": "2026-10-25T19:51:37Z",
+          "game": "Just Chatting",
+          "source": "vod",
+          "started_at": "2026-10-25T13:26:07Z",
+          "stream_id": "317176383444",
+          "title": "🔥Інтэлектуальны кантэнт🥰@watafakablr",
+          "vod": {
+            "gone": false,
+            "id": "2910413829",
+            "seen_at": "2026-10-25T19:53:08Z",
+            "url": "https://www.twitch.tv/videos/2910413829"
+          }
+        },
+        {
           "duration_min": 361,
           "ended_at": "2026-10-24T19:59:31Z",
           "game": "Until Dawn",
@@ -4908,44 +4923,34 @@
           "stream_id": "316994683605",
           "title": "🔥ТУТ МАГЛА БЫЦЬ ВАША РЭКЛАМА АЛЕ ЗАМЕСТ ГЭТАГА БУЛЬБА🥰@watafakablr",
           "vod": null
-        },
-        {
-          "duration_min": 397,
-          "ended_at": "2026-10-08T22:02:41Z",
-          "game": "WARDOGS",
-          "source": "observed",
-          "started_at": "2026-10-08T15:25:59Z",
-          "stream_id": "317068304212",
-          "title": "🔥ТУТ МАГЛА БЫЦЬ ВАША РЭКЛАМА АЛЕ ЗАМЕСТ ГЭТАГА БУЛЬБА🥰@watafakablr",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 361,
-        "ended_at": "2026-10-24T19:59:31Z",
-        "game": "Until Dawn",
+        "duration_min": 386,
+        "ended_at": "2026-10-25T19:51:37Z",
+        "game": "Just Chatting",
         "source": "vod",
-        "started_at": "2026-10-24T13:58:07Z",
-        "stream_id": "317124212054",
-        "title": "🔥#1 UNTIL DAWN - будзе жооорстка🥰@watafakablr",
+        "started_at": "2026-10-25T13:26:07Z",
+        "stream_id": "317176383444",
+        "title": "🔥Інтэлектуальны кантэнт🥰@watafakablr",
         "vod": {
           "gone": false,
-          "id": "2909470363",
-          "seen_at": "2026-10-24T20:10:40Z",
-          "url": "https://www.twitch.tv/videos/2909470363"
+          "id": "2910413829",
+          "seen_at": "2026-10-25T19:53:08Z",
+          "url": "https://www.twitch.tv/videos/2910413829"
         }
       },
       "live": {
-        "game": "Just Chatting",
-        "since": "2026-10-25T13:26:07Z",
-        "stream_id": "317176383444",
-        "title": "🔥Інтэлектуальны кантэнт🥰@watafakablr",
-        "viewers": 12
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-25T19:50:40Z"
+  "updated_at": "2026-10-25T19:53:07Z"
 }
