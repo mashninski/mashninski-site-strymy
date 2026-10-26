@@ -1559,6 +1559,16 @@
       "display_name": "Kryvichanka",
       "history": [
         {
+          "duration_min": 9,
+          "ended_at": "2026-10-26T18:57:48Z",
+          "game": "Assassin's Creed Shadows",
+          "source": "observed",
+          "started_at": "2026-10-26T18:49:12Z",
+          "stream_id": "318463886936",
+          "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
+          "vod": null
+        },
+        {
           "duration_min": 45,
           "ended_at": "2026-10-24T19:30:59Z",
           "game": "Assassin's Creed Shadows",
@@ -1747,34 +1757,24 @@
           "stream_id": "317614287991",
           "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
           "vod": null
-        },
-        {
-          "duration_min": 283,
-          "ended_at": "2026-10-07T05:08:52Z",
-          "game": "Starfield",
-          "source": "observed",
-          "started_at": "2026-10-07T00:25:42Z",
-          "stream_id": "319484018647",
-          "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 45,
-        "ended_at": "2026-10-24T19:30:59Z",
+        "duration_min": 9,
+        "ended_at": "2026-10-26T18:57:48Z",
         "game": "Assassin's Creed Shadows",
         "source": "observed",
-        "started_at": "2026-10-24T18:45:35Z",
-        "stream_id": "319684674135",
+        "started_at": "2026-10-26T18:49:12Z",
+        "stream_id": "318463886936",
         "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
         "vod": null
       },
       "live": {
-        "game": "Assassin's Creed Shadows",
-        "since": "2026-10-26T18:49:12Z",
-        "stream_id": "318463886936",
-        "title": "#SilentStream#Hot cakes🦫🦫🦫 часінку",
-        "viewers": 0
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ad2b7c75-ce68-451d-9983-b84b1dd67c16-profile_image-300x300.png",
@@ -1803,6 +1803,21 @@
       "description": "Вітаю! Стрымлю па-беларуску розныя гульні і намагаюся каб наша мова жыла. Кансультую, дапамагаю ў самастойным набыцці камплектуючых і ў рашэнні праблем з кампутарам. Далучайся па спасылках да маіх суполак. Будзе цікава і карысна ;)",
       "display_name": "lepus81",
       "history": [
+        {
+          "duration_min": 233,
+          "ended_at": "2026-10-26T18:57:24Z",
+          "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+          "source": "vod",
+          "started_at": "2026-10-26T15:04:44Z",
+          "stream_id": "317183760084",
+          "title": "Болт, гэта сіла, Болт — гэта аргумент! (с)",
+          "vod": {
+            "gone": false,
+            "id": "2911348241",
+            "seen_at": "2026-10-26T18:57:49Z",
+            "url": "https://www.twitch.tv/videos/2911348241"
+          }
+        },
         {
           "duration_min": 172,
           "ended_at": "2026-10-23T20:26:38Z",
@@ -2087,44 +2102,29 @@
             "seen_at": "2026-10-04T11:06:01Z",
             "url": "https://www.twitch.tv/videos/2885619206"
           }
-        },
-        {
-          "duration_min": 236,
-          "ended_at": "2026-09-26T14:44:59Z",
-          "game": "Dishonored",
-          "source": "vod",
-          "started_at": "2026-09-26T10:49:29Z",
-          "stream_id": "316989886036",
-          "title": "Усё ж ёсць у гэтай гульні моджо",
-          "vod": {
-            "gone": false,
-            "id": "2884424777",
-            "seen_at": "2026-10-04T11:06:01Z",
-            "url": "https://www.twitch.tv/videos/2884424777"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 172,
-        "ended_at": "2026-10-23T20:26:38Z",
-        "game": "Dishonored",
+        "duration_min": 233,
+        "ended_at": "2026-10-26T18:57:24Z",
+        "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
         "source": "vod",
-        "started_at": "2026-10-23T17:34:48Z",
-        "stream_id": "317164348500",
-        "title": "Корва! Корва! Дзе ты Корва? Ды не стой ты а выходзь!",
+        "started_at": "2026-10-26T15:04:44Z",
+        "stream_id": "317183760084",
+        "title": "Болт, гэта сіла, Болт — гэта аргумент! (с)",
         "vod": {
           "gone": false,
-          "id": "2908675329",
-          "seen_at": "2026-10-23T20:28:33Z",
-          "url": "https://www.twitch.tv/videos/2908675329"
+          "id": "2911348241",
+          "seen_at": "2026-10-26T18:57:49Z",
+          "url": "https://www.twitch.tv/videos/2911348241"
         }
       },
       "live": {
-        "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-        "since": "2026-10-26T15:04:44Z",
-        "stream_id": "317183760084",
-        "title": "Болт, гэта сіла, Болт — гэта аргумент! (с)",
-        "viewers": 13
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -2872,7 +2872,7 @@
         "since": "2026-10-26T18:04:10Z",
         "stream_id": "317185355092",
         "title": "[BLR] Рыхтуемся да GTA VI. Скупаем нерухомасць",
-        "viewers": 5
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3328,7 +3328,7 @@
         "since": "2026-10-26T18:31:18Z",
         "stream_id": "319098967653",
         "title": "Павукі і стым (глядзім хэлавінаўскія зніжкі)",
-        "viewers": 5
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4680,7 +4680,7 @@
         "since": "2026-10-26T16:39:11Z",
         "stream_id": "317184486100",
         "title": "Эдзік згубіўся ◉ Silver Pines #3",
-        "viewers": 10
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -4945,12 +4945,12 @@
         "since": "2026-10-26T15:14:47Z",
         "stream_id": "317137585238",
         "title": "🔥Калі што +1 заходзьце + замаўляйце музыку🥰@watafakablr",
-        "viewers": 10
+        "viewers": 7
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-26T18:50:38Z"
+  "updated_at": "2026-10-26T18:57:48Z"
 }
