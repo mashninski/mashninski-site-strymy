@@ -2872,7 +2872,7 @@
         "since": "2026-10-26T18:04:10Z",
         "stream_id": "317185355092",
         "title": "[BLR] Рыхтуемся да GTA VI. Скупаем нерухомасць",
-        "viewers": 10
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3328,7 +3328,7 @@
         "since": "2026-10-26T18:31:18Z",
         "stream_id": "319098967653",
         "title": "Павукі і стым (глядзім хэлавінаўскія зніжкі)",
-        "viewers": 10
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4199,7 +4199,7 @@
         "since": "2026-10-26T18:16:34Z",
         "stream_id": "318960019175",
         "title": "Ну нееее, не хачуууу від Іринка подруга",
-        "viewers": 5
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4364,6 +4364,21 @@
       "description": "♦️Стрымер твічоўскі. Жыццё - жураві́ны з цукрам",
       "display_name": "Ucenamescy",
       "history": [
+        {
+          "duration_min": 182,
+          "ended_at": "2026-10-26T19:41:01Z",
+          "game": "Silver Pines",
+          "source": "vod",
+          "started_at": "2026-10-26T16:39:11Z",
+          "stream_id": "317184486100",
+          "title": "Эдзік згубіўся ◉ Silver Pines #3",
+          "vod": {
+            "gone": false,
+            "id": "2911411099",
+            "seen_at": "2026-10-26T19:42:46Z",
+            "url": "https://www.twitch.tv/videos/2911411099"
+          }
+        },
         {
           "duration_min": 177,
           "ended_at": "2026-10-24T16:49:10Z",
@@ -4648,39 +4663,29 @@
             "seen_at": "2026-09-16T22:01:04Z",
             "url": "https://www.twitch.tv/videos/2875796744"
           }
-        },
-        {
-          "duration_min": 195,
-          "ended_at": "2026-09-11T21:41:52Z",
-          "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-          "source": "observed",
-          "started_at": "2026-09-11T18:27:22Z",
-          "stream_id": "318416273255",
-          "title": "Мабыць, Фінал? ◉ S.T.A.L.K.E.R. 2: Cost of Hope",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 177,
-        "ended_at": "2026-10-24T16:49:10Z",
+        "duration_min": 182,
+        "ended_at": "2026-10-26T19:41:01Z",
         "game": "Silver Pines",
         "source": "vod",
-        "started_at": "2026-10-24T13:51:52Z",
-        "stream_id": "319127809638",
-        "title": "Працяг Cрэбраных Сосенак ◉ Silver Pines #2",
+        "started_at": "2026-10-26T16:39:11Z",
+        "stream_id": "317184486100",
+        "title": "Эдзік згубіўся ◉ Silver Pines #3",
         "vod": {
           "gone": false,
-          "id": "2909465884",
-          "seen_at": "2026-10-24T16:50:52Z",
-          "url": "https://www.twitch.tv/videos/2909465884"
+          "id": "2911411099",
+          "seen_at": "2026-10-26T19:42:46Z",
+          "url": "https://www.twitch.tv/videos/2911411099"
         }
       },
       "live": {
-        "game": "Silver Pines",
-        "since": "2026-10-26T16:39:11Z",
-        "stream_id": "317184486100",
-        "title": "Эдзік згубіўся ◉ Silver Pines #3",
-        "viewers": 12
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -4947,5 +4952,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-26T19:40:39Z"
+  "updated_at": "2026-10-26T19:42:45Z"
 }
