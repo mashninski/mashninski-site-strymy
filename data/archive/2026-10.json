@@ -1548,8 +1548,8 @@
           "minutes": 125
         },
         "SILENT HILL: townfall": {
-          "launches": 11,
-          "minutes": 832
+          "launches": 12,
+          "minutes": 967
         },
         "The Witcher 3: Wild Hunt Remastered": {
           "launches": 3,
@@ -1563,9 +1563,9 @@
       "display_name": "Rudzi_Belarus",
       "followers_end": null,
       "followers_start": 926,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,7,591,609,158,39,0,0,0,0,0,0],
-      "launches": 20,
-      "minutes": 1410,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,7,643,669,181,39,0,0,0,0,0,0],
+      "launches": 21,
+      "minutes": 1545,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-30T13:00:27Z",
       "sessions": [
@@ -1668,6 +1668,11 @@
           "duration_min": 1,
           "ended_at": "2026-10-23T11:00:42Z",
           "started_at": "2026-10-23T11:00:39Z"
+        },
+        {
+          "duration_min": 135,
+          "ended_at": "2026-10-26T13:22:33Z",
+          "started_at": "2026-10-26T11:07:39Z"
         }
       ]
     },
@@ -2308,5 +2313,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-26T13:10:44Z"
+  "updated_at": "2026-10-26T13:24:12Z"
 }

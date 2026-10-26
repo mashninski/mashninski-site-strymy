@@ -3535,7 +3535,7 @@
         "since": "2026-10-24T21:37:36Z",
         "stream_id": "317091638229",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 1
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e25efe0-6f98-4fc3-9fce-ca2d63c9fcf9-profile_image-300x300.png",
@@ -3546,6 +3546,21 @@
       "description": "Беларускі стрымер, аглядальнік на YouTube",
       "display_name": "Rudzi_Belarus",
       "history": [
+        {
+          "duration_min": 135,
+          "ended_at": "2026-10-26T13:22:33Z",
+          "game": "SILENT HILL: townfall",
+          "source": "vod",
+          "started_at": "2026-10-26T11:07:39Z",
+          "stream_id": "319151974630",
+          "title": "Бясконцыя Ціхія Пагоркі: Townfall. Фінал блізка?",
+          "vod": {
+            "gone": false,
+            "id": "2911223793",
+            "seen_at": "2026-10-26T13:24:13Z",
+            "url": "https://www.twitch.tv/videos/2911223793"
+          }
+        },
         {
           "duration_min": 133,
           "ended_at": "2026-10-23T13:13:05Z",
@@ -3830,44 +3845,29 @@
             "seen_at": "2026-10-05T11:57:05Z",
             "url": "https://www.twitch.tv/videos/2892481981"
           }
-        },
-        {
-          "duration_min": 125,
-          "ended_at": "2026-10-01T14:38:53Z",
-          "game": "SILENT HILL: townfall",
-          "source": "vod",
-          "started_at": "2026-10-01T12:34:19Z",
-          "stream_id": "316976597590",
-          "title": "Новы Silent Hill - Townfall. Ходзім-бадзяемся",
-          "vod": {
-            "gone": false,
-            "id": "2888867749",
-            "seen_at": "2026-10-04T11:06:03Z",
-            "url": "https://www.twitch.tv/videos/2888867749"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 133,
-        "ended_at": "2026-10-23T13:13:05Z",
-        "game": "Chants of Sennaar",
+        "duration_min": 135,
+        "ended_at": "2026-10-26T13:22:33Z",
+        "game": "SILENT HILL: townfall",
         "source": "vod",
-        "started_at": "2026-10-23T11:00:33Z",
-        "stream_id": "319111735398",
-        "title": "Разгадваем загадкі па-беларуску ў Chants of Sennaar",
+        "started_at": "2026-10-26T11:07:39Z",
+        "stream_id": "319151974630",
+        "title": "Бясконцыя Ціхія Пагоркі: Townfall. Фінал блізка?",
         "vod": {
           "gone": false,
-          "id": "2908414001",
-          "seen_at": "2026-10-23T13:14:38Z",
-          "url": "https://www.twitch.tv/videos/2908414001"
+          "id": "2911223793",
+          "seen_at": "2026-10-26T13:24:13Z",
+          "url": "https://www.twitch.tv/videos/2911223793"
         }
       },
       "live": {
-        "game": "SILENT HILL: townfall",
-        "since": "2026-10-26T11:07:39Z",
-        "stream_id": "319151974630",
-        "title": "Бясконцыя Ціхія Пагоркі: Townfall. Фінал блізка?",
-        "viewers": 34
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -4952,5 +4952,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-26T13:20:43Z"
+  "updated_at": "2026-10-26T13:24:12Z"
 }
