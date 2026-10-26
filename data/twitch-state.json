@@ -2552,6 +2552,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 256,
+          "ended_at": "2026-10-26T22:19:48Z",
+          "game": "Grand Theft Auto V",
+          "source": "vod",
+          "started_at": "2026-10-26T18:04:10Z",
+          "stream_id": "317185355092",
+          "title": "[BLR] Рыхтуемся да GTA VI. Скупаем нерухомасць",
+          "vod": {
+            "gone": false,
+            "id": "2911476740",
+            "seen_at": "2026-10-26T22:21:22Z",
+            "url": "https://www.twitch.tv/videos/2911476740"
+          }
+        },
+        {
           "duration_min": 190,
           "ended_at": "2026-10-25T21:08:41Z",
           "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
@@ -2835,44 +2850,29 @@
             "seen_at": "2026-10-04T11:06:03Z",
             "url": "https://www.twitch.tv/videos/2889083164"
           }
-        },
-        {
-          "duration_min": 189,
-          "ended_at": "2026-09-29T21:04:37Z",
-          "game": "RESIDENT EVIL: requiem",
-          "source": "vod",
-          "started_at": "2026-09-29T17:55:26Z",
-          "stream_id": "318763867877",
-          "title": "[BLR] Нядзельны трыял. Лявон мусіць памерці. Заўсёды. Лімба Лявона",
-          "vod": {
-            "gone": false,
-            "id": "2887361283",
-            "seen_at": "2026-10-04T11:06:03Z",
-            "url": "https://www.twitch.tv/videos/2887361283"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 190,
-        "ended_at": "2026-10-25T21:08:41Z",
-        "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "duration_min": 256,
+        "ended_at": "2026-10-26T22:19:48Z",
+        "game": "Grand Theft Auto V",
         "source": "vod",
-        "started_at": "2026-10-25T17:58:35Z",
-        "stream_id": "317132673494",
-        "title": "[BLR] Нядзельны трыял. Сэрца Чарнобыля",
+        "started_at": "2026-10-26T18:04:10Z",
+        "stream_id": "317185355092",
+        "title": "[BLR] Рыхтуемся да GTA VI. Скупаем нерухомасць",
         "vod": {
           "gone": false,
-          "id": "2910629202",
-          "seen_at": "2026-10-25T21:10:23Z",
-          "url": "https://www.twitch.tv/videos/2910629202"
+          "id": "2911476740",
+          "seen_at": "2026-10-26T22:21:22Z",
+          "url": "https://www.twitch.tv/videos/2911476740"
         }
       },
       "live": {
-        "game": "Grand Theft Auto V",
-        "since": "2026-10-26T18:04:10Z",
-        "stream_id": "317185355092",
-        "title": "[BLR] Рыхтуемся да GTA VI. Скупаем нерухомасць",
-        "viewers": 7
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4219,7 +4219,7 @@
         "since": "2026-10-26T18:16:34Z",
         "stream_id": "318960019175",
         "title": "Штось калупаем від Іринка подруга",
-        "viewers": 22
+        "viewers": 21
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4972,5 +4972,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-26T22:10:42Z"
+  "updated_at": "2026-10-26T22:21:22Z"
 }

@@ -1102,8 +1102,8 @@
           "minutes": 105
         },
         "Grand Theft Auto V": {
-          "launches": 4,
-          "minutes": 837
+          "launches": 5,
+          "minutes": 1093
         },
         "HELLDIVERS 2": {
           "launches": 1,
@@ -1157,9 +1157,9 @@
       "display_name": "Mihas_Gareza",
       "followers_end": null,
       "followers_start": 198,
-      "hours": [305,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,288,1103,1101,821],
-      "launches": 19,
-      "minutes": 3646,
+      "hours": [365,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,288,1159,1161,881],
+      "launches": 20,
+      "minutes": 3902,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-29T21:19:48Z",
       "sessions": [
@@ -1257,6 +1257,11 @@
           "duration_min": 190,
           "ended_at": "2026-10-25T21:08:41Z",
           "started_at": "2026-10-25T17:58:35Z"
+        },
+        {
+          "duration_min": 256,
+          "ended_at": "2026-10-26T22:19:48Z",
+          "started_at": "2026-10-26T18:04:10Z"
         }
       ]
     },
@@ -2353,5 +2358,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-26T22:00:06Z"
+  "updated_at": "2026-10-26T22:21:22Z"
 }
