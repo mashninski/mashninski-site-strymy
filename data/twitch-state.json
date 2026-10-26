@@ -3879,6 +3879,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 524,
+          "ended_at": "2026-10-26T03:41:30Z",
+          "game": "Valheim",
+          "source": "vod",
+          "started_at": "2026-10-25T18:57:20Z",
+          "stream_id": "317179116884",
+          "title": "Вікінгствуем далей від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2910683244",
+            "seen_at": "2026-10-26T03:43:12Z",
+            "url": "https://www.twitch.tv/videos/2910683244"
+          }
+        },
+        {
           "duration_min": 396,
           "ended_at": "2026-10-25T01:28:50Z",
           "game": "Kingdom Come: Deliverance",
@@ -4162,44 +4177,29 @@
             "seen_at": "2026-10-05T03:23:15Z",
             "url": "https://www.twitch.tv/videos/2891918338"
           }
-        },
-        {
-          "duration_min": 574,
-          "ended_at": "2026-10-04T03:39:50Z",
-          "game": "Valheim",
-          "source": "vod",
-          "started_at": "2026-10-03T18:05:50Z",
-          "stream_id": "318869077734",
-          "title": "у Мяўгаллу! від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2890948369",
-            "seen_at": "2026-10-04T11:06:03Z",
-            "url": "https://www.twitch.tv/videos/2890948369"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 396,
-        "ended_at": "2026-10-25T01:28:50Z",
-        "game": "Kingdom Come: Deliverance",
+        "duration_min": 524,
+        "ended_at": "2026-10-26T03:41:30Z",
+        "game": "Valheim",
         "source": "vod",
-        "started_at": "2026-10-24T18:52:30Z",
-        "stream_id": "317171714516",
-        "title": "Ну цяпер-та ўжо фінал? від Іринка подруга",
+        "started_at": "2026-10-25T18:57:20Z",
+        "stream_id": "317179116884",
+        "title": "Вікінгствуем далей від Іринка подруга",
         "vod": {
           "gone": false,
-          "id": "2909717924",
-          "seen_at": "2026-10-25T01:30:32Z",
-          "url": "https://www.twitch.tv/videos/2909717924"
+          "id": "2910683244",
+          "seen_at": "2026-10-26T03:43:12Z",
+          "url": "https://www.twitch.tv/videos/2910683244"
         }
       },
       "live": {
-        "game": "Valheim",
-        "since": "2026-10-25T18:57:20Z",
-        "stream_id": "317179116884",
-        "title": "Вікінгствуем далей від Іринка подруга",
-        "viewers": 7
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4952,5 +4952,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-26T03:30:38Z"
+  "updated_at": "2026-10-26T03:43:11Z"
 }
