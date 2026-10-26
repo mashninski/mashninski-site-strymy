@@ -408,6 +408,10 @@
           "launches": 1,
           "minutes": 229
         },
+        "Euro Truck Simulator 2": {
+          "launches": 1,
+          "minutes": 146
+        },
         "Farming Simulator 25": {
           "launches": 1,
           "minutes": 168
@@ -428,9 +432,9 @@
       "display_name": "DzedMaksim",
       "followers_end": null,
       "followers_start": 228,
-      "hours": [0,0,0,0,0,0,0,0,0,6,573,925,998,847,82,0,0,0,0,0,0,0,0,0],
-      "launches": 17,
-      "minutes": 3430,
+      "hours": [0,0,0,0,0,0,0,0,0,6,573,925,1043,907,123,0,0,0,0,0,0,0,0,0],
+      "launches": 18,
+      "minutes": 3576,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-30T11:19:32Z",
       "sessions": [
@@ -518,6 +522,11 @@
           "duration_min": 201,
           "ended_at": "2026-10-23T10:48:29Z",
           "started_at": "2026-10-23T07:27:15Z"
+        },
+        {
+          "duration_min": 146,
+          "ended_at": "2026-10-26T11:40:48Z",
+          "started_at": "2026-10-26T09:15:03Z"
         }
       ]
     },
@@ -2294,5 +2303,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-26T03:43:11Z"
+  "updated_at": "2026-10-26T11:42:19Z"
 }
