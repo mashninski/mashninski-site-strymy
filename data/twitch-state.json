@@ -2124,7 +2124,7 @@
         "since": "2026-10-26T15:04:44Z",
         "stream_id": "317183760084",
         "title": "Болт, гэта сіла, Болт — гэта аргумент! (с)",
-        "viewers": 17
+        "viewers": 16
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -2219,6 +2219,21 @@
       "description": "ai enthusiast | hardpain gamer",
       "display_name": "mashninski",
       "history": [
+        {
+          "duration_min": 225,
+          "ended_at": "2026-10-26T18:30:22Z",
+          "game": "The Witcher 3: Wild Hunt Remastered",
+          "source": "vod",
+          "started_at": "2026-10-26T14:45:32Z",
+          "stream_id": "318957087847",
+          "title": "Я ўжо не памятаю, што мы рабілі",
+          "vod": {
+            "gone": false,
+            "id": "2911335640",
+            "seen_at": "2026-10-26T18:32:07Z",
+            "url": "https://www.twitch.tv/videos/2911335640"
+          }
+        },
         {
           "duration_min": 225,
           "ended_at": "2026-10-25T14:48:57Z",
@@ -2503,44 +2518,29 @@
             "seen_at": "2026-10-04T20:33:06Z",
             "url": "https://www.twitch.tv/videos/2891589363"
           }
-        },
-        {
-          "duration_min": 205,
-          "ended_at": "2026-10-03T16:18:40Z",
-          "game": "The Witcher 3: Wild Hunt",
-          "source": "vod",
-          "started_at": "2026-10-03T12:54:07Z",
-          "stream_id": "318671583335",
-          "title": "Абдымемся і разам пойдзем",
-          "vod": {
-            "gone": false,
-            "id": "2890700879",
-            "seen_at": "2026-10-04T11:06:01Z",
-            "url": "https://www.twitch.tv/videos/2890700879"
-          }
         }
       ],
       "last_stream": {
         "duration_min": 225,
-        "ended_at": "2026-10-25T14:48:57Z",
-        "game": "Alan Wake's American Nightmare",
+        "ended_at": "2026-10-26T18:30:22Z",
+        "game": "The Witcher 3: Wild Hunt Remastered",
         "source": "vod",
-        "started_at": "2026-10-25T11:03:37Z",
-        "stream_id": "318941529191",
-        "title": "Прачыналкін vs. Засыналкін",
+        "started_at": "2026-10-26T14:45:32Z",
+        "stream_id": "318957087847",
+        "title": "Я ўжо не памятаю, што мы рабілі",
         "vod": {
           "gone": false,
-          "id": "2910332153",
-          "seen_at": "2026-10-25T14:50:33Z",
-          "url": "https://www.twitch.tv/videos/2910332153"
+          "id": "2911335640",
+          "seen_at": "2026-10-26T18:32:07Z",
+          "url": "https://www.twitch.tv/videos/2911335640"
         }
       },
       "live": {
-        "game": "The Witcher 3: Wild Hunt Remastered",
-        "since": "2026-10-26T14:45:32Z",
-        "stream_id": "318957087847",
-        "title": "Я ўжо не памятаю, што мы рабілі",
-        "viewers": 8
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -3324,11 +3324,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Art",
+        "since": "2026-10-26T18:31:18Z",
+        "stream_id": "319098967653",
+        "title": "Павукі і стым (глядзім хэлавінаўскія зніжкі)",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4199,7 +4199,7 @@
         "since": "2026-10-26T18:16:34Z",
         "stream_id": "318960019175",
         "title": "Ну нееее, не хачуууу від Іринка подруга",
-        "viewers": 4
+        "viewers": 10
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4680,7 +4680,7 @@
         "since": "2026-10-26T16:39:11Z",
         "stream_id": "317184486100",
         "title": "Эдзік згубіўся ◉ Silver Pines #3",
-        "viewers": 11
+        "viewers": 12
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -4952,5 +4952,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-26T18:30:40Z"
+  "updated_at": "2026-10-26T18:32:07Z"
 }
