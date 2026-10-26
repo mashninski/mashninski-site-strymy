@@ -22,8 +22,8 @@
           "minutes": 221
         },
         "CONTROL Resonant": {
-          "launches": 4,
-          "minutes": 878
+          "launches": 5,
+          "minutes": 1111
         },
         "Control": {
           "launches": 2,
@@ -61,9 +61,9 @@
       "display_name": "AngryRalef",
       "followers_end": null,
       "followers_start": 1293,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,716,943,958,793,15,0,0,0,0,0,0,0,0],
-      "launches": 19,
-      "minutes": 3426,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,716,987,1018,853,75,9,0,0,0,0,0,0,0],
+      "launches": 20,
+      "minutes": 3659,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-30T12:11:27Z",
       "sessions": [
@@ -161,6 +161,11 @@
           "duration_min": 205,
           "ended_at": "2026-10-23T11:35:20Z",
           "started_at": "2026-10-23T08:10:21Z"
+        },
+        {
+          "duration_min": 233,
+          "ended_at": "2026-10-26T13:09:01Z",
+          "started_at": "2026-10-26T09:16:00Z"
         }
       ]
     },
@@ -2303,5 +2308,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-26T11:42:19Z"
+  "updated_at": "2026-10-26T13:10:44Z"
 }
