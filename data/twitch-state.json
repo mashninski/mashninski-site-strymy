@@ -2872,7 +2872,7 @@
         "since": "2026-10-26T18:04:10Z",
         "stream_id": "317185355092",
         "title": "[BLR] Рыхтуемся да GTA VI. Скупаем нерухомасць",
-        "viewers": 4
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4680,7 +4680,7 @@
         "since": "2026-10-26T16:39:11Z",
         "stream_id": "317184486100",
         "title": "Эдзік згубіўся ◉ Silver Pines #3",
-        "viewers": 13
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -4709,6 +4709,16 @@
       "description": "Тут мы бавімся ў гульні , слухаем музыку ды размаўляем 😉                                                                                                                              ",
       "display_name": "watafakablr",
       "history": [
+        {
+          "duration_min": 239,
+          "ended_at": "2026-10-26T19:13:55Z",
+          "game": "WARDOGS",
+          "source": "observed",
+          "started_at": "2026-10-26T15:14:47Z",
+          "stream_id": "317137585238",
+          "title": "🔥Калі што +1 заходзьце + замаўляйце музыку🥰@watafakablr",
+          "vod": null
+        },
         {
           "duration_min": 386,
           "ended_at": "2026-10-25T19:51:37Z",
@@ -4913,44 +4923,29 @@
           "stream_id": "317078595412",
           "title": "🔥ООО ЛЕГЕНДЫ ПАВЯРТАЮЦЦА Ў ARC RAIDERS🥰@watafakablr",
           "vod": null
-        },
-        {
-          "duration_min": 369,
-          "ended_at": "2026-10-09T22:32:59Z",
-          "game": "WARDOGS",
-          "source": "observed",
-          "started_at": "2026-10-09T16:24:03Z",
-          "stream_id": "316994683605",
-          "title": "🔥ТУТ МАГЛА БЫЦЬ ВАША РЭКЛАМА АЛЕ ЗАМЕСТ ГЭТАГА БУЛЬБА🥰@watafakablr",
-          "vod": null
         }
       ],
       "last_stream": {
-        "duration_min": 386,
-        "ended_at": "2026-10-25T19:51:37Z",
-        "game": "Just Chatting",
-        "source": "vod",
-        "started_at": "2026-10-25T13:26:07Z",
-        "stream_id": "317176383444",
-        "title": "🔥Інтэлектуальны кантэнт🥰@watafakablr",
-        "vod": {
-          "gone": false,
-          "id": "2910413829",
-          "seen_at": "2026-10-25T19:53:08Z",
-          "url": "https://www.twitch.tv/videos/2910413829"
-        }
-      },
-      "live": {
+        "duration_min": 239,
+        "ended_at": "2026-10-26T19:13:55Z",
         "game": "WARDOGS",
-        "since": "2026-10-26T15:14:47Z",
+        "source": "observed",
+        "started_at": "2026-10-26T15:14:47Z",
         "stream_id": "317137585238",
         "title": "🔥Калі што +1 заходзьце + замаўляйце музыку🥰@watafakablr",
-        "viewers": 10
+        "vod": null
+      },
+      "live": {
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-26T19:10:42Z"
+  "updated_at": "2026-10-26T19:13:55Z"
 }
