@@ -2124,7 +2124,7 @@
         "since": "2026-10-26T15:04:44Z",
         "stream_id": "317183760084",
         "title": "Болт, гэта сіла, Болт — гэта аргумент! (с)",
-        "viewers": 2
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -2540,7 +2540,7 @@
         "since": "2026-10-26T14:45:32Z",
         "stream_id": "318957087847",
         "title": "Я ўжо не памятаю, што мы рабілі",
-        "viewers": 7
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -4941,16 +4941,16 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Just Chatting",
+        "since": "2026-10-26T15:14:47Z",
+        "stream_id": "317137585238",
+        "title": "🔥Калі што +1 заходзьце + замаўляйце музыку🥰@watafakablr",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-26T15:10:43Z"
+  "updated_at": "2026-10-26T15:15:16Z"
 }
