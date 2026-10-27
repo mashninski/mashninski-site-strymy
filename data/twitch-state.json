@@ -326,7 +326,7 @@
         "since": "2026-10-27T09:13:48Z",
         "stream_id": "317106518485",
         "title": "Зброя супраць <Шыпення/Hiss>. Control Resonant",
-        "viewers": 14
+        "viewers": 21
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -1099,6 +1099,21 @@
       "display_name": "DzedMaksim",
       "history": [
         {
+          "duration_min": 226,
+          "ended_at": "2026-10-27T12:09:05Z",
+          "game": "The Long Dark",
+          "source": "vod",
+          "started_at": "2026-10-27T08:23:02Z",
+          "stream_id": "318966200551",
+          "title": "88# Пакуль чакаем на цягнік - бадзяемся! Дзень 485+💀Няпрошаны госьць💀|🪓The Long Dark беларуская мова",
+          "vod": {
+            "gone": false,
+            "id": "2912026202",
+            "seen_at": "2026-10-27T12:10:38Z",
+            "url": "https://www.twitch.tv/videos/2912026202"
+          }
+        },
+        {
           "duration_min": 146,
           "ended_at": "2026-10-26T11:40:48Z",
           "game": "Euro Truck Simulator 2",
@@ -1382,44 +1397,29 @@
             "seen_at": "2026-10-04T11:06:03Z",
             "url": "https://www.twitch.tv/videos/2887908721"
           }
-        },
-        {
-          "duration_min": 8,
-          "ended_at": "2026-09-30T08:17:54Z",
-          "game": "Crysis 2",
-          "source": "vod",
-          "started_at": "2026-09-30T08:10:11Z",
-          "stream_id": "318632676327",
-          "title": "1# Зямля для зямлянаў! | Crysis 2 беларуская мова",
-          "vod": {
-            "gone": false,
-            "id": "2887905185",
-            "seen_at": "2026-10-04T11:06:03Z",
-            "url": "https://www.twitch.tv/videos/2887905185"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 146,
-        "ended_at": "2026-10-26T11:40:48Z",
-        "game": "Euro Truck Simulator 2",
+        "duration_min": 226,
+        "ended_at": "2026-10-27T12:09:05Z",
+        "game": "The Long Dark",
         "source": "vod",
-        "started_at": "2026-10-26T09:15:03Z",
-        "stream_id": "318954409063",
-        "title": "Трошкі Хэлаўіна і дасягненні | Euro Truck Simulator 2 беларуская мова",
+        "started_at": "2026-10-27T08:23:02Z",
+        "stream_id": "318966200551",
+        "title": "88# Пакуль чакаем на цягнік - бадзяемся! Дзень 485+💀Няпрошаны госьць💀|🪓The Long Dark беларуская мова",
         "vod": {
           "gone": false,
-          "id": "2911183672",
-          "seen_at": "2026-10-26T11:42:20Z",
-          "url": "https://www.twitch.tv/videos/2911183672"
+          "id": "2912026202",
+          "seen_at": "2026-10-27T12:10:38Z",
+          "url": "https://www.twitch.tv/videos/2912026202"
         }
       },
       "live": {
-        "game": "The Long Dark",
-        "since": "2026-10-27T08:23:02Z",
-        "stream_id": "318966200551",
-        "title": "88# Пакуль чакаем на цягнік - бадзяемся! Дзень 485+💀Няпрошаны госьць💀|🪓The Long Dark беларуская мова",
-        "viewers": 11
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -3887,7 +3887,7 @@
         "since": "2026-10-27T11:32:36Z",
         "stream_id": "319105958757",
         "title": "І зноў шыфроўкі на беларускай мове. Chants of Sennaar",
-        "viewers": 16
+        "viewers": 18
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -4972,5 +4972,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-27T12:00:40Z"
+  "updated_at": "2026-10-27T12:10:37Z"
 }
