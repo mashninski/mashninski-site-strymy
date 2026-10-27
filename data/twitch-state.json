@@ -1809,6 +1809,21 @@
       "display_name": "lepus81",
       "history": [
         {
+          "duration_min": 222,
+          "ended_at": "2026-10-27T22:27:18Z",
+          "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+          "source": "vod",
+          "started_at": "2026-10-27T18:45:28Z",
+          "stream_id": "317145788758",
+          "title": "\"Мне здаецца, яна прапускае тых, у каго няма ніякай надзеі. Ня дрэнных, а няшчасных!\" (с)",
+          "vod": {
+            "gone": false,
+            "id": "2912371439",
+            "seen_at": "2026-10-27T22:28:56Z",
+            "url": "https://www.twitch.tv/videos/2912371439"
+          }
+        },
+        {
           "duration_min": 233,
           "ended_at": "2026-10-26T18:57:24Z",
           "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
@@ -2092,44 +2107,29 @@
             "seen_at": "2026-09-28T21:07:39Z",
             "url": "https://www.twitch.tv/videos/2886476915"
           }
-        },
-        {
-          "duration_min": 129,
-          "ended_at": "2026-09-27T18:52:17Z",
-          "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-          "source": "vod",
-          "started_at": "2026-09-27T16:43:27Z",
-          "stream_id": "316999326036",
-          "title": "Паглыбляемся ў ЗОНУ",
-          "vod": {
-            "gone": false,
-            "id": "2885619206",
-            "seen_at": "2026-10-04T11:06:01Z",
-            "url": "https://www.twitch.tv/videos/2885619206"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 233,
-        "ended_at": "2026-10-26T18:57:24Z",
+        "duration_min": 222,
+        "ended_at": "2026-10-27T22:27:18Z",
         "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
         "source": "vod",
-        "started_at": "2026-10-26T15:04:44Z",
-        "stream_id": "317183760084",
-        "title": "Болт, гэта сіла, Болт — гэта аргумент! (с)",
+        "started_at": "2026-10-27T18:45:28Z",
+        "stream_id": "317145788758",
+        "title": "\"Мне здаецца, яна прапускае тых, у каго няма ніякай надзеі. Ня дрэнных, а няшчасных!\" (с)",
         "vod": {
           "gone": false,
-          "id": "2911348241",
-          "seen_at": "2026-10-26T18:57:49Z",
-          "url": "https://www.twitch.tv/videos/2911348241"
+          "id": "2912371439",
+          "seen_at": "2026-10-27T22:28:56Z",
+          "url": "https://www.twitch.tv/videos/2912371439"
         }
       },
       "live": {
-        "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-        "since": "2026-10-27T18:45:28Z",
-        "stream_id": "317145788758",
-        "title": "\"Мне здаецца, яна прапускае тых, у каго няма ніякай надзеі. Ня дрэнных, а няшчасных!\" (с)",
-        "viewers": 15
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -4977,5 +4977,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-27T22:20:40Z"
+  "updated_at": "2026-10-27T22:28:56Z"
 }
