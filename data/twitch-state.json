@@ -2124,7 +2124,7 @@
         "since": "2026-10-27T18:45:28Z",
         "stream_id": "317145788758",
         "title": "\"Мне здаецца, яна прапускае тых, у каго няма ніякай надзеі. Ня дрэнных, а няшчасных!\" (с)",
-        "viewers": 13
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -2552,6 +2552,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 167,
+          "ended_at": "2026-10-27T20:42:46Z",
+          "game": "A Little to the Left",
+          "source": "vod",
+          "started_at": "2026-10-27T17:55:34Z",
+          "stream_id": "317192410324",
+          "title": "[BLR] Індзі аўторак. Крыху ўлева",
+          "vod": {
+            "gone": false,
+            "id": "2912331643",
+            "seen_at": "2026-10-27T20:44:31Z",
+            "url": "https://www.twitch.tv/videos/2912331643"
+          }
+        },
+        {
           "duration_min": 256,
           "ended_at": "2026-10-26T22:19:48Z",
           "game": "Grand Theft Auto V",
@@ -2835,44 +2850,29 @@
             "seen_at": "2026-10-04T22:06:16Z",
             "url": "https://www.twitch.tv/videos/2891907630"
           }
-        },
-        {
-          "duration_min": 119,
-          "ended_at": "2026-10-01T19:53:38Z",
-          "game": "Serious Sam: The Second Encounter",
-          "source": "vod",
-          "started_at": "2026-10-01T17:54:49Z",
-          "stream_id": "316945259221",
-          "title": "[BLR] Рэтра чацвер. Сур'ёзны Сэм. Нейкі дадатак",
-          "vod": {
-            "gone": false,
-            "id": "2889083164",
-            "seen_at": "2026-10-04T11:06:03Z",
-            "url": "https://www.twitch.tv/videos/2889083164"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 256,
-        "ended_at": "2026-10-26T22:19:48Z",
-        "game": "Grand Theft Auto V",
+        "duration_min": 167,
+        "ended_at": "2026-10-27T20:42:46Z",
+        "game": "A Little to the Left",
         "source": "vod",
-        "started_at": "2026-10-26T18:04:10Z",
-        "stream_id": "317185355092",
-        "title": "[BLR] Рыхтуемся да GTA VI. Скупаем нерухомасць",
+        "started_at": "2026-10-27T17:55:34Z",
+        "stream_id": "317192410324",
+        "title": "[BLR] Індзі аўторак. Крыху ўлева",
         "vod": {
           "gone": false,
-          "id": "2911476740",
-          "seen_at": "2026-10-26T22:21:22Z",
-          "url": "https://www.twitch.tv/videos/2911476740"
+          "id": "2912331643",
+          "seen_at": "2026-10-27T20:44:31Z",
+          "url": "https://www.twitch.tv/videos/2912331643"
         }
       },
       "live": {
-        "game": "A Little to the Left",
-        "since": "2026-10-27T17:55:34Z",
-        "stream_id": "317192410324",
-        "title": "[BLR] Індзі аўторак. Крыху ўлева",
-        "viewers": 3
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4705,7 +4705,7 @@
         "since": "2026-10-27T18:44:47Z",
         "stream_id": "319169105894",
         "title": "Шукаем Званы ◉ Silver Pines #4",
-        "viewers": 6
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -4972,5 +4972,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-27T20:40:28Z"
+  "updated_at": "2026-10-27T20:44:31Z"
 }
