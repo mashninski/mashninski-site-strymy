@@ -2220,6 +2220,21 @@
       "display_name": "mashninski",
       "history": [
         {
+          "duration_min": 153,
+          "ended_at": "2026-10-27T16:38:22Z",
+          "game": "The Witcher 3: Wild Hunt Remastered",
+          "source": "vod",
+          "started_at": "2026-10-27T14:05:42Z",
+          "stream_id": "318968872935",
+          "title": "Які квэст робім сёння?",
+          "vod": {
+            "gone": false,
+            "id": "2912174566",
+            "seen_at": "2026-10-27T16:40:03Z",
+            "url": "https://www.twitch.tv/videos/2912174566"
+          }
+        },
+        {
           "duration_min": 225,
           "ended_at": "2026-10-26T18:30:22Z",
           "game": "The Witcher 3: Wild Hunt Remastered",
@@ -2503,44 +2518,29 @@
             "seen_at": "2026-10-05T21:31:52Z",
             "url": "https://www.twitch.tv/videos/2892643100"
           }
-        },
-        {
-          "duration_min": 226,
-          "ended_at": "2026-10-04T14:06:47Z",
-          "game": " SEKIRO: SHADOWS DIE TWICE",
-          "source": "vod",
-          "started_at": "2026-10-04T10:21:00Z",
-          "stream_id": "318819934437",
-          "title": "Гераль-кун, лепшае лязо Ўсходу + 2 АНОНСЫ",
-          "vod": {
-            "gone": false,
-            "id": "2891589363",
-            "seen_at": "2026-10-04T20:33:06Z",
-            "url": "https://www.twitch.tv/videos/2891589363"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 225,
-        "ended_at": "2026-10-26T18:30:22Z",
+        "duration_min": 153,
+        "ended_at": "2026-10-27T16:38:22Z",
         "game": "The Witcher 3: Wild Hunt Remastered",
         "source": "vod",
-        "started_at": "2026-10-26T14:45:32Z",
-        "stream_id": "318957087847",
-        "title": "Я ўжо не памятаю, што мы рабілі",
+        "started_at": "2026-10-27T14:05:42Z",
+        "stream_id": "318968872935",
+        "title": "Які квэст робім сёння?",
         "vod": {
           "gone": false,
-          "id": "2911335640",
-          "seen_at": "2026-10-26T18:32:07Z",
-          "url": "https://www.twitch.tv/videos/2911335640"
+          "id": "2912174566",
+          "seen_at": "2026-10-27T16:40:03Z",
+          "url": "https://www.twitch.tv/videos/2912174566"
         }
       },
       "live": {
-        "game": "The Witcher 3: Wild Hunt Remastered",
-        "since": "2026-10-27T14:05:42Z",
-        "stream_id": "318968872935",
-        "title": "Які квэст робім сёння?",
-        "viewers": 18
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -3555,7 +3555,7 @@
         "since": "2026-10-26T21:58:53Z",
         "stream_id": "317140104278",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 3
+        "viewers": 2
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e25efe0-6f98-4fc3-9fce-ca2d63c9fcf9-profile_image-300x300.png",
@@ -4972,5 +4972,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-27T16:30:40Z"
+  "updated_at": "2026-10-27T16:40:03Z"
 }

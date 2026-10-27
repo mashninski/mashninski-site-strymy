@@ -958,8 +958,8 @@
           "minutes": 735
         },
         "The Witcher 3: Wild Hunt Remastered": {
-          "launches": 6,
-          "minutes": 758
+          "launches": 7,
+          "minutes": 911
         },
         "Without a Dawn": {
           "launches": 1,
@@ -969,9 +969,9 @@
       "display_name": "mashninski",
       "followers_end": null,
       "followers_start": 162,
-      "hours": [10,0,0,0,0,0,0,0,0,0,0,0,0,71,176,186,277,278,510,777,884,579,264,60],
-      "launches": 23,
-      "minutes": 4072,
+      "hours": [10,0,0,0,0,0,0,0,0,0,0,0,0,71,176,186,277,332,570,815,884,579,264,60],
+      "launches": 24,
+      "minutes": 4225,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-30T18:06:44Z",
       "sessions": [
@@ -1089,6 +1089,11 @@
           "duration_min": 225,
           "ended_at": "2026-10-26T18:30:22Z",
           "started_at": "2026-10-26T14:45:32Z"
+        },
+        {
+          "duration_min": 153,
+          "ended_at": "2026-10-27T16:38:22Z",
+          "started_at": "2026-10-27T14:05:42Z"
         }
       ]
     },
@@ -2378,5 +2383,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-27T13:44:19Z"
+  "updated_at": "2026-10-27T16:40:03Z"
 }
