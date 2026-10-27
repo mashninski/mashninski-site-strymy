@@ -1335,8 +1335,8 @@
       "added_at": "2026-09-11",
       "categories": {
         "Art": {
-          "launches": 16,
-          "minutes": 2062
+          "launches": 17,
+          "minutes": 2217
         },
         "Just Chatting": {
           "launches": 6,
@@ -1350,9 +1350,9 @@
       "display_name": "Nine_Ravens_Cemetery",
       "followers_end": null,
       "followers_start": 298,
-      "hours": [41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,1492,1560,469],
-      "launches": 28,
-      "minutes": 3601,
+      "hours": [43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,1526,1620,529],
+      "launches": 29,
+      "minutes": 3756,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-30T20:20:53Z",
       "sessions": [
@@ -1495,6 +1495,11 @@
           "duration_min": 158,
           "ended_at": "2026-10-26T21:08:59Z",
           "started_at": "2026-10-26T18:31:18Z"
+        },
+        {
+          "duration_min": 155,
+          "ended_at": "2026-10-27T21:01:42Z",
+          "started_at": "2026-10-27T18:26:17Z"
         }
       ]
     },
@@ -2388,5 +2393,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-27T20:44:31Z"
+  "updated_at": "2026-10-27T21:03:27Z"
 }
