@@ -2129,7 +2129,7 @@
         "since": "2026-10-27T18:45:28Z",
         "stream_id": "317145788758",
         "title": "\"Мне здаецца, яна прапускае тых, у каго няма ніякай надзеі. Ня дрэнных, а няшчасных!\" (с)",
-        "viewers": 9
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -4390,6 +4390,21 @@
       "display_name": "Ucenamescy",
       "history": [
         {
+          "duration_min": 211,
+          "ended_at": "2026-10-27T22:15:28Z",
+          "game": "Silver Pines",
+          "source": "vod",
+          "started_at": "2026-10-27T18:44:47Z",
+          "stream_id": "319169105894",
+          "title": "Шукаем Званы ◉ Silver Pines #4",
+          "vod": {
+            "gone": false,
+            "id": "2912370945",
+            "seen_at": "2026-10-27T22:17:07Z",
+            "url": "https://www.twitch.tv/videos/2912370945"
+          }
+        },
+        {
           "duration_min": 182,
           "ended_at": "2026-10-26T19:41:01Z",
           "game": "Silver Pines",
@@ -4673,44 +4688,29 @@
             "seen_at": "2026-10-04T11:06:03Z",
             "url": "https://www.twitch.tv/videos/2880289568"
           }
-        },
-        {
-          "duration_min": 318,
-          "ended_at": "2026-09-16T21:58:11Z",
-          "game": "Big Walk",
-          "source": "vod",
-          "started_at": "2026-09-16T16:40:11Z",
-          "stream_id": "318668189926",
-          "title": "Шукаем Грушы ◉ Big Walk",
-          "vod": {
-            "gone": false,
-            "id": "2875796744",
-            "seen_at": "2026-09-16T22:01:04Z",
-            "url": "https://www.twitch.tv/videos/2875796744"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 182,
-        "ended_at": "2026-10-26T19:41:01Z",
+        "duration_min": 211,
+        "ended_at": "2026-10-27T22:15:28Z",
         "game": "Silver Pines",
         "source": "vod",
-        "started_at": "2026-10-26T16:39:11Z",
-        "stream_id": "317184486100",
-        "title": "Эдзік згубіўся ◉ Silver Pines #3",
+        "started_at": "2026-10-27T18:44:47Z",
+        "stream_id": "319169105894",
+        "title": "Шукаем Званы ◉ Silver Pines #4",
         "vod": {
           "gone": false,
-          "id": "2911411099",
-          "seen_at": "2026-10-26T19:42:46Z",
-          "url": "https://www.twitch.tv/videos/2911411099"
+          "id": "2912370945",
+          "seen_at": "2026-10-27T22:17:07Z",
+          "url": "https://www.twitch.tv/videos/2912370945"
         }
       },
       "live": {
-        "game": "Silver Pines",
-        "since": "2026-10-27T18:44:47Z",
-        "stream_id": "319169105894",
-        "title": "Шукаем Званы ◉ Silver Pines #4",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -4977,5 +4977,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-27T22:10:38Z"
+  "updated_at": "2026-10-27T22:17:06Z"
 }
