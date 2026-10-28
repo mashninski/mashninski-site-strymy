@@ -2129,7 +2129,7 @@
         "since": "2026-10-28T15:15:05Z",
         "stream_id": "317197581908",
         "title": "\"У Зоне ўвогуле прамы шлях не самы… кароткі. Чым ён даўжэйшы — тым ён бяспечнейшы\" (с)",
-        "viewers": 13
+        "viewers": 15
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -4224,7 +4224,7 @@
         "since": "2026-10-28T17:25:38Z",
         "stream_id": "319120643429",
         "title": "Ну КС від Іринка подруга",
-        "viewers": 3
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4706,11 +4706,11 @@
         }
       },
       "live": {
-        "game": null,
-        "since": null,
-        "stream_id": null,
-        "title": null,
-        "viewers": null
+        "game": "Silver Pines",
+        "since": "2026-10-28T18:08:51Z",
+        "stream_id": "318985829735",
+        "title": "Цяжка Дыхае ◉ Silver Pines #5",
+        "viewers": 0
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -4977,5 +4977,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-28T18:00:41Z"
+  "updated_at": "2026-10-28T18:09:23Z"
 }
