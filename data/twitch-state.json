@@ -3560,7 +3560,7 @@
         "since": "2026-10-26T21:58:53Z",
         "stream_id": "317140104278",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 1
+        "viewers": 21
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e25efe0-6f98-4fc3-9fce-ca2d63c9fcf9-profile_image-300x300.png",
@@ -3571,6 +3571,21 @@
       "description": "Беларускі стрымер, аглядальнік на YouTube",
       "display_name": "Rudzi_Belarus",
       "history": [
+        {
+          "duration_min": 46,
+          "ended_at": "2026-10-28T13:35:55Z",
+          "game": "SILENT HILL: townfall",
+          "source": "vod",
+          "started_at": "2026-10-28T12:49:55Z",
+          "stream_id": "318981451239",
+          "title": "Канец Silent Hill: Townfall? Вежа з пенсіянеркамі!",
+          "vod": {
+            "gone": false,
+            "id": "2913010618",
+            "seen_at": "2026-10-28T13:37:31Z",
+            "url": "https://www.twitch.tv/videos/2913010618"
+          }
+        },
         {
           "duration_min": 102,
           "ended_at": "2026-10-28T12:49:20Z",
@@ -3855,44 +3870,29 @@
             "seen_at": "2026-10-06T13:23:15Z",
             "url": "https://www.twitch.tv/videos/2893390803"
           }
-        },
-        {
-          "duration_min": 131,
-          "ended_at": "2026-10-06T13:09:16Z",
-          "game": "SILENT HILL: townfall",
-          "source": "vod",
-          "started_at": "2026-10-06T10:58:43Z",
-          "stream_id": "317054609748",
-          "title": "Вяртаемя ў шатландскі Сайлент Хіл: Townfall",
-          "vod": {
-            "gone": false,
-            "id": "2893327393",
-            "seen_at": "2026-10-06T13:23:15Z",
-            "url": "https://www.twitch.tv/videos/2893327393"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 102,
-        "ended_at": "2026-10-28T12:49:20Z",
+        "duration_min": 46,
+        "ended_at": "2026-10-28T13:35:55Z",
         "game": "SILENT HILL: townfall",
         "source": "vod",
-        "started_at": "2026-10-28T11:07:24Z",
-        "stream_id": "318980585703",
+        "started_at": "2026-10-28T12:49:55Z",
+        "stream_id": "318981451239",
         "title": "Канец Silent Hill: Townfall? Вежа з пенсіянеркамі!",
         "vod": {
           "gone": false,
-          "id": "2912962939",
-          "seen_at": "2026-10-28T12:51:21Z",
-          "url": "https://www.twitch.tv/videos/2912962939"
+          "id": "2913010618",
+          "seen_at": "2026-10-28T13:37:31Z",
+          "url": "https://www.twitch.tv/videos/2913010618"
         }
       },
       "live": {
-        "game": "SILENT HILL: townfall",
-        "since": "2026-10-28T12:49:55Z",
-        "stream_id": "318981451239",
-        "title": "Канец Silent Hill: Townfall? Вежа з пенсіянеркамі!",
-        "viewers": 26
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -4977,5 +4977,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-28T13:20:40Z"
+  "updated_at": "2026-10-28T13:37:31Z"
 }
