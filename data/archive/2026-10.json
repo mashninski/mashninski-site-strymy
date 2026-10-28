@@ -1,5 +1,27 @@
 {
   "collecting_since": "2026-09-23",
+  "coops": {
+    "fb733b8f-df8a-43a9-8b23-acccff5b5447": {
+      "ended_at": null,
+      "games": [
+        "Mycopunk"
+      ],
+      "host_id": "890636706",
+      "participants": [
+        {
+          "id": "890636706",
+          "login": "mihas_gareza",
+          "name": "Mihas_Gareza"
+        },
+        {
+          "id": "137822098",
+          "login": "sla5her_by",
+          "name": "Sla5her_BY"
+        }
+      ],
+      "started_at": "2026-10-28T18:54:08Z"
+    }
+  },
   "month": "2026-10",
   "streamers": {
     "angryralef": {
@@ -2437,5 +2459,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-28T18:18:45Z"
+  "updated_at": "2026-10-28T19:00:43Z"
 }
