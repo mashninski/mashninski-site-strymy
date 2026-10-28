@@ -2557,6 +2557,21 @@
       "display_name": "Mihas_Gareza",
       "history": [
         {
+          "duration_min": 153,
+          "ended_at": "2026-10-28T21:10:54Z",
+          "game": "Mycopunk",
+          "source": "vod",
+          "started_at": "2026-10-28T18:37:36Z",
+          "stream_id": "319121865701",
+          "title": "[BLR] Каапчык са Слэшарам. Грыбны панк. Глядзім новую ПэВэЕ гульню",
+          "vod": {
+            "gone": false,
+            "id": "2913248074",
+            "seen_at": "2026-10-28T21:12:37Z",
+            "url": "https://www.twitch.tv/videos/2913248074"
+          }
+        },
+        {
           "duration_min": 167,
           "ended_at": "2026-10-27T20:42:46Z",
           "game": "A Little to the Left",
@@ -2840,44 +2855,29 @@
             "seen_at": "2026-10-05T22:04:10Z",
             "url": "https://www.twitch.tv/videos/2892670697"
           }
-        },
-        {
-          "duration_min": 128,
-          "ended_at": "2026-10-04T20:07:57Z",
-          "game": "Way of the Hunter 2",
-          "source": "vod",
-          "started_at": "2026-10-04T17:59:55Z",
-          "stream_id": "318881969638",
-          "title": "[BLR] Нядзельны трыял. Шлях паляўнічага. 2 гадзіны",
-          "vod": {
-            "gone": false,
-            "id": "2891907630",
-            "seen_at": "2026-10-04T22:06:16Z",
-            "url": "https://www.twitch.tv/videos/2891907630"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 167,
-        "ended_at": "2026-10-27T20:42:46Z",
-        "game": "A Little to the Left",
+        "duration_min": 153,
+        "ended_at": "2026-10-28T21:10:54Z",
+        "game": "Mycopunk",
         "source": "vod",
-        "started_at": "2026-10-27T17:55:34Z",
-        "stream_id": "317192410324",
-        "title": "[BLR] Індзі аўторак. Крыху ўлева",
+        "started_at": "2026-10-28T18:37:36Z",
+        "stream_id": "319121865701",
+        "title": "[BLR] Каапчык са Слэшарам. Грыбны панк. Глядзім новую ПэВэЕ гульню",
         "vod": {
           "gone": false,
-          "id": "2912331643",
-          "seen_at": "2026-10-27T20:44:31Z",
-          "url": "https://www.twitch.tv/videos/2912331643"
+          "id": "2913248074",
+          "seen_at": "2026-10-28T21:12:37Z",
+          "url": "https://www.twitch.tv/videos/2913248074"
         }
       },
       "live": {
-        "game": "Mycopunk",
-        "since": "2026-10-28T18:37:36Z",
-        "stream_id": "319121865701",
-        "title": "[BLR] Каапчык са Слэшарам. Грыбны панк. Глядзім новую ПэВэЕ гульню",
-        "viewers": 3
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -4236,6 +4236,16 @@
       "display_name": "Sla5her_BY",
       "history": [
         {
+          "duration_min": 146,
+          "ended_at": "2026-10-28T21:12:36Z",
+          "game": "Mycopunk",
+          "source": "observed",
+          "started_at": "2026-10-28T18:46:07Z",
+          "stream_id": "319180872678",
+          "title": "[BY] Кіслотны стрым [Bel/Ukr/Eng]",
+          "vod": null
+        },
+        {
           "duration_min": 246,
           "ended_at": "2026-10-14T21:21:38Z",
           "game": "HELLDIVERS 2",
@@ -4247,21 +4257,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 246,
-        "ended_at": "2026-10-14T21:21:38Z",
-        "game": "HELLDIVERS 2",
+        "duration_min": 146,
+        "ended_at": "2026-10-28T21:12:36Z",
+        "game": "Mycopunk",
         "source": "observed",
-        "started_at": "2026-10-14T17:15:59Z",
-        "stream_id": "318944837989",
-        "title": "[BY] Вітай дэмакратыю [Bel/Ukr/Eng]",
+        "started_at": "2026-10-28T18:46:07Z",
+        "stream_id": "319180872678",
+        "title": "[BY] Кіслотны стрым [Bel/Ukr/Eng]",
         "vod": null
       },
       "live": {
-        "game": "Mycopunk",
-        "since": "2026-10-28T18:46:07Z",
-        "stream_id": "319180872678",
-        "title": "[BY] Кіслотны стрым [Bel/Ukr/Eng]",
-        "viewers": 3
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-10-07T19:53:47Z",
@@ -4710,7 +4720,7 @@
         "since": "2026-10-28T18:08:51Z",
         "stream_id": "318985829735",
         "title": "Цяжка Дыхае ◉ Silver Pines #5",
-        "viewers": 13
+        "viewers": 12
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -4977,5 +4987,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-28T21:10:38Z"
+  "updated_at": "2026-10-28T21:12:36Z"
 }
