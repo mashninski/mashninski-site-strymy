@@ -2,7 +2,7 @@
   "collecting_since": "2026-09-23",
   "coops": {
     "6933d917-7fba-4cdc-85c3-37997b469a6b": {
-      "ended_at": null,
+      "ended_at": "2026-10-29T20:35:58Z",
       "games": [
         "Species: Unknown"
       ],
@@ -504,6 +504,10 @@
           "launches": 1,
           "minutes": 207
         },
+        "Species: Unknown": {
+          "launches": 1,
+          "minutes": 154
+        },
         "The Long Dark": {
           "launches": 9,
           "minutes": 2037
@@ -516,9 +520,9 @@
       "display_name": "DzedMaksim",
       "followers_end": null,
       "followers_start": 228,
-      "hours": [0,0,0,0,0,0,0,0,0,6,573,990,1208,1087,303,32,0,0,0,0,0,0,0,0],
-      "launches": 21,
-      "minutes": 4196,
+      "hours": [0,0,0,0,0,0,0,0,0,6,573,990,1208,1087,303,32,0,0,0,0,0,60,60,34],
+      "launches": 22,
+      "minutes": 4350,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-30T11:19:32Z",
       "sessions": [
@@ -626,6 +630,11 @@
           "duration_min": 207,
           "ended_at": "2026-10-29T11:59:33Z",
           "started_at": "2026-10-29T08:32:11Z"
+        },
+        {
+          "duration_min": 154,
+          "ended_at": "2026-10-29T20:34:21Z",
+          "started_at": "2026-10-29T18:00:11Z"
         }
       ]
     },
@@ -2243,16 +2252,16 @@
           "minutes": 938
         },
         "Species: Unknown": {
-          "launches": 2,
-          "minutes": 145
+          "launches": 3,
+          "minutes": 300
         }
       },
       "display_name": "Ucenamescy",
       "followers_end": null,
       "followers_start": 142,
-      "hours": [233,72,0,0,0,0,0,0,0,0,0,0,0,27,140,260,302,299,109,226,469,503,449,355],
-      "launches": 19,
-      "minutes": 3447,
+      "hours": [233,72,0,0,0,0,0,0,0,0,0,0,0,27,140,260,302,299,109,226,469,563,509,390],
+      "launches": 20,
+      "minutes": 3602,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-23T20:51:32Z",
       "sessions": [
@@ -2350,6 +2359,11 @@
           "duration_min": 204,
           "ended_at": "2026-10-28T21:33:08Z",
           "started_at": "2026-10-28T18:08:51Z"
+        },
+        {
+          "duration_min": 155,
+          "ended_at": "2026-10-29T20:34:46Z",
+          "started_at": "2026-10-29T17:59:34Z"
         }
       ]
     },
@@ -2564,5 +2578,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-29T20:08:03Z"
+  "updated_at": "2026-10-29T20:35:58Z"
 }
