@@ -47,11 +47,11 @@
         "categories": [
           {
             "game": "Cthulhu Saves the World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD – Premium Enhanced Game of the Year Collector’s Edition (without Avatars!)",
-            "sec": 10174
+            "sec": 10188
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2910,3600,3600,64,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-29T12:01:04Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2910,3600,3600,78,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-29T12:01:18Z",
         "started_at": "2026-10-29T09:11:30Z",
         "stream_id": "319187107430"
       },
@@ -3501,11 +3501,11 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 50520
+            "sec": 50534
           }
         ],
-        "hours_sec": [56,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,64,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-29T12:01:04Z",
+        "hours_sec": [56,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,78,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-29T12:01:18Z",
         "started_at": "2026-10-28T21:59:04Z",
         "stream_id": "319124875493"
       },
@@ -3747,11 +3747,11 @@
         "categories": [
           {
             "game": "SILENT HILL: townfall",
-            "sec": 3782
+            "sec": 3796
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,118,3600,64,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-29T12:01:04Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,118,3600,78,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-29T12:01:18Z",
         "started_at": "2026-10-29T10:58:02Z",
         "stream_id": "318993529319"
       },
@@ -5667,5 +5667,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-29T12:01:04Z"
+  "updated_at": "2026-10-29T12:01:18Z"
 }
