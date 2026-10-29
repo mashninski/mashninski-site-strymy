@@ -326,7 +326,7 @@
         "since": "2026-10-29T09:11:30Z",
         "stream_id": "319187107430",
         "title": "Так. Гэта яна. Cthulhu Saves The World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD – Premium... стаміўся",
-        "viewers": 24
+        "viewers": 21
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -1104,6 +1104,21 @@
       "display_name": "DzedMaksim",
       "history": [
         {
+          "duration_min": 207,
+          "ended_at": "2026-10-29T11:59:33Z",
+          "game": "Space Rangers",
+          "source": "vod",
+          "started_at": "2026-10-29T08:32:11Z",
+          "stream_id": "319186881382",
+          "title": "Я зрабіў Рэмайстар Касьмічных Рэйнджэраў пры дапамозе GPT-6.1 Sol | Space Rangers 2002",
+          "vod": {
+            "gone": false,
+            "id": "2913788765",
+            "seen_at": "2026-10-29T12:01:07Z",
+            "url": "https://www.twitch.tv/videos/2913788765"
+          }
+        },
+        {
           "duration_min": 187,
           "ended_at": "2026-10-28T12:22:35Z",
           "game": "The Long Dark",
@@ -1387,44 +1402,29 @@
             "seen_at": "2026-10-04T11:06:03Z",
             "url": "https://www.twitch.tv/videos/2889616224"
           }
-        },
-        {
-          "duration_min": 235,
-          "ended_at": "2026-10-01T11:03:16Z",
-          "game": "The Long Dark",
-          "source": "vod",
-          "started_at": "2026-10-01T07:08:41Z",
-          "stream_id": "318644184423",
-          "title": "81# Засталіся толькі 3 месцы ў ДЦР. Дзень 420+💀Няпрошаны госьць💀 |🪓 The Long Dark беларуская мова",
-          "vod": {
-            "gone": false,
-            "id": "2888746284",
-            "seen_at": "2026-10-04T11:06:03Z",
-            "url": "https://www.twitch.tv/videos/2888746284"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 187,
-        "ended_at": "2026-10-28T12:22:35Z",
-        "game": "The Long Dark",
+        "duration_min": 207,
+        "ended_at": "2026-10-29T11:59:33Z",
+        "game": "Space Rangers",
         "source": "vod",
-        "started_at": "2026-10-28T09:15:22Z",
-        "stream_id": "319174810342",
-        "title": "#1 Iron Road DLC. Давай глядзець.  |🪓The Long Dark беларуская мова",
+        "started_at": "2026-10-29T08:32:11Z",
+        "stream_id": "319186881382",
+        "title": "Я зрабіў Рэмайстар Касьмічных Рэйнджэраў пры дапамозе GPT-6.1 Sol | Space Rangers 2002",
         "vod": {
           "gone": false,
-          "id": "2912922151",
-          "seen_at": "2026-10-28T12:24:16Z",
-          "url": "https://www.twitch.tv/videos/2912922151"
+          "id": "2913788765",
+          "seen_at": "2026-10-29T12:01:07Z",
+          "url": "https://www.twitch.tv/videos/2913788765"
         }
       },
       "live": {
-        "game": "Space Rangers",
-        "since": "2026-10-29T08:32:11Z",
-        "stream_id": "319186881382",
-        "title": "Я зрабіў Рэмайстар Касьмічных Рэйнджэраў пры дапамозе GPT-6.1 Sol | Space Rangers 2002",
-        "viewers": 10
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -3892,7 +3892,7 @@
         "since": "2026-10-29T10:58:02Z",
         "stream_id": "318993529319",
         "title": "Канец-Канец Silent Hill: Townfall? Наш герой - той яшчэ \"герой\".",
-        "viewers": 21
+        "viewers": 25
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/9bbb1f26-17e3-4ad3-9fff-89a235965bd4-profile_image-300x300.png",
@@ -4987,5 +4987,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-29T11:50:44Z"
+  "updated_at": "2026-10-29T12:01:04Z"
 }

@@ -466,6 +466,10 @@
           "launches": 2,
           "minutes": 240
         },
+        "Space Rangers": {
+          "launches": 1,
+          "minutes": 207
+        },
         "The Long Dark": {
           "launches": 9,
           "minutes": 2037
@@ -478,9 +482,9 @@
       "display_name": "DzedMaksim",
       "followers_end": null,
       "followers_start": 228,
-      "hours": [0,0,0,0,0,0,0,0,0,6,573,962,1148,1027,243,32,0,0,0,0,0,0,0,0],
-      "launches": 20,
-      "minutes": 3989,
+      "hours": [0,0,0,0,0,0,0,0,0,6,573,990,1208,1087,303,32,0,0,0,0,0,0,0,0],
+      "launches": 21,
+      "minutes": 4196,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-30T11:19:32Z",
       "sessions": [
@@ -583,6 +587,11 @@
           "duration_min": 187,
           "ended_at": "2026-10-28T12:22:35Z",
           "started_at": "2026-10-28T09:15:22Z"
+        },
+        {
+          "duration_min": 207,
+          "ended_at": "2026-10-29T11:59:33Z",
+          "started_at": "2026-10-29T08:32:11Z"
         }
       ]
     },
@@ -2497,5 +2506,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-29T00:50:39Z"
+  "updated_at": "2026-10-29T12:01:04Z"
 }
