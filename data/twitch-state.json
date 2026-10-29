@@ -1424,7 +1424,7 @@
         "since": "2026-10-29T18:00:11Z",
         "stream_id": "318998334823",
         "title": "Кааператыўны жахасьцік з @Ucenamescy @shagrael_by | Species: Unkown беларуская мова",
-        "viewers": 3
+        "viewers": 8
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -1809,6 +1809,21 @@
       "display_name": "lepus81",
       "history": [
         {
+          "duration_min": 193,
+          "ended_at": "2026-10-29T20:06:23Z",
+          "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+          "source": "vod",
+          "started_at": "2026-10-29T16:53:23Z",
+          "stream_id": "317157759830",
+          "title": "\"Cталкераў у Рай без чаргі не пускаюць\" (с)",
+          "vod": {
+            "gone": false,
+            "id": "2914047375",
+            "seen_at": "2026-10-29T20:08:04Z",
+            "url": "https://www.twitch.tv/videos/2914047375"
+          }
+        },
+        {
           "duration_min": 152,
           "ended_at": "2026-10-29T15:33:30Z",
           "game": "Ghost of Yōtei",
@@ -2092,44 +2107,29 @@
             "seen_at": "2026-10-04T11:06:01Z",
             "url": "https://www.twitch.tv/videos/2888200928"
           }
-        },
-        {
-          "duration_min": 252,
-          "ended_at": "2026-09-29T18:42:43Z",
-          "game": "The Witcher 3: Wild Hunt",
-          "source": "vod",
-          "started_at": "2026-09-29T14:30:33Z",
-          "stream_id": "317009549396",
-          "title": "Памацаем новы рэмайстар Вядзьмара",
-          "vod": {
-            "gone": false,
-            "id": "2887213119",
-            "seen_at": "2026-10-04T11:06:01Z",
-            "url": "https://www.twitch.tv/videos/2887213119"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 152,
-        "ended_at": "2026-10-29T15:33:30Z",
-        "game": "Ghost of Yōtei",
+        "duration_min": 193,
+        "ended_at": "2026-10-29T20:06:23Z",
+        "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
         "source": "vod",
-        "started_at": "2026-10-29T13:01:32Z",
-        "stream_id": "317156207958",
-        "title": "Ghost of Yotei. Part 16",
+        "started_at": "2026-10-29T16:53:23Z",
+        "stream_id": "317157759830",
+        "title": "\"Cталкераў у Рай без чаргі не пускаюць\" (с)",
         "vod": {
           "gone": false,
-          "id": "2913899584",
-          "seen_at": "2026-10-29T15:35:00Z",
-          "url": "https://www.twitch.tv/videos/2913899584"
+          "id": "2914047375",
+          "seen_at": "2026-10-29T20:08:04Z",
+          "url": "https://www.twitch.tv/videos/2914047375"
         }
       },
       "live": {
-        "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-        "since": "2026-10-29T16:53:23Z",
-        "stream_id": "317157759830",
-        "title": "\"Cталкераў у Рай без чаргі не пускаюць\" (с)",
-        "viewers": 8
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -3001,7 +3001,7 @@
         "since": "2026-10-29T18:05:10Z",
         "stream_id": "316208455144",
         "title": "Гульнявы вечар | The Stanley Parable",
-        "viewers": 2
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/805982e1-6bc8-46b9-a2f2-3c215142d613-profile_image-300x300.png",
@@ -3333,7 +3333,7 @@
         "since": "2026-10-29T18:54:14Z",
         "stream_id": "318999344871",
         "title": "Віна павучок",
-        "viewers": 5
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4224,7 +4224,7 @@
         "since": "2026-10-29T15:46:30Z",
         "stream_id": "317204390996",
         "title": "Час каапіцца від Іринка подруга",
-        "viewers": 12
+        "viewers": 11
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4720,7 +4720,7 @@
         "since": "2026-10-29T17:59:34Z",
         "stream_id": "319133312357",
         "title": "Новая Мапа ◉ Species Unknown",
-        "viewers": 5
+        "viewers": 4
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/7aa6f532-eb9f-4adc-9346-bb316c473023-profile_image-300x300.png",
@@ -4987,5 +4987,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-29T20:00:37Z"
+  "updated_at": "2026-10-29T20:08:03Z"
 }
