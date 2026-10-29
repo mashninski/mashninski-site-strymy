@@ -51,6 +51,10 @@
           "launches": 2,
           "minutes": 468
         },
+        "Cthulhu Saves the World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD – Premium Enhanced Game of the Year Collector’s Edition (without Avatars!)": {
+          "launches": 1,
+          "minutes": 223
+        },
         "Disco Elysium": {
           "launches": 2,
           "minutes": 388
@@ -83,9 +87,9 @@
       "display_name": "AngryRalef",
       "followers_end": null,
       "followers_start": 1293,
-      "hours": [0,0,0,0,0,0,0,0,0,0,0,716,1082,1138,973,168,9,0,0,0,0,0,0,0],
-      "launches": 22,
-      "minutes": 4088,
+      "hours": [0,0,0,0,0,0,0,0,0,0,0,716,1130,1198,1033,223,9,0,0,0,0,0,0,0],
+      "launches": 23,
+      "minutes": 4311,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-30T12:11:27Z",
       "sessions": [
@@ -198,6 +202,11 @@
           "duration_min": 211,
           "ended_at": "2026-10-28T12:42:01Z",
           "started_at": "2026-10-28T09:11:20Z"
+        },
+        {
+          "duration_min": 223,
+          "ended_at": "2026-10-29T12:54:44Z",
+          "started_at": "2026-10-29T09:11:30Z"
         }
       ]
     },
@@ -2511,5 +2520,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-29T12:52:03Z"
+  "updated_at": "2026-10-29T12:56:22Z"
 }
