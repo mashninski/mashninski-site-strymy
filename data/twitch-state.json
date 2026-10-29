@@ -2877,7 +2877,7 @@
         "since": "2026-10-29T18:16:42Z",
         "stream_id": "317158455766",
         "title": "[BLR] Рэтра чацвер. Сур'ёзны Сэм. Да першага энкаунтэра",
-        "viewers": 1
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e1336d7b-9cd5-4ce0-8926-c76bed69befd-profile_image-300x300.png",
@@ -3012,6 +3012,21 @@
       "description": "Штодзённыя стрымы - маляванне і гульні. Утульнасць, дзіўныя казкі, дранікі. Ніякага \"ші\".",
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
+        {
+          "duration_min": 125,
+          "ended_at": "2026-10-29T20:59:25Z",
+          "game": "Art",
+          "source": "vod",
+          "started_at": "2026-10-29T18:54:14Z",
+          "stream_id": "318999344871",
+          "title": "Віна павучок",
+          "vod": {
+            "gone": false,
+            "id": "2914145289",
+            "seen_at": "2026-10-29T21:01:08Z",
+            "url": "https://www.twitch.tv/videos/2914145289"
+          }
+        },
         {
           "duration_min": 149,
           "ended_at": "2026-10-28T21:00:02Z",
@@ -3296,44 +3311,29 @@
             "seen_at": "2026-10-11T20:11:10Z",
             "url": "https://www.twitch.tv/videos/2898119512"
           }
-        },
-        {
-          "duration_min": 165,
-          "ended_at": "2026-10-10T20:46:28Z",
-          "game": "Thief: Deadly Shadows",
-          "source": "vod",
-          "started_at": "2026-10-10T18:01:52Z",
-          "stream_id": "317083270228",
-          "title": "Цемра",
-          "vod": {
-            "gone": false,
-            "id": "2897166144",
-            "seen_at": "2026-10-10T20:48:04Z",
-            "url": "https://www.twitch.tv/videos/2897166144"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 149,
-        "ended_at": "2026-10-28T21:00:02Z",
+        "duration_min": 125,
+        "ended_at": "2026-10-29T20:59:25Z",
         "game": "Art",
         "source": "vod",
-        "started_at": "2026-10-28T18:31:21Z",
-        "stream_id": "317152112470",
-        "title": "Павучыная серада, 28 дзень марафону",
+        "started_at": "2026-10-29T18:54:14Z",
+        "stream_id": "318999344871",
+        "title": "Віна павучок",
         "vod": {
           "gone": false,
-          "id": "2913243210",
-          "seen_at": "2026-10-28T21:00:40Z",
-          "url": "https://www.twitch.tv/videos/2913243210"
+          "id": "2914145289",
+          "seen_at": "2026-10-29T21:01:08Z",
+          "url": "https://www.twitch.tv/videos/2914145289"
         }
       },
       "live": {
-        "game": "Art",
-        "since": "2026-10-29T18:54:14Z",
-        "stream_id": "318999344871",
-        "title": "Віна павучок",
-        "viewers": 7
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4224,7 +4224,7 @@
         "since": "2026-10-29T15:46:30Z",
         "stream_id": "317204390996",
         "title": "[СКРЫМЕРЫ ЎКЛЮЧАНЫ] Здымаем кінчык (першае праходжанне) від Іринка подруга",
-        "viewers": 15
+        "viewers": 17
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4987,5 +4987,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-29T20:50:00Z"
+  "updated_at": "2026-10-29T21:01:06Z"
 }
