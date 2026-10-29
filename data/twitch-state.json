@@ -2129,7 +2129,7 @@
         "since": "2026-10-29T16:53:23Z",
         "stream_id": "317157759830",
         "title": "\"Cталкераў у Рай без чаргі не пускаюць\" (с)",
-        "viewers": 2
+        "viewers": 5
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/ec37aa15-e58d-4484-b38a-8b07f7841f61-profile_image-300x300.png",
@@ -2224,6 +2224,21 @@
       "description": "ai enthusiast | hardpain gamer",
       "display_name": "mashninski",
       "history": [
+        {
+          "duration_min": 247,
+          "ended_at": "2026-10-29T17:16:34Z",
+          "game": "The Witcher 3: Wild Hunt Remastered",
+          "source": "vod",
+          "started_at": "2026-10-29T13:09:34Z",
+          "stream_id": "319188805350",
+          "title": "Белы сабака і Аксенфурт",
+          "vod": {
+            "gone": false,
+            "id": "2913904380",
+            "seen_at": "2026-10-29T17:18:16Z",
+            "url": "https://www.twitch.tv/videos/2913904380"
+          }
+        },
         {
           "duration_min": 153,
           "ended_at": "2026-10-27T16:38:22Z",
@@ -2508,44 +2523,29 @@
             "seen_at": "2026-10-06T16:22:55Z",
             "url": "https://www.twitch.tv/videos/2893403497"
           }
-        },
-        {
-          "duration_min": 217,
-          "ended_at": "2026-10-05T19:34:44Z",
-          "game": "How to Fish",
-          "source": "vod",
-          "started_at": "2026-10-05T15:57:42Z",
-          "stream_id": "318890828390",
-          "title": "ПАКЛАДЗІ РЫБУ НА ЗЯМЛЮ ЦІ Я БУДУ СТРАЛЯЦЬ",
-          "vod": {
-            "gone": false,
-            "id": "2892643100",
-            "seen_at": "2026-10-05T21:31:52Z",
-            "url": "https://www.twitch.tv/videos/2892643100"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 153,
-        "ended_at": "2026-10-27T16:38:22Z",
+        "duration_min": 247,
+        "ended_at": "2026-10-29T17:16:34Z",
         "game": "The Witcher 3: Wild Hunt Remastered",
         "source": "vod",
-        "started_at": "2026-10-27T14:05:42Z",
-        "stream_id": "318968872935",
-        "title": "Які квэст робім сёння?",
+        "started_at": "2026-10-29T13:09:34Z",
+        "stream_id": "319188805350",
+        "title": "Белы сабака і Аксенфурт",
         "vod": {
           "gone": false,
-          "id": "2912174566",
-          "seen_at": "2026-10-27T16:40:03Z",
-          "url": "https://www.twitch.tv/videos/2912174566"
+          "id": "2913904380",
+          "seen_at": "2026-10-29T17:18:16Z",
+          "url": "https://www.twitch.tv/videos/2913904380"
         }
       },
       "live": {
-        "game": "The Witcher 3: Wild Hunt Remastered",
-        "since": "2026-10-29T13:09:34Z",
-        "stream_id": "319188805350",
-        "title": "Белы сабака і Аксенфурт",
-        "viewers": 8
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -4224,7 +4224,7 @@
         "since": "2026-10-29T15:46:30Z",
         "stream_id": "317204390996",
         "title": "Час каапіцца від Іринка подруга",
-        "viewers": 10
+        "viewers": 16
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4980,12 +4980,12 @@
         "since": "2026-10-29T15:51:08Z",
         "stream_id": "317157264982",
         "title": "🔥Калі што +1 заходзьце + замаўляйце музыку🥰@watafakablr",
-        "viewers": 7
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/148684d2-beeb-465d-b98b-71a7e0b31a9e-profile_image-300x300.png",
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-29T17:10:43Z"
+  "updated_at": "2026-10-29T17:18:16Z"
 }
