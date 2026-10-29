@@ -47,11 +47,11 @@
         "categories": [
           {
             "game": "Cthulhu Saves the World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD – Premium Enhanced Game of the Year Collector’s Edition (without Avatars!)",
-            "sec": 39
+            "sec": 548
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-29T09:12:09Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,548,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-29T09:20:38Z",
         "started_at": "2026-10-29T09:11:30Z",
         "stream_id": "319187107430"
       },
@@ -978,11 +978,11 @@
         "categories": [
           {
             "game": "Space Rangers",
-            "sec": 2398
+            "sec": 2907
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,1669,729,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-29T09:12:09Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,1669,1238,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-29T09:20:38Z",
         "started_at": "2026-10-29T08:32:11Z",
         "stream_id": "319186881382"
       },
@@ -3508,11 +3508,11 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 40385
+            "sec": 40894
           }
         ],
-        "hours_sec": [56,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,729,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-29T09:12:09Z",
+        "hours_sec": [56,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,1238,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-29T09:20:38Z",
         "started_at": "2026-10-28T21:59:04Z",
         "stream_id": "319124875493"
       },
@@ -5674,5 +5674,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-29T09:12:09Z"
+  "updated_at": "2026-10-29T09:20:38Z"
 }
