@@ -25,8 +25,8 @@
   "streamers": {
     "angryralef": {
       "followers": {
-        "changed_at": "2026-10-29T10:20:40Z",
-        "count": 1302,
+        "changed_at": "2026-10-29T12:30:39Z",
+        "count": 1303,
         "daily": {
           "2026-10-22": 1301,
           "2026-10-23": 1301,
@@ -47,11 +47,11 @@
         "categories": [
           {
             "game": "Cthulhu Saves the World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD – Premium Enhanced Game of the Year Collector’s Edition (without Avatars!)",
-            "sec": 11347
+            "sec": 11949
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2910,3600,3600,1237,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-29T12:20:37Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2910,3600,3600,1839,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-29T12:30:39Z",
         "started_at": "2026-10-29T09:11:30Z",
         "stream_id": "319187107430"
       },
@@ -646,8 +646,8 @@
     },
     "bel_asch": {
       "followers": {
-        "changed_at": "2026-10-23T23:50:38Z",
-        "count": 215,
+        "changed_at": "2026-10-29T12:30:39Z",
+        "count": 216,
         "daily": {
           "2026-10-22": 212,
           "2026-10-23": 213,
@@ -834,8 +834,8 @@
     },
     "dzed_ahey": {
       "followers": {
-        "changed_at": "2026-10-20T18:30:55Z",
-        "count": 47,
+        "changed_at": "2026-10-29T12:30:39Z",
+        "count": 48,
         "daily": {
           "2026-10-22": 47,
           "2026-10-23": 47,
@@ -945,8 +945,8 @@
     },
     "dzedmaksim": {
       "followers": {
-        "changed_at": "2026-10-27T09:00:40Z",
-        "count": 247,
+        "changed_at": "2026-10-29T12:30:39Z",
+        "count": 248,
         "daily": {
           "2026-10-22": 242,
           "2026-10-23": 243,
@@ -3490,11 +3490,11 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 51693
+            "sec": 52295
           }
         ],
-        "hours_sec": [56,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,1237,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-29T12:20:37Z",
+        "hours_sec": [56,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,1839,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-29T12:30:39Z",
         "started_at": "2026-10-28T21:59:04Z",
         "stream_id": "319124875493"
       },
@@ -3736,11 +3736,11 @@
         "categories": [
           {
             "game": "SILENT HILL: townfall",
-            "sec": 4955
+            "sec": 5557
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,118,3600,1237,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-29T12:20:37Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,118,3600,1839,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-29T12:30:39Z",
         "started_at": "2026-10-29T10:58:02Z",
         "stream_id": "318993529319"
       },
@@ -5656,5 +5656,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-29T12:20:37Z"
+  "updated_at": "2026-10-29T12:30:39Z"
 }
