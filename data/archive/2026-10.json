@@ -1,6 +1,31 @@
 {
   "collecting_since": "2026-09-23",
   "coops": {
+    "6933d917-7fba-4cdc-85c3-37997b469a6b": {
+      "ended_at": null,
+      "games": [
+        "Species: Unknown"
+      ],
+      "host_id": "1190272765",
+      "participants": [
+        {
+          "id": "1190272765",
+          "login": "dzedmaksim",
+          "name": "DzedMaksim"
+        },
+        {
+          "id": "837601083",
+          "login": "ucenamescy",
+          "name": "Ucenamescy"
+        },
+        {
+          "id": "694310267",
+          "login": "shagrael_by",
+          "name": "ShagraeL_BY"
+        }
+      ],
+      "started_at": "2026-10-29T18:03:32Z"
+    },
     "fb733b8f-df8a-43a9-8b23-acccff5b5447": {
       "ended_at": "2026-10-28T21:12:36Z",
       "games": [
@@ -2534,5 +2559,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-29T17:18:16Z"
+  "updated_at": "2026-10-29T18:10:38Z"
 }
