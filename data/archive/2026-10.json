@@ -1829,8 +1829,8 @@
           "minutes": 88
         },
         "Counter-Strike": {
-          "launches": 5,
-          "minutes": 960
+          "launches": 6,
+          "minutes": 1285
         },
         "ELDEN RING": {
           "launches": 3,
@@ -1885,8 +1885,8 @@
           "minutes": 988
         },
         "Valheim": {
-          "launches": 18,
-          "minutes": 6397
+          "launches": 19,
+          "minutes": 6517
         },
         "Waterpark Simulator": {
           "launches": 3,
@@ -1896,9 +1896,9 @@
       "display_name": "ShagraeL_BY",
       "followers_end": null,
       "followers_start": 998,
-      "hours": [1440,1440,1405,1377,1286,1200,877,358,68,0,0,0,0,0,0,0,0,0,6,222,397,943,1362,1440],
-      "launches": 24,
-      "minutes": 13821,
+      "hours": [1500,1500,1465,1427,1286,1200,877,358,68,0,0,0,0,0,0,0,0,0,6,222,431,1003,1422,1500],
+      "launches": 25,
+      "minutes": 14266,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-01T01:57:14Z",
       "sessions": [
@@ -2021,6 +2021,11 @@
           "duration_min": 541,
           "ended_at": "2026-10-27T03:17:34Z",
           "started_at": "2026-10-26T18:16:34Z"
+        },
+        {
+          "duration_min": 445,
+          "ended_at": "2026-10-29T00:50:18Z",
+          "started_at": "2026-10-28T17:25:38Z"
         }
       ]
     },
@@ -2492,5 +2497,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-28T22:00:16Z"
+  "updated_at": "2026-10-29T00:50:39Z"
 }

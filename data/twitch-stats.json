@@ -3486,11 +3486,11 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 9693
+            "sec": 10295
           }
         ],
-        "hours_sec": [56,3600,3600,2437,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-29T00:40:37Z",
+        "hours_sec": [56,3600,3600,3039,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-29T00:50:39Z",
         "started_at": "2026-10-28T21:59:04Z",
         "stream_id": "319124875493"
       },
@@ -4119,22 +4119,7 @@
           "2026-10-01": 998
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "Counter-Strike",
-            "sec": 19501
-          },
-          {
-            "game": "Valheim",
-            "sec": 6598
-          }
-        ],
-        "hours_sec": [3600,3600,3600,2437,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2062,3600,3600,3600],
-        "last_seen_at": "2026-10-29T00:40:37Z",
-        "started_at": "2026-10-28T17:25:38Z",
-        "stream_id": "319120643429"
-      },
+      "in_progress": null,
       "monthly": {
         "2026-09": {
           "categories": {
@@ -4182,8 +4167,8 @@
               "minutes": 88
             },
             "Counter-Strike": {
-              "launches": 5,
-              "minutes": 960
+              "launches": 6,
+              "minutes": 1285
             },
             "ELDEN RING": {
               "launches": 3,
@@ -4238,20 +4223,35 @@
               "minutes": 988
             },
             "Valheim": {
-              "launches": 18,
-              "minutes": 6397
+              "launches": 19,
+              "minutes": 6517
             },
             "Waterpark Simulator": {
               "launches": 3,
               "minutes": 662
             }
           },
-          "hours": [1440,1440,1405,1377,1286,1200,877,358,68,0,0,0,0,0,0,0,0,0,6,222,397,943,1362,1440],
-          "launches": 24,
-          "minutes": 13821
+          "hours": [1500,1500,1465,1427,1286,1200,877,358,68,0,0,0,0,0,0,0,0,0,6,222,431,1003,1422,1500],
+          "launches": 25,
+          "minutes": 14266
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "Counter-Strike",
+              "minutes": 325
+            },
+            {
+              "game": "Valheim",
+              "minutes": 120
+            }
+          ],
+          "ended_at": "2026-10-29T00:50:18Z",
+          "hours": [60,60,60,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,60,60,60],
+          "started_at": "2026-10-28T17:25:38Z"
+        },
         {
           "categories": [
             {
@@ -5667,5 +5667,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-29T00:40:37Z"
+  "updated_at": "2026-10-29T00:50:39Z"
 }
