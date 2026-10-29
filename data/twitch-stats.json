@@ -47,11 +47,11 @@
         "categories": [
           {
             "game": "Cthulhu Saves the World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD – Premium Enhanced Game of the Year Collector’s Edition (without Avatars!)",
-            "sec": 13148
+            "sec": 13233
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2910,3600,3600,3038,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-29T12:50:38Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,2910,3600,3600,3123,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-29T12:52:03Z",
         "started_at": "2026-10-29T09:11:30Z",
         "stream_id": "319187107430"
       },
@@ -3490,11 +3490,11 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 53494
+            "sec": 53579
           }
         ],
-        "hours_sec": [56,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3038,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-29T12:50:38Z",
+        "hours_sec": [56,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3600,3123,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-29T12:52:03Z",
         "started_at": "2026-10-28T21:59:04Z",
         "stream_id": "319124875493"
       },
@@ -3732,18 +3732,7 @@
           "2026-10-01": 926
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "SILENT HILL: townfall",
-            "sec": 6756
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,0,118,3600,3038,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-29T12:50:38Z",
-        "started_at": "2026-10-29T10:58:02Z",
-        "stream_id": "318993529319"
-      },
+      "in_progress": null,
       "monthly": {
         "2026-09": {
           "categories": {
@@ -3771,8 +3760,8 @@
               "minutes": 125
             },
             "SILENT HILL: townfall": {
-              "launches": 14,
-              "minutes": 1115
+              "launches": 15,
+              "minutes": 1228
             },
             "The Witcher 3: Wild Hunt Remastered": {
               "launches": 3,
@@ -3783,12 +3772,23 @@
               "minutes": 106
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,7,723,788,260,39,0,0,0,0,0,0],
-          "launches": 24,
-          "minutes": 1823
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,9,783,839,260,39,0,0,0,0,0,0],
+          "launches": 25,
+          "minutes": 1936
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "SILENT HILL: townfall",
+              "minutes": 113
+            }
+          ],
+          "ended_at": "2026-10-29T12:50:34Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,0,2,60,51,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-29T10:58:02Z"
+        },
         {
           "categories": [
             {
@@ -5656,5 +5656,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-29T12:50:38Z"
+  "updated_at": "2026-10-29T12:52:03Z"
 }
