@@ -3914,6 +3914,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 558,
+          "ended_at": "2026-10-30T01:04:40Z",
+          "game": "Outlast",
+          "source": "vod",
+          "started_at": "2026-10-29T15:46:30Z",
+          "stream_id": "317204390996",
+          "title": "[СКРЫМЕРЫ ЎКЛЮЧАНЫ] Здымаем кінчык (першае праходжанне) від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2913999538",
+            "seen_at": "2026-10-30T01:06:15Z",
+            "url": "https://www.twitch.tv/videos/2913999538"
+          }
+        },
+        {
           "duration_min": 445,
           "ended_at": "2026-10-29T00:50:18Z",
           "game": "Valheim",
@@ -4197,44 +4212,29 @@
             "seen_at": "2026-10-08T04:56:17Z",
             "url": "https://www.twitch.tv/videos/2894395152"
           }
-        },
-        {
-          "duration_min": 560,
-          "ended_at": "2026-10-07T03:50:14Z",
-          "game": "Waterpark Simulator",
-          "source": "vod",
-          "started_at": "2026-10-06T18:30:44Z",
-          "stream_id": "318905107814",
-          "title": "Аквавечарына від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2893617385",
-            "seen_at": "2026-10-07T04:00:09Z",
-            "url": "https://www.twitch.tv/videos/2893617385"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 445,
-        "ended_at": "2026-10-29T00:50:18Z",
-        "game": "Valheim",
+        "duration_min": 558,
+        "ended_at": "2026-10-30T01:04:40Z",
+        "game": "Outlast",
         "source": "vod",
-        "started_at": "2026-10-28T17:25:38Z",
-        "stream_id": "319120643429",
-        "title": "Паплылі від Іринка подруга",
+        "started_at": "2026-10-29T15:46:30Z",
+        "stream_id": "317204390996",
+        "title": "[СКРЫМЕРЫ ЎКЛЮЧАНЫ] Здымаем кінчык (першае праходжанне) від Іринка подруга",
         "vod": {
           "gone": false,
-          "id": "2913190483",
-          "seen_at": "2026-10-29T00:50:39Z",
-          "url": "https://www.twitch.tv/videos/2913190483"
+          "id": "2913999538",
+          "seen_at": "2026-10-30T01:06:15Z",
+          "url": "https://www.twitch.tv/videos/2913999538"
         }
       },
       "live": {
-        "game": "Outlast",
-        "since": "2026-10-29T15:46:30Z",
-        "stream_id": "317204390996",
-        "title": "[СКРЫМЕРЫ ЎКЛЮЧАНЫ] Здымаем кінчык (першае праходжанне) від Іринка подруга",
-        "viewers": 16
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -4997,5 +4997,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-30T01:00:40Z"
+  "updated_at": "2026-10-30T01:06:13Z"
 }
