@@ -6,6 +6,21 @@
       "display_name": "AngryRalef",
       "history": [
         {
+          "duration_min": 222,
+          "ended_at": "2026-10-30T12:58:11Z",
+          "game": "Games + Demos",
+          "source": "vod",
+          "started_at": "2026-10-30T09:15:45Z",
+          "stream_id": "317161292246",
+          "title": "2d Сайлэнт Хілл у змрочным фэнтэзі. Fear & Hunger",
+          "vod": {
+            "gone": false,
+            "id": "2914686935",
+            "seen_at": "2026-10-30T12:59:44Z",
+            "url": "https://www.twitch.tv/videos/2914686935"
+          }
+        },
+        {
           "duration_min": 223,
           "ended_at": "2026-10-29T12:54:44Z",
           "game": "Cthulhu Saves the World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD – Premium Enhanced Game of the Year Collector’s Edition (without Avatars!)",
@@ -289,44 +304,29 @@
             "seen_at": "2026-10-07T11:40:13Z",
             "url": "https://www.twitch.tv/videos/2894129921"
           }
-        },
-        {
-          "duration_min": 242,
-          "ended_at": "2026-10-06T12:06:37Z",
-          "game": "Control",
-          "source": "vod",
-          "started_at": "2026-10-06T08:04:35Z",
-          "stream_id": "316974284501",
-          "title": "Дапаўненне з гісторыяй заснавання Бюро. Control",
-          "vod": {
-            "gone": false,
-            "id": "2893269824",
-            "seen_at": "2026-10-06T12:35:40Z",
-            "url": "https://www.twitch.tv/videos/2893269824"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 223,
-        "ended_at": "2026-10-29T12:54:44Z",
-        "game": "Cthulhu Saves the World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD – Premium Enhanced Game of the Year Collector’s Edition (without Avatars!)",
+        "duration_min": 222,
+        "ended_at": "2026-10-30T12:58:11Z",
+        "game": "Games + Demos",
         "source": "vod",
-        "started_at": "2026-10-29T09:11:30Z",
-        "stream_id": "319187107430",
-        "title": "Так. Гэта яна. Cthulhu Saves The World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD – Premium... стаміўся",
+        "started_at": "2026-10-30T09:15:45Z",
+        "stream_id": "317161292246",
+        "title": "2d Сайлэнт Хілл у змрочным фэнтэзі. Fear & Hunger",
         "vod": {
           "gone": false,
-          "id": "2913802027",
-          "seen_at": "2026-10-29T12:56:22Z",
-          "url": "https://www.twitch.tv/videos/2913802027"
+          "id": "2914686935",
+          "seen_at": "2026-10-30T12:59:44Z",
+          "url": "https://www.twitch.tv/videos/2914686935"
         }
       },
       "live": {
-        "game": "Games + Demos",
-        "since": "2026-10-30T09:15:45Z",
-        "stream_id": "317161292246",
-        "title": "2d Сайлэнт Хілл у змрочным фэнтэзі. Fear & Hunger",
-        "viewers": 24
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -3570,7 +3570,7 @@
         "since": "2026-10-30T07:54:03Z",
         "stream_id": "319139745509",
         "title": "Беларускі кантэнт — хутка навіны пра праэкт",
-        "viewers": 1
+        "viewers": 6
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/4e25efe0-6f98-4fc3-9fce-ca2d63c9fcf9-profile_image-300x300.png",
@@ -4997,5 +4997,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-30T12:50:38Z"
+  "updated_at": "2026-10-30T12:59:44Z"
 }
