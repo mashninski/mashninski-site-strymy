@@ -986,18 +986,7 @@
           "2026-10-01": 228
         }
       },
-      "in_progress": {
-        "categories": [
-          {
-            "game": "The Witcher 3: Wild Hunt",
-            "sec": 355
-          }
-        ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,0,0,355,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-30T09:10:37Z",
-        "started_at": "2026-10-30T09:04:42Z",
-        "stream_id": "319140155621"
-      },
+      "in_progress": null,
       "monthly": {
         "2026-09": {
           "categories": {
@@ -1057,16 +1046,27 @@
               "minutes": 2037
             },
             "The Witcher 3: Wild Hunt": {
-              "launches": 5,
-              "minutes": 832
+              "launches": 6,
+              "minutes": 838
             }
           },
-          "hours": [0,0,0,0,0,0,0,0,0,6,573,997,1210,1087,303,32,0,0,0,0,0,60,60,34],
-          "launches": 23,
-          "minutes": 4359
+          "hours": [0,0,0,0,0,0,0,0,0,6,573,997,1216,1087,303,32,0,0,0,0,0,60,60,34],
+          "launches": 24,
+          "minutes": 4365
         }
       },
       "recent_sessions": [
+        {
+          "categories": [
+            {
+              "game": "The Witcher 3: Wild Hunt",
+              "minutes": 6
+            }
+          ],
+          "ended_at": "2026-10-30T09:10:30Z",
+          "hours": [0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0],
+          "started_at": "2026-10-30T09:04:42Z"
+        },
         {
           "categories": [
             {
@@ -3618,11 +3618,11 @@
         "categories": [
           {
             "game": "Just Chatting",
-            "sec": 4594
+            "sec": 4682
           }
         ],
-        "hours_sec": [0,0,0,0,0,0,0,0,0,0,357,3600,637,0,0,0,0,0,0,0,0,0,0,0],
-        "last_seen_at": "2026-10-30T09:10:37Z",
+        "hours_sec": [0,0,0,0,0,0,0,0,0,0,357,3600,725,0,0,0,0,0,0,0,0,0,0,0],
+        "last_seen_at": "2026-10-30T09:12:05Z",
         "started_at": "2026-10-30T07:54:03Z",
         "stream_id": "319139745509"
       },
@@ -5826,5 +5826,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-30T09:10:37Z"
+  "updated_at": "2026-10-30T09:12:05Z"
 }
