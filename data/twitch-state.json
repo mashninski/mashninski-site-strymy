@@ -2176,7 +2176,7 @@
         "since": "2026-10-30T20:53:00Z",
         "stream_id": "319014276327",
         "title": "BEL п'яны роблакс",
-        "viewers": 3
+        "viewers": 11
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-09-03T10:48:48Z",
@@ -3021,7 +3021,7 @@
         "since": "2026-10-30T17:43:42Z",
         "stream_id": "316274677226",
         "title": "Творчы вечар | Пішам лор і чылім",
-        "viewers": 3
+        "viewers": 2
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/805982e1-6bc8-46b9-a2f2-3c215142d613-profile_image-300x300.png",
@@ -3032,6 +3032,21 @@
       "description": "Штодзённыя стрымы - маляванне і гульні. Утульнасць, дзіўныя казкі, дранікі. Ніякага \"ші\".",
       "display_name": "Nine_Ravens_Cemetery",
       "history": [
+        {
+          "duration_min": 133,
+          "ended_at": "2026-10-30T21:12:57Z",
+          "game": "Just Chatting",
+          "source": "vod",
+          "started_at": "2026-10-30T19:00:06Z",
+          "stream_id": "319146084197",
+          "title": "\"Армія цемры\" 1992",
+          "vod": {
+            "gone": false,
+            "id": "2915042069",
+            "seen_at": "2026-10-30T21:14:34Z",
+            "url": "https://www.twitch.tv/videos/2915042069"
+          }
+        },
         {
           "duration_min": 125,
           "ended_at": "2026-10-29T20:59:25Z",
@@ -3316,44 +3331,29 @@
             "seen_at": "2026-10-12T20:04:59Z",
             "url": "https://www.twitch.tv/videos/2898986108"
           }
-        },
-        {
-          "duration_min": 130,
-          "ended_at": "2026-10-11T20:09:30Z",
-          "game": "Thief: Deadly Shadows",
-          "source": "vod",
-          "started_at": "2026-10-11T17:59:58Z",
-          "stream_id": "318967135974",
-          "title": "За кратамі",
-          "vod": {
-            "gone": false,
-            "id": "2898119512",
-            "seen_at": "2026-10-11T20:11:10Z",
-            "url": "https://www.twitch.tv/videos/2898119512"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 125,
-        "ended_at": "2026-10-29T20:59:25Z",
-        "game": "Art",
+        "duration_min": 133,
+        "ended_at": "2026-10-30T21:12:57Z",
+        "game": "Just Chatting",
         "source": "vod",
-        "started_at": "2026-10-29T18:54:14Z",
-        "stream_id": "318999344871",
-        "title": "Віна павучок",
+        "started_at": "2026-10-30T19:00:06Z",
+        "stream_id": "319146084197",
+        "title": "\"Армія цемры\" 1992",
         "vod": {
           "gone": false,
-          "id": "2914145289",
-          "seen_at": "2026-10-29T21:01:08Z",
-          "url": "https://www.twitch.tv/videos/2914145289"
+          "id": "2915042069",
+          "seen_at": "2026-10-30T21:14:34Z",
+          "url": "https://www.twitch.tv/videos/2915042069"
         }
       },
       "live": {
-        "game": "Just Chatting",
-        "since": "2026-10-30T19:00:06Z",
-        "stream_id": "319146084197",
-        "title": "\"Армія цемры\" 1992",
-        "viewers": 11
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4244,7 +4244,7 @@
         "since": "2026-10-30T14:47:19Z",
         "stream_id": "317163178966",
         "title": "Вядзьмара выклікалі? від Іринка подруга",
-        "viewers": 9
+        "viewers": 7
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5007,5 +5007,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-30T21:10:39Z"
+  "updated_at": "2026-10-30T21:14:33Z"
 }
