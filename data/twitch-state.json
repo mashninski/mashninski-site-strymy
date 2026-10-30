@@ -2176,7 +2176,7 @@
         "since": "2026-10-30T20:53:00Z",
         "stream_id": "319014276327",
         "title": "BEL п'яны роблакс",
-        "viewers": 7
+        "viewers": 5
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-09-03T10:48:48Z",
@@ -2941,6 +2941,16 @@
       "display_name": "mx_oda",
       "history": [
         {
+          "duration_min": 247,
+          "ended_at": "2026-10-30T21:50:42Z",
+          "game": "Writing & Reading",
+          "source": "observed",
+          "started_at": "2026-10-30T17:43:42Z",
+          "stream_id": "316274677226",
+          "title": "Творчы вечар | Пішам лор і чылім",
+          "vod": null
+        },
+        {
           "duration_min": 189,
           "ended_at": "2026-10-29T21:14:34Z",
           "game": "The Stanley Parable: Ultra Deluxe",
@@ -3002,26 +3012,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 189,
-        "ended_at": "2026-10-29T21:14:34Z",
-        "game": "The Stanley Parable: Ultra Deluxe",
-        "source": "vod",
-        "started_at": "2026-10-29T18:05:10Z",
-        "stream_id": "316208455144",
-        "title": "Гульнявы вечар | The Stanley Parable",
-        "vod": {
-          "gone": false,
-          "id": "2914106126",
-          "seen_at": "2026-10-30T13:50:38Z",
-          "url": "https://www.twitch.tv/videos/2914106126"
-        }
-      },
-      "live": {
+        "duration_min": 247,
+        "ended_at": "2026-10-30T21:50:42Z",
         "game": "Writing & Reading",
-        "since": "2026-10-30T17:43:42Z",
+        "source": "observed",
+        "started_at": "2026-10-30T17:43:42Z",
         "stream_id": "316274677226",
         "title": "Творчы вечар | Пішам лор і чылім",
-        "viewers": 2
+        "vod": null
+      },
+      "live": {
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/805982e1-6bc8-46b9-a2f2-3c215142d613-profile_image-300x300.png",
@@ -5007,5 +5012,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-30T21:40:38Z"
+  "updated_at": "2026-10-30T21:50:42Z"
 }
