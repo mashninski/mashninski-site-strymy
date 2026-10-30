@@ -2941,14 +2941,19 @@
       "display_name": "mx_oda",
       "history": [
         {
-          "duration_min": 191,
-          "ended_at": "2026-10-29T21:16:29Z",
+          "duration_min": 189,
+          "ended_at": "2026-10-29T21:14:34Z",
           "game": "The Stanley Parable: Ultra Deluxe",
-          "source": "observed",
+          "source": "vod",
           "started_at": "2026-10-29T18:05:10Z",
           "stream_id": "316208455144",
           "title": "Гульнявы вечар | The Stanley Parable",
-          "vod": null
+          "vod": {
+            "gone": false,
+            "id": "2914106126",
+            "seen_at": "2026-10-30T13:50:38Z",
+            "url": "https://www.twitch.tv/videos/2914106126"
+          }
         },
         {
           "duration_min": 276,
@@ -2997,14 +3002,19 @@
         }
       ],
       "last_stream": {
-        "duration_min": 191,
-        "ended_at": "2026-10-29T21:16:29Z",
+        "duration_min": 189,
+        "ended_at": "2026-10-29T21:14:34Z",
         "game": "The Stanley Parable: Ultra Deluxe",
-        "source": "observed",
+        "source": "vod",
         "started_at": "2026-10-29T18:05:10Z",
         "stream_id": "316208455144",
         "title": "Гульнявы вечар | The Stanley Parable",
-        "vod": null
+        "vod": {
+          "gone": false,
+          "id": "2914106126",
+          "seen_at": "2026-10-30T13:50:38Z",
+          "url": "https://www.twitch.tv/videos/2914106126"
+        }
       },
       "live": {
         "game": null,
@@ -4997,5 +5007,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-30T13:20:37Z"
+  "updated_at": "2026-10-30T13:50:38Z"
 }
