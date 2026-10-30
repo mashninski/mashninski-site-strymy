@@ -326,7 +326,7 @@
         "since": "2026-10-30T09:15:45Z",
         "stream_id": "317161292246",
         "title": "2d Сайлэнт Хілл у змрочным фэнтэзі. Fear & Hunger",
-        "viewers": 0
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/db97a564-2201-4789-88e1-703907cdc51d-profile_image-300x300.png",
@@ -1105,6 +1105,21 @@
       "history": [
         {
           "duration_min": 6,
+          "ended_at": "2026-10-30T09:18:46Z",
+          "game": "The Witcher 3: Wild Hunt",
+          "source": "vod",
+          "started_at": "2026-10-30T09:12:27Z",
+          "stream_id": "319005408615",
+          "title": "#16 Задачы і сюжэт Навіграда і Велена закрылі. Рэжым бадзягі \"ON\" | The Witcher 3 беларуская мова",
+          "vod": {
+            "gone": false,
+            "id": "2914685808",
+            "seen_at": "2026-10-30T09:20:20Z",
+            "url": "https://www.twitch.tv/videos/2914685808"
+          }
+        },
+        {
+          "duration_min": 6,
           "ended_at": "2026-10-30T09:10:30Z",
           "game": "The Witcher 3: Wild Hunt",
           "source": "vod",
@@ -1387,44 +1402,29 @@
             "seen_at": "2026-10-08T11:20:33Z",
             "url": "https://www.twitch.tv/videos/2894971735"
           }
-        },
-        {
-          "duration_min": 178,
-          "ended_at": "2026-10-07T11:08:25Z",
-          "game": "Crysis 2",
-          "source": "vod",
-          "started_at": "2026-10-07T08:10:17Z",
-          "stream_id": "318717533543",
-          "title": "2# Алькатраз vs. Прарок | Crysis 2 беларуская мова",
-          "vod": {
-            "gone": false,
-            "id": "2894130127",
-            "seen_at": "2026-10-07T11:10:01Z",
-            "url": "https://www.twitch.tv/videos/2894130127"
-          }
         }
       ],
       "last_stream": {
         "duration_min": 6,
-        "ended_at": "2026-10-30T09:10:30Z",
+        "ended_at": "2026-10-30T09:18:46Z",
         "game": "The Witcher 3: Wild Hunt",
         "source": "vod",
-        "started_at": "2026-10-30T09:04:42Z",
-        "stream_id": "319140155621",
+        "started_at": "2026-10-30T09:12:27Z",
+        "stream_id": "319005408615",
         "title": "#16 Задачы і сюжэт Навіграда і Велена закрылі. Рэжым бадзягі \"ON\" | The Witcher 3 беларуская мова",
         "vod": {
           "gone": false,
-          "id": "2914683187",
-          "seen_at": "2026-10-30T09:12:05Z",
-          "url": "https://www.twitch.tv/videos/2914683187"
+          "id": "2914685808",
+          "seen_at": "2026-10-30T09:20:20Z",
+          "url": "https://www.twitch.tv/videos/2914685808"
         }
       },
       "live": {
-        "game": "The Witcher 3: Wild Hunt",
-        "since": "2026-10-30T09:12:27Z",
-        "stream_id": "319005408615",
-        "title": "#16 Задачы і сюжэт Навіграда і Велена закрылі. Рэжым бадзягі \"ON\" | The Witcher 3 беларуская мова",
-        "viewers": 4
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/34a46502-eb2d-49fd-b83f-ac087ff7ba9e-profile_image-300x300.png",
@@ -4997,5 +4997,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-30T09:16:17Z"
+  "updated_at": "2026-10-30T09:20:20Z"
 }
