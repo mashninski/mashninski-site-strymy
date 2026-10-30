@@ -2141,6 +2141,21 @@
       "display_name": "lilzorka_",
       "history": [
         {
+          "duration_min": 147,
+          "ended_at": "2026-10-30T23:19:55Z",
+          "game": "ROBLOX",
+          "source": "vod",
+          "started_at": "2026-10-30T20:53:00Z",
+          "stream_id": "319014276327",
+          "title": "BEL п'яны роблакс",
+          "vod": {
+            "gone": false,
+            "id": "2915141089",
+            "seen_at": "2026-10-30T23:21:23Z",
+            "url": "https://www.twitch.tv/videos/2915141089"
+          }
+        },
+        {
           "duration_min": 107,
           "ended_at": "2026-10-21T09:50:03Z",
           "game": "ROBLOX",
@@ -2157,26 +2172,26 @@
         }
       ],
       "last_stream": {
-        "duration_min": 107,
-        "ended_at": "2026-10-21T09:50:03Z",
+        "duration_min": 147,
+        "ended_at": "2026-10-30T23:19:55Z",
         "game": "ROBLOX",
         "source": "vod",
-        "started_at": "2026-10-21T08:03:14Z",
-        "stream_id": "318889665511",
-        "title": "BEL дэградацыя",
+        "started_at": "2026-10-30T20:53:00Z",
+        "stream_id": "319014276327",
+        "title": "BEL п'яны роблакс",
         "vod": {
           "gone": false,
-          "id": "2906615977",
-          "seen_at": "2026-10-21T09:50:32Z",
-          "url": "https://www.twitch.tv/videos/2906615977"
+          "id": "2915141089",
+          "seen_at": "2026-10-30T23:21:23Z",
+          "url": "https://www.twitch.tv/videos/2915141089"
         }
       },
       "live": {
-        "game": "ROBLOX",
-        "since": "2026-10-30T20:53:00Z",
-        "stream_id": "319014276327",
-        "title": "BEL п'яны роблакс",
-        "viewers": 3
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "prev_broadcast_at": "2026-09-03T10:48:48Z",
@@ -4249,7 +4264,7 @@
         "since": "2026-10-30T14:47:19Z",
         "stream_id": "317163178966",
         "title": "Ну вікінгі від Іринка подруга",
-        "viewers": 17
+        "viewers": 15
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5012,5 +5027,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-30T23:10:45Z"
+  "updated_at": "2026-10-30T23:21:23Z"
 }
