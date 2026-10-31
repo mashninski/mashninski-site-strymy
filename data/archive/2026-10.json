@@ -2506,6 +2506,10 @@
           "launches": 4,
           "minutes": 1174
         },
+        "The Wolf Among Us Remastered": {
+          "launches": 1,
+          "minutes": 20
+        },
         "UNFROST": {
           "launches": 1,
           "minutes": 87
@@ -2522,9 +2526,9 @@
       "display_name": "watafakablr",
       "followers_end": null,
       "followers_start": 466,
-      "hours": [406,77,0,0,0,0,0,0,0,0,171,312,397,298,187,208,297,393,728,1294,1426,1389,1326,974],
-      "launches": 33,
-      "minutes": 9884,
+      "hours": [406,77,0,0,0,0,0,0,0,0,171,312,397,298,187,208,297,393,728,1314,1426,1389,1326,974],
+      "launches": 34,
+      "minutes": 9904,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-27T20:18:21Z",
       "sessions": [
@@ -2692,9 +2696,14 @@
           "duration_min": 321,
           "ended_at": "2026-10-31T14:09:24Z",
           "started_at": "2026-10-31T08:48:06Z"
+        },
+        {
+          "duration_min": 20,
+          "ended_at": "2026-10-31T16:25:04Z",
+          "started_at": "2026-10-31T16:04:54Z"
         }
       ]
     }
   },
-  "updated_at": "2026-10-31T14:09:24Z"
+  "updated_at": "2026-10-31T16:26:19Z"
 }
