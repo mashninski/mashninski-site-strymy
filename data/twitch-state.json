@@ -658,7 +658,7 @@
         "since": "2026-10-31T17:25:35Z",
         "stream_id": "319025492199",
         "title": "Будуем Свабоду з калючым дротам ды вышкамі з аўтаматчыкамі))",
-        "viewers": 1
+        "viewers": 2
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/e6f85ccf-8f12-43f4-90e3-1e1cf95ab956-profile_image-300x300.jpeg",
@@ -965,7 +965,7 @@
         "since": "2026-10-31T18:32:23Z",
         "stream_id": "319157747045",
         "title": "Хэллоўінаўскі кінпрагляд 🎃 | «Зброя» 2025",
-        "viewers": 2
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -2245,6 +2245,21 @@
       "display_name": "mashninski",
       "history": [
         {
+          "duration_min": 324,
+          "ended_at": "2026-10-31T20:36:05Z",
+          "game": "ELDEN RING",
+          "source": "vod",
+          "started_at": "2026-10-31T15:11:35Z",
+          "stream_id": "319216148326",
+          "title": "Таямнічыя сэнсы OVER THE GARDEN WALL",
+          "vod": {
+            "gone": false,
+            "id": "2915811616",
+            "seen_at": "2026-10-31T20:37:41Z",
+            "url": "https://www.twitch.tv/videos/2915811616"
+          }
+        },
+        {
           "duration_min": 247,
           "ended_at": "2026-10-29T17:16:34Z",
           "game": "The Witcher 3: Wild Hunt Remastered",
@@ -2528,44 +2543,29 @@
             "seen_at": "2026-10-07T19:57:33Z",
             "url": "https://www.twitch.tv/videos/2894395382"
           }
-        },
-        {
-          "duration_min": 164,
-          "ended_at": "2026-10-06T16:16:43Z",
-          "game": "The Witcher 3: Wild Hunt",
-          "source": "vod",
-          "started_at": "2026-10-06T13:32:55Z",
-          "stream_id": "318901024102",
-          "title": "Тлусты лысы аб'юзер скардзіцца за жыццё, без рэгістрацыі",
-          "vod": {
-            "gone": false,
-            "id": "2893403497",
-            "seen_at": "2026-10-06T16:22:55Z",
-            "url": "https://www.twitch.tv/videos/2893403497"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 247,
-        "ended_at": "2026-10-29T17:16:34Z",
-        "game": "The Witcher 3: Wild Hunt Remastered",
+        "duration_min": 324,
+        "ended_at": "2026-10-31T20:36:05Z",
+        "game": "ELDEN RING",
         "source": "vod",
-        "started_at": "2026-10-29T13:09:34Z",
-        "stream_id": "319188805350",
-        "title": "Белы сабака і Аксенфурт",
+        "started_at": "2026-10-31T15:11:35Z",
+        "stream_id": "319216148326",
+        "title": "Таямнічыя сэнсы OVER THE GARDEN WALL",
         "vod": {
           "gone": false,
-          "id": "2913904380",
-          "seen_at": "2026-10-29T17:18:16Z",
-          "url": "https://www.twitch.tv/videos/2913904380"
+          "id": "2915811616",
+          "seen_at": "2026-10-31T20:37:41Z",
+          "url": "https://www.twitch.tv/videos/2915811616"
         }
       },
       "live": {
-        "game": "ELDEN RING",
-        "since": "2026-10-31T15:11:35Z",
-        "stream_id": "319216148326",
-        "title": "Таямнічыя сэнсы OVER THE GARDEN WALL",
-        "viewers": 9
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/c313407c-474f-482c-b17c-3dbc517d4f19-profile_image-300x300.png",
@@ -3378,7 +3378,7 @@
         "since": "2026-10-31T19:00:06Z",
         "stream_id": "317220108244",
         "title": "Калі хорар кожны дзень - лагічна на хэлавін запусціць не хорар",
-        "viewers": 8
+        "viewers": 9
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/242ee6ba-23dc-4c4a-9b98-f5c45293cb5e-profile_image-300x300.png",
@@ -4269,7 +4269,7 @@
         "since": "2026-10-31T19:10:08Z",
         "stream_id": "317138815957",
         "title": "Бясстрашны кот у справе! від Іринка подруга",
-        "viewers": 9
+        "viewers": 7
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5027,5 +5027,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-31T20:30:39Z"
+  "updated_at": "2026-10-31T20:37:41Z"
 }
