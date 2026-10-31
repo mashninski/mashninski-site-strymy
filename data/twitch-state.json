@@ -670,6 +670,16 @@
       "display_name": "Bel_Asch",
       "history": [
         {
+          "duration_min": 5,
+          "ended_at": "2026-10-31T18:32:23Z",
+          "game": "Just Chatting",
+          "source": "observed",
+          "started_at": "2026-10-31T18:27:49Z",
+          "stream_id": "319157680741",
+          "title": "Хэллоўінаўскі кінпрагляд 🎃 | «Зброя» 2025",
+          "vod": null
+        },
+        {
           "duration_min": 202,
           "ended_at": "2026-10-23T18:08:01Z",
           "game": "Silent Hill: Shattered Memories",
@@ -941,26 +951,21 @@
         }
       ],
       "last_stream": {
-        "duration_min": 202,
-        "ended_at": "2026-10-23T18:08:01Z",
-        "game": "Silent Hill: Shattered Memories",
-        "source": "vod",
-        "started_at": "2026-10-23T14:45:33Z",
-        "stream_id": "319055769573",
-        "title": "Шукаем Шэрыл 🔦 | Silent Hill: Shattered Memories (Wii ver)",
-        "vod": {
-          "gone": false,
-          "id": "2908543520",
-          "seen_at": "2026-10-23T18:09:38Z",
-          "url": "https://www.twitch.tv/videos/2908543520"
-        }
+        "duration_min": 5,
+        "ended_at": "2026-10-31T18:32:23Z",
+        "game": "Just Chatting",
+        "source": "observed",
+        "started_at": "2026-10-31T18:27:49Z",
+        "stream_id": "319157680741",
+        "title": "Хэллоўінаўскі кінпрагляд 🎃 | «Зброя» 2025",
+        "vod": null
       },
       "live": {
         "game": "Just Chatting",
-        "since": "2026-10-31T18:27:49Z",
-        "stream_id": "319157680741",
+        "since": "2026-10-31T18:32:23Z",
+        "stream_id": "319157747045",
         "title": "Хэллоўінаўскі кінпрагляд 🎃 | «Зброя» 2025",
-        "viewers": 0
+        "viewers": 1
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6cbe77c-dfc8-48ef-9775-ed4b867e195f-profile_image-300x300.png",
@@ -5022,5 +5027,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-31T18:30:41Z"
+  "updated_at": "2026-10-31T18:33:29Z"
 }

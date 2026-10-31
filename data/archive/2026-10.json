@@ -359,6 +359,10 @@
           "launches": 4,
           "minutes": 614
         },
+        "Just Chatting": {
+          "launches": 1,
+          "minutes": 5
+        },
         "Silent Hill: Shattered Memories": {
           "launches": 2,
           "minutes": 413
@@ -371,9 +375,9 @@
       "display_name": "Bel_Asch",
       "followers_end": null,
       "followers_start": 207,
-      "hours": [19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,118,240,256,291,281,226,163],
-      "launches": 11,
-      "minutes": 1622,
+      "hours": [19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,118,240,256,291,286,226,163],
+      "launches": 12,
+      "minutes": 1627,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-09-28T19:35:58Z",
       "sessions": [
@@ -431,6 +435,11 @@
           "duration_min": 202,
           "ended_at": "2026-10-23T18:08:01Z",
           "started_at": "2026-10-23T14:45:33Z"
+        },
+        {
+          "duration_min": 5,
+          "ended_at": "2026-10-31T18:32:23Z",
+          "started_at": "2026-10-31T18:27:49Z"
         }
       ]
     },
@@ -2705,5 +2714,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-31T16:26:19Z"
+  "updated_at": "2026-10-31T18:33:29Z"
 }
