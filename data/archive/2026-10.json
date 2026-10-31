@@ -2029,8 +2029,8 @@
           "minutes": 267
         },
         "R.E.P.O.": {
-          "launches": 2,
-          "minutes": 294
+          "launches": 3,
+          "minutes": 377
         },
         "RV There Yet?": {
           "launches": 1,
@@ -2045,12 +2045,12 @@
           "minutes": 518
         },
         "The Witcher 3: Wild Hunt Remastered": {
-          "launches": 3,
-          "minutes": 988
+          "launches": 4,
+          "minutes": 1318
         },
         "Valheim": {
-          "launches": 19,
-          "minutes": 6517
+          "launches": 20,
+          "minutes": 6809
         },
         "Waterpark Simulator": {
           "launches": 3,
@@ -2060,9 +2060,9 @@
       "display_name": "ShagraeL_BY",
       "followers_end": null,
       "followers_start": 998,
-      "hours": [1560,1560,1525,1487,1291,1200,877,358,68,0,0,0,0,0,0,0,0,0,20,282,491,1063,1482,1560],
-      "launches": 26,
-      "minutes": 14824,
+      "hours": [1620,1620,1585,1547,1351,1233,877,358,68,0,0,0,0,0,0,0,0,13,80,342,551,1123,1542,1620],
+      "launches": 27,
+      "minutes": 15530,
       "prev_broadcast_at": null,
       "prev_ended_at": "2026-10-01T01:57:14Z",
       "sessions": [
@@ -2195,6 +2195,11 @@
           "duration_min": 558,
           "ended_at": "2026-10-30T01:04:40Z",
           "started_at": "2026-10-29T15:46:30Z"
+        },
+        {
+          "duration_min": 706,
+          "ended_at": "2026-10-31T02:33:19Z",
+          "started_at": "2026-10-30T14:47:19Z"
         }
       ]
     },
@@ -2686,5 +2691,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-30T23:21:23Z"
+  "updated_at": "2026-10-31T02:35:01Z"
 }

@@ -3944,6 +3944,21 @@
       "display_name": "ShagraeL_BY",
       "history": [
         {
+          "duration_min": 706,
+          "ended_at": "2026-10-31T02:33:19Z",
+          "game": "Valheim",
+          "source": "vod",
+          "started_at": "2026-10-30T14:47:19Z",
+          "stream_id": "317163178966",
+          "title": "Ну вікінгі від Іринка подруга",
+          "vod": {
+            "gone": false,
+            "id": "2914848836",
+            "seen_at": "2026-10-31T02:35:02Z",
+            "url": "https://www.twitch.tv/videos/2914848836"
+          }
+        },
+        {
           "duration_min": 558,
           "ended_at": "2026-10-30T01:04:40Z",
           "game": "Outlast",
@@ -4227,44 +4242,29 @@
             "seen_at": "2026-10-09T03:53:21Z",
             "url": "https://www.twitch.tv/videos/2895224552"
           }
-        },
-        {
-          "duration_min": 722,
-          "ended_at": "2026-10-08T04:54:13Z",
-          "game": "Valheim",
-          "source": "vod",
-          "started_at": "2026-10-07T16:52:32Z",
-          "stream_id": "318860435557",
-          "title": "Ніхто не чакаў, але зноў мы тут від Іринка подруга",
-          "vod": {
-            "gone": false,
-            "id": "2894395152",
-            "seen_at": "2026-10-08T04:56:17Z",
-            "url": "https://www.twitch.tv/videos/2894395152"
-          }
         }
       ],
       "last_stream": {
-        "duration_min": 558,
-        "ended_at": "2026-10-30T01:04:40Z",
-        "game": "Outlast",
+        "duration_min": 706,
+        "ended_at": "2026-10-31T02:33:19Z",
+        "game": "Valheim",
         "source": "vod",
-        "started_at": "2026-10-29T15:46:30Z",
-        "stream_id": "317204390996",
-        "title": "[СКРЫМЕРЫ ЎКЛЮЧАНЫ] Здымаем кінчык (першае праходжанне) від Іринка подруга",
+        "started_at": "2026-10-30T14:47:19Z",
+        "stream_id": "317163178966",
+        "title": "Ну вікінгі від Іринка подруга",
         "vod": {
           "gone": false,
-          "id": "2913999538",
-          "seen_at": "2026-10-30T01:06:15Z",
-          "url": "https://www.twitch.tv/videos/2913999538"
+          "id": "2914848836",
+          "seen_at": "2026-10-31T02:35:02Z",
+          "url": "https://www.twitch.tv/videos/2914848836"
         }
       },
       "live": {
-        "game": "Valheim",
-        "since": "2026-10-30T14:47:19Z",
-        "stream_id": "317163178966",
-        "title": "Ну вікінгі від Іринка подруга",
-        "viewers": 13
+        "game": null,
+        "since": null,
+        "stream_id": null,
+        "title": null,
+        "viewers": null
       },
       "missing_runs": 0,
       "profile_image_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/11188f41-2c6e-4943-ac26-61949d8c42fe-profile_image-300x300.png",
@@ -5027,5 +5027,5 @@
       "user_id": "948421675"
     }
   },
-  "updated_at": "2026-10-31T02:30:40Z"
+  "updated_at": "2026-10-31T02:35:01Z"
 }
